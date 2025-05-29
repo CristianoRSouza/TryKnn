@@ -1,0 +1,6658 @@
+[
+  {
+    "id": 0,
+    "name": "KNN AGUAI",
+    "status": "INAUGURADA",
+    "address": "RUA JOAQUIM JOSE, 197 - CENTRO",
+    "city": "AGUAÍ",
+    "state": "SP",
+    "cep": "13860011",
+    "phone": "1936521323",
+    "email": "aguai@knnidiomas.com.br",
+    "cnpj": "46724023000140",
+    "coordinates": {
+      "lat": -22.0590774,
+      "lng": -46.9797702
+    }
+  },
+  {
+    "id": 1,
+    "name": "KNN AGUAS DE LINDOIA",
+    "status": "INAUGURADA",
+    "address": "RUA ALAGOAS, 44 - CENTRO",
+    "city": "ÁGUAS DE LINDÓIA",
+    "state": "SP",
+    "cep": "13940000",
+    "phone": "1938244007",
+    "email": "aguasdelindoia@knnidiomas.com.br",
+    "cnpj": "40647476000133",
+    "coordinates": {
+      "lat": -22.4751193,
+      "lng": -46.63122389999999
+    }
+  },
+  {
+    "id": 2,
+    "name": "KNN ALPINOPOLIS",
+    "status": "INAUGURADA",
+    "address": "Rua Professor Telles, 23 - Centro",
+    "city": "ALPINÓPOLIS",
+    "state": "MG",
+    "cep": "37940000",
+    "phone": "3534300321",
+    "email": "alpinopolis@knnidiomas.com.br",
+    "cnpj": "31264200000266",
+    "coordinates": {
+      "lat": -20.8642959,
+      "lng": -46.3887715
+    }
+  },
+  {
+    "id": 3,
+    "name": "KNN ALTA FLORESTA",
+    "status": "INAUGURADA",
+    "address": "Avenida Senador Julio Jose de Campos, 646 - Setor Industrial",
+    "city": "ALTA FLORESTA",
+    "state": "MT",
+    "cep": "78580000",
+    "phone": "6635213269",
+    "email": "altafloresta@knnidiomas.com.br",
+    "cnpj": "44364732000136",
+    "coordinates": {
+      "lat": -9.865922399999999,
+      "lng": -56.0792278
+    }
+  },
+  {
+    "id": 4,
+    "name": "KNN ALTINOPOLIS",
+    "status": "INAUGURADA",
+    "address": "RUA DONA MARIA TERESA, 190 - CENTRO",
+    "city": "ALTINÓPOLIS",
+    "state": "SP",
+    "cep": "14350000",
+    "phone": "1636653592",
+    "email": "altinopolis@knnidiomas.com.br",
+    "cnpj": "43334151000199",
+    "coordinates": {
+      "lat": -23.5406338,
+      "lng": -46.6320967
+    }
+  },
+  {
+    "id": 5,
+    "name": "KNN AMAMBAI",
+    "status": "INAUGURADA",
+    "address": "RUA CASTELO BRANCO, 1072 - CENTRO",
+    "city": "AMAMBAI",
+    "state": "MS",
+    "cep": "79990000",
+    "phone": "67992787373",
+    "email": "amambai@knnidiomas.com.br",
+    "cnpj": "36586417000125",
+    "coordinates": {
+      "lat": -23.0960127,
+      "lng": -55.23409909999999
+    }
+  },
+  {
+    "id": 6,
+    "name": "KNN AMERICANA",
+    "status": "INAUGURADA",
+    "address": "Rua Fernando Camargo, 876 - Centro",
+    "city": "AMERICANA",
+    "state": "SP",
+    "cep": "13465020",
+    "phone": "1930133841",
+    "email": "americana@knnidiomas.com.br",
+    "cnpj": "29885549000192",
+    "coordinates": {
+      "lat": -22.7455859,
+      "lng": -47.3291435
+    }
+  },
+  {
+    "id": 7,
+    "name": "KNN AMETISTA DO SUL",
+    "status": "INAUGURADA",
+    "address": "AV BRASIL, 541 - CENTRO",
+    "city": "AMETISTA DO SUL",
+    "state": "RS",
+    "cep": "98465000",
+    "phone": "55999412149",
+    "email": "ametistadosul@knnidiomas.com.br",
+    "cnpj": "47957893000121",
+    "coordinates": {
+      "lat": -27.369475,
+      "lng": -53.1712998
+    }
+  },
+  {
+    "id": 8,
+    "name": "KNN ANAPOLIS",
+    "status": "INAUGURADA",
+    "address": "RUA CORONEL ANTONIO CRISPIM, 207 - JUNDIAI",
+    "city": "ANÁPOLIS",
+    "state": "GO",
+    "cep": "75113070",
+    "phone": "6237027748",
+    "email": "anapolis01@knnidiomas.com.br",
+    "cnpj": "10013341000155",
+    "coordinates": {
+      "lat": -16.3308837,
+      "lng": -48.9438894
+    }
+  },
+  {
+    "id": 9,
+    "name": "KNN ANAPU",
+    "status": "INAUGURADA",
+    "address": "Rua SANTA LUIZA, 117 - Imperatriz",
+    "city": "ANAPU",
+    "state": "PA",
+    "cep": "68365000",
+    "phone": "91993322577",
+    "email": "anapu@knnidiomas.com.br",
+    "cnpj": "44851824000140",
+    "coordinates": {
+      "lat": -3.4718408,
+      "lng": -51.1979842
+    }
+  },
+  {
+    "id": 10,
+    "name": "KNN ANGELICA",
+    "status": "INAUGURADA",
+    "address": "AV ESMENIA DA SILVA MARTINS, 900 - ESPLANADA",
+    "city": "ANGÉLICA",
+    "state": "MS",
+    "cep": "79785000",
+    "phone": "4491748790",
+    "email": "angelica@knnidiomas.com.br",
+    "cnpj": "29401203000252",
+    "coordinates": {
+      "lat": -22.1618295,
+      "lng": -53.77249339999999
+    }
+  },
+  {
+    "id": 11,
+    "name": "KNN ANGRA DOS REIS",
+    "status": "INAUGURADA",
+    "address": "Rua Luís Cândido, 1 - Japuíba (Cunhambebe)",
+    "city": "ANGRA DOS REIS",
+    "state": "RJ",
+    "cep": "23934110",
+    "phone": "00000000000",
+    "email": "angradosreis@knnidiomas.com.br",
+    "cnpj": "45301274000159",
+    "coordinates": {
+      "lat": -22.9742846,
+      "lng": -44.2991517
+    }
+  },
+  {
+    "id": 12,
+    "name": "KNN ANGRA DOS REIS 02",
+    "status": "INAUGURADA",
+    "address": "Rua Desembargador Altenfelder Silva, 47 - Centro",
+    "city": "ANGRA DOS REIS",
+    "state": "RJ",
+    "cep": "23900320",
+    "phone": "24988672459",
+    "email": "angradosreis02@knnidiomas.com.br",
+    "cnpj": "45301274000230",
+    "coordinates": {
+      "lat": -23.0058006,
+      "lng": -44.3175015
+    }
+  },
+  {
+    "id": 13,
+    "name": "KNN ANTONIO CARLOS SC",
+    "status": "INAUGURADA",
+    "address": "RUA JOAO HENRIQUE PAULI, 569 - CENTRO",
+    "city": "ANTÔNIO CARLOS",
+    "state": "SC",
+    "cep": "88180000",
+    "phone": "4821001171",
+    "email": "antoniocarlos@knnidiomas.com.br",
+    "cnpj": "41412839000114",
+    "coordinates": {
+      "lat": -27.5184733,
+      "lng": -48.7744175
+    }
+  },
+  {
+    "id": 14,
+    "name": "KNN ANTONIO JOAO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA JOAO NUNES, 770 - CHACARA PARQUE DOS DOURADO",
+    "city": "ANTÔNIO JOÃO",
+    "state": "MS",
+    "cep": "79910000",
+    "phone": "6793391702",
+    "email": "antoniojoao@knnidiomas.com.br",
+    "cnpj": "52539617000183",
+    "coordinates": {
+      "lat": -22.1884026,
+      "lng": -55.9511558
+    }
+  },
+  {
+    "id": 15,
+    "name": "KNN APUCARANA",
+    "status": "INAUGURADA",
+    "address": "Rua Irmã Eleutéria, 215 - Centro",
+    "city": "APUCARANA",
+    "state": "PR",
+    "cep": "86800300",
+    "phone": "43991320315",
+    "email": "apucarana@knnidiomas.com.br",
+    "cnpj": "48589458000154",
+    "coordinates": {
+      "lat": -23.5546078,
+      "lng": -51.4662906
+    }
+  },
+  {
+    "id": 16,
+    "name": "KNN ARARANGUA",
+    "status": "INAUGURADA",
+    "address": "Avenida Sete de Setembro, 2445 - Centro",
+    "city": "ARARANGUÁ",
+    "state": "SC",
+    "cep": "88900049",
+    "phone": "4831981312",
+    "email": "ararangua@knnidiomas.com.br",
+    "cnpj": "44501995000140",
+    "coordinates": {
+      "lat": -28.9302529,
+      "lng": -49.4816313
+    }
+  },
+  {
+    "id": 17,
+    "name": "KNN ARARAS",
+    "status": "INAUGURADA",
+    "address": "Rua Cândida Lacerda, 425 - Centro",
+    "city": "ARARAS",
+    "state": "SP",
+    "cep": "13600210",
+    "phone": "1931321464",
+    "email": "araras.sp@knnidiomas.com.br",
+    "cnpj": "47324741000191",
+    "coordinates": {
+      "lat": -22.3576296,
+      "lng": -47.39159859999999
+    }
+  },
+  {
+    "id": 18,
+    "name": "KNN ARAUCARIA",
+    "status": "INAUGURADA",
+    "address": "AV DOUTOR VICTOR DO AMARAL, 1455 - CENTRO",
+    "city": "ARAUCÁRIA",
+    "state": "PR",
+    "cep": "83702040",
+    "phone": "4136426637",
+    "email": "araucaria@knnidiomas.com.br",
+    "cnpj": "26376565000161",
+    "coordinates": {
+      "lat": -25.5839007,
+      "lng": -49.3981268
+    }
+  },
+  {
+    "id": 19,
+    "name": "KNN ARAXA",
+    "status": "INAUGURADA",
+    "address": "Rua Carvalho Lopes, 215 - Centro",
+    "city": "ARAXÁ",
+    "state": "MG",
+    "cep": "38183075",
+    "phone": "3436129667",
+    "email": "araxa@knnidiomas.com.br",
+    "cnpj": "20627028000160",
+    "coordinates": {
+      "lat": -19.5907461,
+      "lng": -46.9420878
+    }
+  },
+  {
+    "id": 20,
+    "name": "KNN ARICANDUVA",
+    "status": "INAUGURADA",
+    "address": "Rua Nossa Senhora Aparecida, 63 - Centro",
+    "city": "ARICANDUVA",
+    "state": "MG",
+    "cep": "39678000",
+    "phone": "33988416310",
+    "email": "aricanduva@knnidiomas.com.br",
+    "cnpj": "44960794000100",
+    "coordinates": {
+      "lat": -17.8672186,
+      "lng": -42.556959
+    }
+  },
+  {
+    "id": 21,
+    "name": "KNN ARIQUEMES",
+    "status": "INAUGURADA",
+    "address": "Rua Cerejeira, 1432 - Setor 01",
+    "city": "ARIQUEMES",
+    "state": "RO",
+    "cep": "76870103",
+    "phone": "69992249252",
+    "email": "ariquemes@knnidiomas.com.br",
+    "cnpj": "45708675000128",
+    "coordinates": {
+      "lat": -9.9186177,
+      "lng": -63.0371231
+    }
+  },
+  {
+    "id": 22,
+    "name": "KNN ASSIS CHATEAUBRIAND",
+    "status": "INAUGURADA",
+    "address": "RUA SANTA SÉ, 132 - CENTRO",
+    "city": "ASSIS CHATEAUBRIAND",
+    "state": "PR",
+    "cep": "85935000",
+    "phone": "4431990919",
+    "email": "assischateaubriand@knnidiomas.com.br",
+    "cnpj": "36345463000132",
+    "coordinates": {
+      "lat": -24.4114587,
+      "lng": -53.519717
+    }
+  },
+  {
+    "id": 23,
+    "name": "KNN ATIBAIA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA SANTANA, 147 - NOVA GARDENIA",
+    "city": "ATIBAIA",
+    "state": "SP",
+    "cep": "12946000",
+    "phone": "1124272203",
+    "email": "atibaia@knnidiomas.com.br",
+    "cnpj": "34308244000158",
+    "coordinates": {
+      "lat": -23.1252828,
+      "lng": -46.5529599
+    }
+  },
+  {
+    "id": 24,
+    "name": "KNN BACABAL",
+    "status": "INAUGURADA",
+    "address": "RUA ANTONIO LOBO, 610 - CENTRO",
+    "city": "BACABAL",
+    "state": "MA",
+    "cep": "65700000",
+    "phone": "99984676004",
+    "email": "bacabal@knnidiomas.com.br",
+    "cnpj": "49133257000100",
+    "coordinates": {
+      "lat": -4.2280746,
+      "lng": -44.782981
+    }
+  },
+  {
+    "id": 25,
+    "name": "KNN BALNEARIO BARRA DO SUL",
+    "status": "INAUGURADA",
+    "address": "AVENIDA JARAGUA DO SUL, 563 - COSTEIRA",
+    "city": "BALNEÁRIO BARRA DO SUL",
+    "state": "SC",
+    "cep": "89247000",
+    "phone": "4734401575",
+    "email": "balneariobarradosul@knnidiomas.com.br",
+    "cnpj": "39229812000149",
+    "coordinates": {
+      "lat": -26.4338861,
+      "lng": -48.6372922
+    }
+  },
+  {
+    "id": 26,
+    "name": "KNN BALNEARIO CAMBORIU",
+    "status": "INAUGURADA",
+    "address": "RUA 620, 1155 - Centro",
+    "city": "BALNEÁRIO CAMBORIÚ",
+    "state": "SC",
+    "cep": "88330624",
+    "phone": "4733670547",
+    "email": "balneario@knnidiomas.com.br",
+    "cnpj": "40974435000151",
+    "coordinates": {
+      "lat": -26.9948546,
+      "lng": -48.6445303
+    }
+  },
+  {
+    "id": 27,
+    "name": "KNN BARREIRAS 02",
+    "status": "INAUGURADA",
+    "address": "RUA AYMORE, 452 - CENTRO",
+    "city": "BARREIRAS",
+    "state": "BA",
+    "cep": "47804060",
+    "phone": "7736111951",
+    "email": "barreiras02@knnidiomas.com.br",
+    "cnpj": "03845693000101",
+    "coordinates": {
+      "lat": -12.151785,
+      "lng": -44.99653
+    }
+  },
+  {
+    "id": 28,
+    "name": "KNN BARRETOS",
+    "status": "INAUGURADA",
+    "address": "Avenida 23, 1135 - Centro",
+    "city": "BARRETOS",
+    "state": "SP",
+    "cep": "14780320",
+    "phone": "1733121987",
+    "email": "barretos@knnidiomas.com.br",
+    "cnpj": "44551020000126",
+    "coordinates": {
+      "lat": -20.5592979,
+      "lng": -48.5729644
+    }
+  },
+  {
+    "id": 29,
+    "name": "KNN BARRO ALTO",
+    "status": "INAUGURADA",
+    "address": "Rua Maranhao, S/N - Centro",
+    "city": "BARRO ALTO",
+    "state": "GO",
+    "cep": "76390000",
+    "phone": "00000000000",
+    "email": "barroalto@knnidiomas.com.br",
+    "cnpj": "20474035000170",
+    "coordinates": {
+      "lat": -14.9727838,
+      "lng": -48.9165477
+    }
+  },
+  {
+    "id": 30,
+    "name": "KNN BARROSO",
+    "status": "INAUGURADA",
+    "address": "RUA LADISLAU MAGALHAES, 87 - CENTRO",
+    "city": "BARROSO",
+    "state": "MG",
+    "cep": "36212000",
+    "phone": "32984335050",
+    "email": "barroso@knnidiomas.com.br",
+    "cnpj": "33887182000113",
+    "coordinates": {
+      "lat": -21.1860215,
+      "lng": -43.9750925
+    }
+  },
+  {
+    "id": 31,
+    "name": "KNN BATAGUASSU",
+    "status": "INAUGURADA",
+    "address": "Rua Dourados, 597 - Centro",
+    "city": "BATAGUASSU",
+    "state": "MS",
+    "cep": "79780000",
+    "phone": "67996697626",
+    "email": "bataguassu@knnidiomas.com.br",
+    "cnpj": "44540844000109",
+    "coordinates": {
+      "lat": -21.7158524,
+      "lng": -52.4257784
+    }
+  },
+  {
+    "id": 32,
+    "name": "KNN BAYEUX  (JOAO PESSOA BAYEUX)",
+    "status": "INAUGURADA",
+    "address": "AVENIDA MARECHAL RONDON, 951 - ALTO DA BOA VISTA",
+    "city": "BAYEUX",
+    "state": "PB",
+    "cep": "58308330",
+    "phone": "8336900335",
+    "email": "bayeux@knnidiomas.com.br",
+    "cnpj": "33184825000243",
+    "coordinates": {
+      "lat": -7.135848999999999,
+      "lng": -34.938771
+    }
+  },
+  {
+    "id": 33,
+    "name": "KNN BELA VISTA",
+    "status": "INAUGURADA",
+    "address": "GUIA LOPES, 538 - CENTRO",
+    "city": "BELA VISTA",
+    "state": "MS",
+    "cep": "79260000",
+    "phone": "67993391702",
+    "email": "belavista@knnidiomas.com.br",
+    "cnpj": "49225149000168",
+    "coordinates": {
+      "lat": -22.1103421,
+      "lng": -56.5227413
+    }
+  },
+  {
+    "id": 34,
+    "name": "KNN BELEM",
+    "status": "INAUGURADA",
+    "address": "TRAVESSA DOUTOR ENEAS PINHEIRO , 1315 - MARCO",
+    "city": "BELÉM",
+    "state": "PA",
+    "cep": "66095105",
+    "phone": "9133510391",
+    "email": "belem01@knnidiomas.com.br",
+    "cnpj": "33250487000110",
+    "coordinates": {
+      "lat": -1.432414,
+      "lng": -48.4543173
+    }
+  },
+  {
+    "id": 35,
+    "name": "KNN BELENZINHO",
+    "status": "INAUGURADA",
+    "address": "Rua Julio de Castilhos, 1048 - Belenzinho",
+    "city": "SÃO PAULO",
+    "state": "SP",
+    "cep": "03059005",
+    "phone": "1135542254",
+    "email": "belenzinho@knnidiomas.com.br",
+    "cnpj": "41417572000158",
+    "coordinates": {
+      "lat": -23.5404101,
+      "lng": -46.5909548
+    }
+  },
+  {
+    "id": 36,
+    "name": "KNN BELO HORIZONTE OESTE BETANIA",
+    "status": "INAUGURADA",
+    "address": "Rua da Consolacao, 15 - Betania",
+    "city": "BELO HORIZONTE",
+    "state": "MG",
+    "cep": "30580420",
+    "phone": "3133747707",
+    "email": "belohorizonte.betania@knnidiomas.com.br",
+    "cnpj": "39928843000198",
+    "coordinates": {
+      "lat": -19.9576509,
+      "lng": -43.9865134
+    }
+  },
+  {
+    "id": 37,
+    "name": "KNN BELO HORIZONTE PAMPULHA",
+    "status": "INAUGURADA",
+    "address": "RUA AGENOR GOULART FILHO, 377 - OURO PRETO",
+    "city": "BELO HORIZONTE",
+    "state": "MG",
+    "cep": "31310360",
+    "phone": "3125310758",
+    "email": "bh.ouropreto@knnidiomas.com.br",
+    "cnpj": "25258932000160",
+    "coordinates": {
+      "lat": -19.8716763,
+      "lng": -43.98086
+    }
+  },
+  {
+    "id": 38,
+    "name": "KNN BENTO GONCALVES",
+    "status": "INAUGURADA",
+    "address": "Rua General Osorio, 380 - Centro",
+    "city": "BENTO GONÇALVES",
+    "state": "RS",
+    "cep": "95700086",
+    "phone": "5426215580",
+    "email": "bentogoncalves@knnidiomas.com.br",
+    "cnpj": "28347174000144",
+    "coordinates": {
+      "lat": -29.1684288,
+      "lng": -51.5133035
+    }
+  },
+  {
+    "id": 39,
+    "name": "KNN BERTIOGA",
+    "status": "INAUGURADA",
+    "address": "RUA RAFAEL COSTABILE, 643 - VILA ITAPANHAU",
+    "city": "BERTIOGA",
+    "state": "SP",
+    "cep": "11250000",
+    "phone": "1333176761",
+    "email": "bertioga@knnidiomas.com.br",
+    "cnpj": "08900406000132",
+    "coordinates": {
+      "lat": -23.8442888,
+      "lng": -46.1380654
+    }
+  },
+  {
+    "id": 40,
+    "name": "KNN BH CORACAO EUCARISTICO (NOROESTE 02)",
+    "status": "INAUGURADA",
+    "address": "RUA DOM JOAQUIM SILVERIO, 541 - CORACAO EUCARISTICO",
+    "city": "BELO HORIZONTE",
+    "state": "MG",
+    "cep": "30535620",
+    "phone": "3132437643",
+    "email": "bh.coracaoeucaristico@knnidiomas.com.br",
+    "cnpj": "41808681000104",
+    "coordinates": {
+      "lat": -19.9254485,
+      "lng": -43.9892112
+    }
+  },
+  {
+    "id": 41,
+    "name": "KNN BIGUACU",
+    "status": "INAUGURADA",
+    "address": "Rua Justino Adalberto Leal, 163 - Centro",
+    "city": "BIGUAÇU",
+    "state": "SC",
+    "cep": "88160150",
+    "phone": "4830673409",
+    "email": "biguacu@knnidiomas.com.br",
+    "cnpj": "43314398000143",
+    "coordinates": {
+      "lat": -27.4974853,
+      "lng": -48.65030369999999
+    }
+  },
+  {
+    "id": 42,
+    "name": "KNN BIRITIBA MIRIM",
+    "status": "INAUGURADA",
+    "address": "RUA GILDO SEVALLI, 127 - CENTRO",
+    "city": "BIRITIBA-MIRIM",
+    "state": "SP",
+    "cep": "08940000",
+    "phone": "1146924648",
+    "email": "biritibamirim@knnidiomas.com.br",
+    "cnpj": "06240503000110",
+    "coordinates": {
+      "lat": -23.572221,
+      "lng": -46.0397052
+    }
+  },
+  {
+    "id": 43,
+    "name": "KNN BLUMENAU",
+    "status": "INAUGURADA",
+    "address": "RUA LAURO MUELLER, 249 - JARDIM BLUMENAU",
+    "city": "BLUMENAU",
+    "state": "SC",
+    "cep": "89010380",
+    "phone": "4732886387",
+    "email": "blumenau@knnidiomas.com.br",
+    "cnpj": "20888055000197",
+    "coordinates": {
+      "lat": -26.9292944,
+      "lng": -49.0639745
+    }
+  },
+  {
+    "id": 44,
+    "name": "KNN BLUMENAU II/NORTE",
+    "status": "INAUGURADA",
+    "address": "RUA FREDERICO JENSEN, 185 - ITOUPAVAZINHA",
+    "city": "BLUMENAU",
+    "state": "SC",
+    "cep": "89066301",
+    "phone": "4733345997",
+    "email": "blumenau2@knnidiomas.com.br",
+    "cnpj": "32926799000138",
+    "coordinates": {
+      "lat": -26.8604972,
+      "lng": -49.0879683
+    }
+  },
+  {
+    "id": 45,
+    "name": "KNN BOITUVA",
+    "status": "INAUGURADA",
+    "address": "RUA CEL ARRUDA BOTELHO , 132 - CENTRO ",
+    "city": "BOITUVA",
+    "state": "SP",
+    "cep": "18550101",
+    "phone": "1532687127",
+    "email": "boituva@knnidiomas.com.br",
+    "cnpj": "10256781000133",
+    "coordinates": {
+      "lat": -23.2851925,
+      "lng": -47.673469
+    }
+  },
+  {
+    "id": 46,
+    "name": "KNN BOM JESUS",
+    "status": "INAUGURADA",
+    "address": "RUA TABELIAO RAIMUNDO JOSE ROCHA, 382 - CENTRO",
+    "city": "BOM JESUS",
+    "state": "PI",
+    "cep": "64900000",
+    "phone": "89999827150",
+    "email": "bomjesus@knnidiomas.com.br",
+    "cnpj": "19032000000100",
+    "coordinates": {
+      "lat": -9.0719274,
+      "lng": -44.35507090000001
+    }
+  },
+  {
+    "id": 47,
+    "name": "KNN BOM JESUS DE ITABAPOANA",
+    "status": "INAUGURADA",
+    "address": "RUA APIACA, 386 - LIA MARCIA",
+    "city": "BOM JESUS DO ITABAPOANA",
+    "state": "RJ",
+    "cep": "28360000",
+    "phone": "22998505457",
+    "email": "bomjesusdoitabapoana@knnidiomas.com.br",
+    "cnpj": "08661425000153",
+    "coordinates": {
+      "lat": -21.1313434,
+      "lng": -41.6692534
+    }
+  },
+  {
+    "id": 48,
+    "name": "KNN BRACO DO NORTE",
+    "status": "INAUGURADA",
+    "address": "AVENIDA GETULIO VARGAS, 303 - CENTRO",
+    "city": "BRAÇO DO NORTE",
+    "state": "SC",
+    "cep": "88750000",
+    "phone": "48999442759",
+    "email": "bracodonorte@knnidiomas.com.br",
+    "cnpj": "48554952000183",
+    "coordinates": {
+      "lat": -28.2751817,
+      "lng": -49.1665317
+    }
+  },
+  {
+    "id": 49,
+    "name": "KNN BRODOWSKI",
+    "status": "INAUGURADA",
+    "address": "RUA FLORIANO PEIXOTO, 1689 - CENTRO",
+    "city": "BRODOWSKI",
+    "state": "SP",
+    "cep": "14340000",
+    "phone": "16991315833",
+    "email": "brodowski@knnidiomas.com.br",
+    "cnpj": "02953597000114",
+    "coordinates": {
+      "lat": -20.9841769,
+      "lng": -47.656033
+    }
+  },
+  {
+    "id": 50,
+    "name": "KNN BRUSQUE",
+    "status": "INAUGURADA",
+    "address": "RUA ALBERTO TORRES, 38 - CENTRO I",
+    "city": "BRUSQUE",
+    "state": "SC",
+    "cep": "88350040",
+    "phone": "4730490969",
+    "email": "brusque@knnidiomas.com.br",
+    "cnpj": "17689946000100",
+    "coordinates": {
+      "lat": -27.0963818,
+      "lng": -48.9162258
+    }
+  },
+  {
+    "id": 51,
+    "name": "KNN BURITIS",
+    "status": "INAUGURADA",
+    "address": "AVENIDA AYRTON SENNA, 1801 - SETOR 01",
+    "city": "BURITIS",
+    "state": "RO",
+    "cep": "76880000",
+    "phone": "00000000000",
+    "email": "buritis@knnidiomas.com.br",
+    "cnpj": "45019773000158",
+    "coordinates": {
+      "lat": -10.2111911,
+      "lng": -63.8311531
+    }
+  },
+  {
+    "id": 52,
+    "name": "KNN BURITIZEIRO",
+    "status": "INAUGURADA",
+    "address": "Rua Manoel Joaquim de Melo, 400 - Centro",
+    "city": "BURITIZEIRO",
+    "state": "MG",
+    "cep": "39280000",
+    "phone": "38933002397",
+    "email": "buritizeiro@knnidiomas.com.br",
+    "cnpj": "44608038000117",
+    "coordinates": {
+      "lat": -17.3616486,
+      "lng": -44.9583764
+    }
+  },
+  {
+    "id": 53,
+    "name": "KNN CAARAPO",
+    "status": "INAUGURADA",
+    "address": "SETE DE SETEMBRO, 963 - CENTRO",
+    "city": "CAARAPÓ",
+    "state": "MS",
+    "cep": "79940000",
+    "phone": "67999594140",
+    "email": "caarapo@knnidiomas.com.br",
+    "cnpj": "41753506000159",
+    "coordinates": {
+      "lat": -22.6335038,
+      "lng": -54.8198699
+    }
+  },
+  {
+    "id": 54,
+    "name": "KNN CABO FRIO",
+    "status": "INAUGURADA",
+    "address": "Avenida Independencia, 9989 - Unamar (Tamoios)",
+    "city": "CABO FRIO",
+    "state": "RJ",
+    "cep": "28928542",
+    "phone": "21996501224",
+    "email": "cabofrio@knnidiomas.com.br",
+    "cnpj": "45322501000122",
+    "coordinates": {
+      "lat": -22.6428523,
+      "lng": -42.003036
+    }
+  },
+  {
+    "id": 55,
+    "name": "KNN CACAPAVA",
+    "status": "INAUGURADA",
+    "address": "Rua Dom Pedro II , 92 - Vila Resende",
+    "city": "CAÇAPAVA",
+    "state": "SP",
+    "cep": "12282370",
+    "phone": "1236558081",
+    "email": "cacapava@knnidiomas.com.br",
+    "cnpj": "35876988000131",
+    "coordinates": {
+      "lat": -23.101749,
+      "lng": -45.7026486
+    }
+  },
+  {
+    "id": 56,
+    "name": "KNN CACHOEIRA PAULISTA",
+    "status": "INAUGURADA",
+    "address": "Rua Prudente de Moraes, 165 - Centro",
+    "city": "CACHOEIRA PAULISTA",
+    "state": "SP",
+    "cep": "12630000",
+    "phone": "1231034277",
+    "email": "cachoeirapaulista@knnidiomas.com.br",
+    "cnpj": "33980646000131",
+    "coordinates": {
+      "lat": -22.6629039,
+      "lng": -45.0083318
+    }
+  },
+  {
+    "id": 57,
+    "name": "KNN CACHOEIRO DE ITAPEMIRIM",
+    "status": "INAUGURADA",
+    "address": "RUA AGOSTINHO SEGUNDO TIRELO, 52 - AEROPORTO",
+    "city": "CACHOEIRO DE ITAPEMIRIM",
+    "state": "ES",
+    "cep": "29314030",
+    "phone": "28999341896",
+    "email": "cachoeirodeitapemirim@knnidiomas.com.br",
+    "cnpj": "36565956000188",
+    "coordinates": {
+      "lat": -20.8317181,
+      "lng": -41.17411870000001
+    }
+  },
+  {
+    "id": 58,
+    "name": "KNN CACOAL",
+    "status": "INAUGURADA",
+    "address": "AVENIDA BELO HORIZONTE, 3119 - NOVO CACOAL",
+    "city": "CACOAL",
+    "state": "RO",
+    "cep": "76962171",
+    "phone": "69984054392",
+    "email": "cacoal@knnidiomas.com.br",
+    "cnpj": "28165016000254",
+    "coordinates": {
+      "lat": -11.4233223,
+      "lng": -61.45506169999999
+    }
+  },
+  {
+    "id": 59,
+    "name": "KNN CAIEIRAS",
+    "status": "INAUGURADA",
+    "address": "RUA URUGUAI, 59 - CENTRO",
+    "city": "CAIEIRAS",
+    "state": "SP",
+    "cep": "07700665",
+    "phone": "1130900563",
+    "email": "caieiras@knnidiomas.com.br",
+    "cnpj": "60160520000193",
+    "coordinates": {
+      "lat": -23.3647295,
+      "lng": -46.7414458
+    }
+  },
+  {
+    "id": 60,
+    "name": "KNN CAJAMAR",
+    "status": "INAUGURADA",
+    "address": "RUA WALDEMAR MEIRA, 568 - PORTAIS (POLVILHO)",
+    "city": "CAJAMAR",
+    "state": "SP",
+    "cep": "07790795",
+    "phone": "1144482405",
+    "email": "cajamar@knnidiomas.com.br",
+    "cnpj": "46222332000111",
+    "coordinates": {
+      "lat": -23.4068612,
+      "lng": -46.85357630000001
+    }
+  },
+  {
+    "id": 61,
+    "name": "KNN CAJATI",
+    "status": "INAUGURADA",
+    "address": "Avenida dos Trabalhadores, 39 - Centro",
+    "city": "CAJATI",
+    "state": "SP",
+    "cep": "11950000",
+    "phone": "1338541926",
+    "email": "cajati@knnidiomas.com.br",
+    "cnpj": "19577459000180",
+    "coordinates": {
+      "lat": -24.7252064,
+      "lng": -48.1108632
+    }
+  },
+  {
+    "id": 62,
+    "name": "KNN CAMACARI",
+    "status": "INAUGURADA",
+    "address": "DOIS DE MAIO, 46 - CENTRO",
+    "city": "CAMAÇARI",
+    "state": "BA",
+    "cep": "42800073",
+    "phone": "71999544961",
+    "email": "camacari01@knnidiomas.com.br",
+    "cnpj": "48929685000181",
+    "coordinates": {
+      "lat": -12.703755,
+      "lng": -38.3232213
+    }
+  },
+  {
+    "id": 63,
+    "name": "KNN CAMAQUA",
+    "status": "INAUGURADA",
+    "address": "RUA JULIO DE CASTILHOS, 253 - CENTRO",
+    "city": "CAMAQUÃ",
+    "state": "RS",
+    "cep": "96780072",
+    "phone": "51994797000",
+    "email": "camaqua@knnidiomas.com.br",
+    "cnpj": "41601613000161",
+    "coordinates": {
+      "lat": -30.8535086,
+      "lng": -51.8125174
+    }
+  },
+  {
+    "id": 64,
+    "name": "KNN CAMBORIU",
+    "status": "INAUGURADA",
+    "address": "RUA FRANCISCO BARRETO, 130 - CENTRO",
+    "city": "CAMBORIÚ",
+    "state": "SC",
+    "cep": "88340401",
+    "phone": "4730505007",
+    "email": "camboriu@knnidiomas.com.br",
+    "cnpj": "25288826000129",
+    "coordinates": {
+      "lat": -27.0242512,
+      "lng": -48.6523833
+    }
+  },
+  {
+    "id": 65,
+    "name": "KNN CAMBUCI",
+    "status": "INAUGURADA",
+    "address": "Rua Muniz de Sousa, 661 - Aclimacao",
+    "city": "SÃO PAULO",
+    "state": "SP",
+    "cep": "01534000",
+    "phone": "11956768652",
+    "email": "cambuci.sp@knnidiomas.com.br",
+    "cnpj": "43650466000145",
+    "coordinates": {
+      "lat": -23.5688617,
+      "lng": -46.6266161
+    }
+  },
+  {
+    "id": 66,
+    "name": "KNN CAMPESTRE DA SERRA",
+    "status": "INAUGURADA",
+    "address": "EST BR 116, 2455 - CENTRO",
+    "city": "CAMPESTRE DA SERRA",
+    "state": "RS",
+    "cep": "95255000",
+    "phone": "5484006890",
+    "email": "campestredaserra@knnidiomas.com.br",
+    "cnpj": "42524940000120",
+    "coordinates": {
+      "lat": -28.8004877,
+      "lng": -51.0970163
+    }
+  },
+  {
+    "id": 67,
+    "name": "KNN CAMPO BOM",
+    "status": "INAUGURADA",
+    "address": "RUA RUI BARBOSA, 52 - CENTRO",
+    "city": "CAMPO BOM",
+    "state": "RS",
+    "cep": "93700000",
+    "phone": "5133997852",
+    "email": "campobom@knnidiomas.com.br",
+    "cnpj": "27153106000181",
+    "coordinates": {
+      "lat": -29.6795439,
+      "lng": -51.061795
+    }
+  },
+  {
+    "id": 68,
+    "name": "KNN CAMPO DO TENENTE",
+    "status": "INAUGURADA",
+    "address": "Rua 29 de Outubro, 1 - Centro",
+    "city": "CAMPO DO TENENTE",
+    "state": "PR",
+    "cep": "83870000",
+    "phone": "4188192272",
+    "email": "campodotenente@knnidiomas.com.br",
+    "cnpj": "41694465000177",
+    "coordinates": {
+      "lat": -25.9771348,
+      "lng": -49.68601719999999
+    }
+  },
+  {
+    "id": 69,
+    "name": "KNN CAMPO GRANDE 1 / RJ",
+    "status": "INAUGURADA",
+    "address": "EST DA POSSE, 3703 - CAMPO GRANDE",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "cep": "23088000",
+    "phone": "2133443000",
+    "email": "campogrande.rj01@knnidiomas.com.br",
+    "cnpj": "34336093000141",
+    "coordinates": {
+      "lat": -22.884981,
+      "lng": -43.5532327
+    }
+  },
+  {
+    "id": 70,
+    "name": "KNN CAMPO GRANDE 2 / RJ",
+    "status": "INAUGURADA",
+    "address": "RUA ITUACU, 144 - CAMPO GRANDE",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "cep": "23045110",
+    "phone": "21982150858",
+    "email": "campogrande.rj02@knnidiomas.com.br",
+    "cnpj": "22281610000143",
+    "coordinates": {
+      "lat": -22.9143486,
+      "lng": -43.56126
+    }
+  },
+  {
+    "id": 71,
+    "name": "KNN CAMPO GRANDE/MS",
+    "status": "INAUGURADA",
+    "address": "RUA ANTONIO MARIA COELHO, 3576 - JARDIM DOS ESTADOS",
+    "city": "CAMPO GRANDE",
+    "state": "MS",
+    "cep": "79020210",
+    "phone": "6730452100",
+    "email": "campogrande@knnidiomas.com.br",
+    "cnpj": "29861603000240",
+    "coordinates": {
+      "lat": -20.4539711,
+      "lng": -54.59593779999999
+    }
+  },
+  {
+    "id": 72,
+    "name": "KNN CAMPO MAGRO",
+    "status": "INAUGURADA",
+    "address": "RUA MADRE SILVA, 104 - JARDIM BOA VISTA",
+    "city": "CAMPO MAGRO",
+    "state": "PR",
+    "cep": "83535000",
+    "phone": "4137980733",
+    "email": "campomagro@knnidiomas.com.br",
+    "cnpj": "24840808000145",
+    "coordinates": {
+      "lat": -25.3766041,
+      "lng": -49.3572828
+    }
+  },
+  {
+    "id": 73,
+    "name": "KNN CAMPO NOVO DO PARECIS",
+    "status": "INAUGURADA",
+    "address": "RUA PARANA, 614 - CENTRO",
+    "city": "CAMPO NOVO DO PARECIS",
+    "state": "MT",
+    "cep": "78360000",
+    "phone": "66992136475",
+    "email": "camponovodoparecis@knnidiomas.com.br",
+    "cnpj": "47079354000137",
+    "coordinates": {
+      "lat": -13.6624226,
+      "lng": -57.8903826
+    }
+  },
+  {
+    "id": 74,
+    "name": "KNN CAMPOS ALTOS",
+    "status": "INAUGURADA",
+    "address": "RUA PRATINHA, 290 - CENTRO",
+    "city": "CAMPOS ALTOS",
+    "state": "MG",
+    "cep": "38970000",
+    "phone": "3734261040",
+    "email": "camposaltos@knnidiomas.com.br",
+    "cnpj": "39394123000190",
+    "coordinates": {
+      "lat": -19.6964619,
+      "lng": -46.1711706
+    }
+  },
+  {
+    "id": 75,
+    "name": "KNN CANDELARIA",
+    "status": "INAUGURADA",
+    "address": "Rua Thompson Flores, 576 - Centro",
+    "city": "CANDELÁRIA",
+    "state": "RS",
+    "cep": "96930000",
+    "phone": "5137433843",
+    "email": "candelaria@knnidiomas.com.br",
+    "cnpj": "43045207000195",
+    "coordinates": {
+      "lat": -29.6658034,
+      "lng": -52.7920357
+    }
+  },
+  {
+    "id": 76,
+    "name": "KNN CANDOI",
+    "status": "INAUGURADA",
+    "address": "Rua Joao Kavestk, 240 - Pioneiros",
+    "city": "CANDÓI",
+    "state": "PR",
+    "cep": "85140000",
+    "phone": "42998057975",
+    "email": "candoi@knnidiomas.com.br",
+    "cnpj": "45353929000132",
+    "coordinates": {
+      "lat": -25.6400613,
+      "lng": -49.3158372
+    }
+  },
+  {
+    "id": 77,
+    "name": "KNN CANOAS",
+    "status": "INAUGURADA",
+    "address": "Rua General Salustiano, 74 - Marechal Rondon",
+    "city": "CANOAS",
+    "state": "RS",
+    "cep": "92020310",
+    "phone": "5139222397",
+    "email": "canoas@knnidiomas.com.br",
+    "cnpj": "31905517000153",
+    "coordinates": {
+      "lat": -29.91790049999999,
+      "lng": -51.1734211
+    }
+  },
+  {
+    "id": 78,
+    "name": "KNN CANOINHAS",
+    "status": "INAUGURADA",
+    "address": "RUA BARÃO DO RIO BRANCO, 10 - TRICOLIN",
+    "city": "CANOINHAS",
+    "state": "SC",
+    "cep": "89462234",
+    "phone": "4736221732",
+    "email": "canoinhas@knnidiomas.com.br",
+    "cnpj": "37014823000186",
+    "coordinates": {
+      "lat": -26.1765322,
+      "lng": -50.3991903
+    }
+  },
+  {
+    "id": 79,
+    "name": "KNN CAPELINHA",
+    "status": "INAUGURADA",
+    "address": "RUA VARGINHA , 141 - PLANALTO",
+    "city": "CAPELINHA",
+    "state": "MG",
+    "cep": "39680000",
+    "phone": "3334550890",
+    "email": "capelinha@knnidiomas.com.br",
+    "cnpj": "09067464000190",
+    "coordinates": {
+      "lat": -17.7013331,
+      "lng": -42.5127587
+    }
+  },
+  {
+    "id": 80,
+    "name": "KNN CARAPEBUS",
+    "status": "INAUGURADA",
+    "address": "Rua Salim Selem Bichara, 247 - Centro",
+    "city": "CARAPEBUS",
+    "state": "RJ",
+    "cep": "27998000",
+    "phone": "9421240098",
+    "email": "carapebus@knnidiomas.com.br",
+    "cnpj": "45022655000107",
+    "coordinates": {
+      "lat": -22.188065,
+      "lng": -41.6628465
+    }
+  },
+  {
+    "id": 81,
+    "name": "KNN CARDOSO MOREIRA",
+    "status": "INAUGURADA",
+    "address": "R SEBASTIAO ZAQUIEU, 138 - CENTRO",
+    "city": "CARDOSO MOREIRA",
+    "state": "RJ",
+    "cep": "28180000",
+    "phone": "22998188906",
+    "email": "cardosomoreira@knnidiomas.com.br",
+    "cnpj": "46926901000100",
+    "coordinates": {
+      "lat": -21.4878791,
+      "lng": -41.6156638
+    }
+  },
+  {
+    "id": 82,
+    "name": "KNN CASCAVEL 02",
+    "status": "INAUGURADA",
+    "address": "Avenida Brasil, 9021 - Coqueiral",
+    "city": "CASCAVEL",
+    "state": "PR",
+    "cep": "85807030",
+    "phone": "4532263310",
+    "email": "cascavel02@knnidiomas.com.br",
+    "cnpj": "38443625000109",
+    "coordinates": {
+      "lat": -24.9541714,
+      "lng": -53.4849924
+    }
+  },
+  {
+    "id": 83,
+    "name": "KNN CASTELO",
+    "status": "INAUGURADA",
+    "address": "PRACA JOSE VIVACQUA, 25 - CENTRO",
+    "city": "CASTELO",
+    "state": "ES",
+    "cep": "29360000",
+    "phone": "28999670070",
+    "email": "castelo@knnidiomas.com.br",
+    "cnpj": "18491251000181",
+    "coordinates": {
+      "lat": -20.6019291,
+      "lng": -41.20374169999999
+    }
+  },
+  {
+    "id": 84,
+    "name": "KNN CATAGUASES",
+    "status": "INAUGURADA",
+    "address": "AVENIDA ASTOLFO DUTRA, 371 - CENTRO",
+    "city": "CATAGUASES",
+    "state": "MG",
+    "cep": "36770001",
+    "phone": "3234212220",
+    "email": "cataguases@knnidiomas.com.br",
+    "cnpj": "42695680000155",
+    "coordinates": {
+      "lat": -21.3880816,
+      "lng": -42.6970127
+    }
+  },
+  {
+    "id": 85,
+    "name": "KNN CATALAO",
+    "status": "INAUGURADA",
+    "address": "Rua Dilermando Pereira, 324 - Nossa Senhora de Fátima",
+    "city": "CATALÃO",
+    "state": "GO",
+    "cep": "75709282",
+    "phone": "64996133727",
+    "email": "catalao@knnidiomas.com.br",
+    "cnpj": "48439887000145",
+    "coordinates": {
+      "lat": -18.1734579,
+      "lng": -47.9443959
+    }
+  },
+  {
+    "id": 86,
+    "name": "KNN CATANDUVA",
+    "status": "INAUGURADA",
+    "address": "RUA RIO CLARO, 112 - CENTRO",
+    "city": "CATANDUVA",
+    "state": "SP",
+    "cep": "15800260",
+    "phone": "1735224443",
+    "email": "catanduva@knnidiomas.com.br",
+    "cnpj": "23201209000119",
+    "coordinates": {
+      "lat": -21.1394421,
+      "lng": -48.9710151
+    }
+  },
+  {
+    "id": 87,
+    "name": "KNN CATANDUVAS",
+    "status": "INAUGURADA",
+    "address": "AVENIDA DOS PIONEIROS, 654 - CENTRO",
+    "city": "CATANDUVAS",
+    "state": "PR",
+    "cep": "85470000",
+    "phone": "4588036629",
+    "email": "catanduvas.pr@knnidiomas.com.br",
+    "cnpj": "51825858000126",
+    "coordinates": {
+      "lat": -25.2111072,
+      "lng": -53.1532439
+    }
+  },
+  {
+    "id": 88,
+    "name": "KNN CAUCAIA",
+    "status": "INAUGURADA",
+    "address": "RUA TOBIAS CORREIA, 473 - CENTRO",
+    "city": "CAUCAIA",
+    "state": "CE",
+    "cep": "61600060",
+    "phone": "85991444297",
+    "email": "caucaia01@knnidiomas.com.br",
+    "cnpj": "14268806000170",
+    "coordinates": {
+      "lat": -3.7322281,
+      "lng": -38.6552164
+    }
+  },
+  {
+    "id": 89,
+    "name": "KNN CAXAMBU",
+    "status": "INAUGURADA",
+    "address": "Avenida Camilo Soares, 410 - Centro",
+    "city": "CAXAMBU",
+    "state": "MG",
+    "cep": "37440000",
+    "phone": "3534801682",
+    "email": "caxambu@knnidiomas.com.br",
+    "cnpj": "39924054000189",
+    "coordinates": {
+      "lat": -21.9825006,
+      "lng": -44.9355142
+    }
+  },
+  {
+    "id": 90,
+    "name": "KNN CAXIAS DO SUL",
+    "status": "INAUGURADA",
+    "address": "Rua Pinheiro Machado, 1374 - Nossa Senhora de Lourdes",
+    "city": "CAXIAS DO SUL",
+    "state": "RS",
+    "cep": "95020170",
+    "phone": "54993239865",
+    "email": "caxiasdosul@knnidiomas.com.br",
+    "cnpj": "49358023000161",
+    "coordinates": {
+      "lat": -29.1669546,
+      "lng": -51.1751648
+    }
+  },
+  {
+    "id": 91,
+    "name": "KNN CEDRAL",
+    "status": "INAUGURADA",
+    "address": "AV MESSIAS VICENTE FERREIRA, 50 - CENTRO",
+    "city": "CEDRAL",
+    "state": "SP",
+    "cep": "15895000",
+    "phone": "17996661001",
+    "email": "cedral@knnidiomas.com.br",
+    "cnpj": "32084604000150",
+    "coordinates": {
+      "lat": -20.9021609,
+      "lng": -49.2654948
+    }
+  },
+  {
+    "id": 92,
+    "name": "KNN CERES",
+    "status": "INAUGURADA",
+    "address": "AVENIDA GOIAS, 885 - CENTRO",
+    "city": "CERES",
+    "state": "GO",
+    "cep": "76300000",
+    "phone": "6222010102",
+    "email": "ceres@knnidiomas.com.br",
+    "cnpj": "43759297000186",
+    "coordinates": {
+      "lat": -15.3091309,
+      "lng": -49.6028917
+    }
+  },
+  {
+    "id": 93,
+    "name": "KNN CHAPECO 2",
+    "status": "INAUGURADA",
+    "address": "RUA SAO MIGUEL DO OESTE, 78 - EFAPI",
+    "city": "CHAPECÓ",
+    "state": "SC",
+    "cep": "89809550",
+    "phone": "4930256421",
+    "email": "chapecoefapi@knnidiomas.com.br",
+    "cnpj": "27267447000269",
+    "coordinates": {
+      "lat": -27.096481,
+      "lng": -52.671938
+    }
+  },
+  {
+    "id": 94,
+    "name": "KNN CHAPECO I",
+    "status": "INAUGURADA",
+    "address": "AVENIDA GENERAL OSÓRIO, 313 - CENTRO",
+    "city": "CHAPECÓ",
+    "state": "SC",
+    "cep": "89802210",
+    "phone": "49999469505",
+    "email": "chapecocentro@knnidiomas.com.br",
+    "cnpj": "27267447000188",
+    "coordinates": {
+      "lat": -27.1030981,
+      "lng": -52.6201805
+    }
+  },
+  {
+    "id": 95,
+    "name": "KNN CIANORTE",
+    "status": "INAUGURADA",
+    "address": "RUA OURO VERDE, 310 - ZONA 02",
+    "city": "CIANORTE",
+    "state": "PR",
+    "cep": "87200334",
+    "phone": "1934011239",
+    "email": "cianorte@knnidiomas.com.br",
+    "cnpj": "48928347000125",
+    "coordinates": {
+      "lat": -23.6521443,
+      "lng": -52.6085342
+    }
+  },
+  {
+    "id": 96,
+    "name": "KNN COCAL DO SUL",
+    "status": "INAUGURADA",
+    "address": "RUA MAXIMILIANO GAIDZINSKI, 86 - CENTRO",
+    "city": "COCAL DO SUL",
+    "state": "SC",
+    "cep": "88845000",
+    "phone": "4834476645",
+    "email": "cocaldosul@knnidiomas.com.br",
+    "cnpj": "01733059000151",
+    "coordinates": {
+      "lat": -28.6024719,
+      "lng": -49.3257796
+    }
+  },
+  {
+    "id": 97,
+    "name": "KNN COLIDER",
+    "status": "INAUGURADA",
+    "address": "AV TANCREDO NEVES, 381 - CENTRO",
+    "city": "COLÍDER",
+    "state": "MT",
+    "cep": "78500000",
+    "phone": "66999288858",
+    "email": "colider@knnidiomas.com.br",
+    "cnpj": "27175883000127",
+    "coordinates": {
+      "lat": -10.8038082,
+      "lng": -55.4613753
+    }
+  },
+  {
+    "id": 98,
+    "name": "KNN COLOMBO",
+    "status": "INAUGURADA",
+    "address": "RUA ANTONIO FIORESE, 148 - MARACANA",
+    "city": "COLOMBO",
+    "state": "PR",
+    "cep": "83408420",
+    "phone": "4135376100",
+    "email": "colombo-pr@knnidiomas.com.br",
+    "cnpj": "28818129000120",
+    "coordinates": {
+      "lat": -25.3616694,
+      "lng": -49.1832189
+    }
+  },
+  {
+    "id": 99,
+    "name": "KNN COMENDADOR LEVY GASPARIAN",
+    "status": "INAUGURADA",
+    "address": "EST UNIAO E INDUSTRIA, 546 - CENTRO",
+    "city": "COMENDADOR LEVY GASPARIAN",
+    "state": "RJ",
+    "cep": "25870000",
+    "phone": "24992413593",
+    "email": "comendadorlevygasparian@knnidiomas.com.br",
+    "cnpj": "49033710000107",
+    "coordinates": {
+      "lat": -22.0306012,
+      "lng": -43.2079467
+    }
+  },
+  {
+    "id": 100,
+    "name": "KNN CONCEICAO DE MACABU",
+    "status": "INAUGURADA",
+    "address": "Rua Maria Adelaide, 26 - Vila Nova",
+    "city": "CONCEIÇÃO DE MACABU",
+    "state": "RJ",
+    "cep": "28740000",
+    "phone": "2227792917",
+    "email": "conceicaodemacabu@knnidiomas.com.br",
+    "cnpj": "40836097000191",
+    "coordinates": {
+      "lat": -22.0846902,
+      "lng": -41.8690258
+    }
+  },
+  {
+    "id": 101,
+    "name": "KNN CONTAGEM (ELDORADO)",
+    "status": "INAUGURADA",
+    "address": "Rua do Peru, 355 - Eldorado",
+    "city": "CONTAGEM",
+    "state": "MG",
+    "cep": "32340070",
+    "phone": "00000000000",
+    "email": "contagem@knnidiomas.com.br",
+    "cnpj": "32907857000267",
+    "coordinates": {
+      "lat": -19.9368964,
+      "lng": -44.05008979999999
+    }
+  },
+  {
+    "id": 102,
+    "name": "KNN CONTAGEM 02 (JD. RIACHO)",
+    "status": "INAUGURADA",
+    "address": "Avenida Riacho das Pedras, 253 - Jardim Riacho das Pedras",
+    "city": "CONTAGEM",
+    "state": "MG",
+    "cep": "32241320",
+    "phone": "3125647446",
+    "email": "contagem.jdriacho@knnidiomas.com.br",
+    "cnpj": "32907857000348",
+    "coordinates": {
+      "lat": -19.9611627,
+      "lng": -44.0599231
+    }
+  },
+  {
+    "id": 103,
+    "name": "KNN CONTAGEM 03 (CENTRO)",
+    "status": "INAUGURADA",
+    "address": "AV JOAO DE DEUS COSTA, 98 - CENTRO",
+    "city": "CONTAGEM",
+    "state": "MG",
+    "cep": "32040580",
+    "phone": "3132055333",
+    "email": "contagem.centro@knnidiomas.com.br",
+    "cnpj": "32907857000186",
+    "coordinates": {
+      "lat": -19.9190496,
+      "lng": -44.0774778
+    }
+  },
+  {
+    "id": 104,
+    "name": "KNN CONTENDA",
+    "status": "INAUGURADA",
+    "address": "Rua Luzia Franco, 201 - Centro",
+    "city": "CONTENDA",
+    "state": "PR",
+    "cep": "83730000",
+    "phone": "4136251713",
+    "email": "contenda@knnidiomas.com.br",
+    "cnpj": "34532802000164",
+    "coordinates": {
+      "lat": -25.6808635,
+      "lng": -49.5350671
+    }
+  },
+  {
+    "id": 105,
+    "name": "KNN CORONEL VIVIDA",
+    "status": "INAUGURADA",
+    "address": "RUA RUA DA LIBERDADE, 114 - CENTRO",
+    "city": "CORONEL VIVIDA",
+    "state": "PR",
+    "cep": "85550000",
+    "phone": "46999890210",
+    "email": "coronelvivida@knnidiomas.com.br",
+    "cnpj": "49632107000141",
+    "coordinates": {
+      "lat": -25.9791439,
+      "lng": -52.564484
+    }
+  },
+  {
+    "id": 106,
+    "name": "KNN CORREIA PINTO",
+    "status": "INAUGURADA",
+    "address": "RUA JUVENAL ALVES DA SILVA, 284 - CENTRO",
+    "city": "CORREIA PINTO",
+    "state": "SC",
+    "cep": "88535000",
+    "phone": "47999949311",
+    "email": "correiapinto@knnidiomas.com.br",
+    "cnpj": "50964869000124",
+    "coordinates": {
+      "lat": -27.5867985,
+      "lng": -50.3612891
+    }
+  },
+  {
+    "id": 107,
+    "name": "KNN COSTA RICA",
+    "status": "INAUGURADA",
+    "address": "RUA JOSINA GARCIA DE MELO, 1450 - CENTRO",
+    "city": "COSTA RICA",
+    "state": "MS",
+    "cep": "79550000",
+    "phone": "67999457660",
+    "email": "costarica@knnidiomas.com.br",
+    "cnpj": "31154971000110",
+    "coordinates": {
+      "lat": -18.5360531,
+      "lng": -53.13350750000001
+    }
+  },
+  {
+    "id": 108,
+    "name": "KNN COTIA",
+    "status": "INAUGURADA",
+    "address": "AV PROFESSOR MANOEL JOSE PEDROSO, 1628 - PARQUE BAHIA",
+    "city": "COTIA",
+    "state": "SP",
+    "cep": "06717100",
+    "phone": "11988633079",
+    "email": "cotia@knnidiomas.com.br",
+    "cnpj": "19420906000193",
+    "coordinates": {
+      "lat": -23.6054255,
+      "lng": -46.9138004
+    }
+  },
+  {
+    "id": 109,
+    "name": "KNN COXIM",
+    "status": "INAUGURADA",
+    "address": "AVENIDA GASPAR RIES COELHO, 975 - FLAVIO GARCIA",
+    "city": "COXIM",
+    "state": "MS",
+    "cep": "79400000",
+    "phone": "67999592183",
+    "email": "coxim@knnidiomas.com.br",
+    "cnpj": "41970525000137",
+    "coordinates": {
+      "lat": -18.5104813,
+      "lng": -54.7466316
+    }
+  },
+  {
+    "id": 110,
+    "name": "KNN CRAVINHOS",
+    "status": "INAUGURADA",
+    "address": "Avenida Rita Candida Nogueira, 401 - Centro",
+    "city": "CRAVINHOS",
+    "state": "SP",
+    "cep": "14140000",
+    "phone": "1639516995",
+    "email": "cravinhos@knnidiomas.com.br",
+    "cnpj": "23645987000369",
+    "coordinates": {
+      "lat": -21.3393737,
+      "lng": -47.73072519999999
+    }
+  },
+  {
+    "id": 111,
+    "name": "KNN CRICIUMA",
+    "status": "INAUGURADA",
+    "address": "RUA SANTO ANTONIO, 356 - CENTRO",
+    "city": "CRICIÚMA",
+    "state": "SC",
+    "cep": "88801440",
+    "phone": "4834787333",
+    "email": "criciuma@knnidiomas.com.br",
+    "cnpj": "01733059000313",
+    "coordinates": {
+      "lat": -28.6755546,
+      "lng": -49.3676352
+    }
+  },
+  {
+    "id": 112,
+    "name": "KNN CRUZEIRO",
+    "status": "INAUGURADA",
+    "address": "Rua Major Hermogenes, 476 - Centro",
+    "city": "CRUZEIRO",
+    "state": "SP",
+    "cep": "12701320",
+    "phone": "1231443290",
+    "email": "cruzeiro.sp@knnidiomas.com.br",
+    "cnpj": "09112289000105",
+    "coordinates": {
+      "lat": -22.5762959,
+      "lng": -44.9624824
+    }
+  },
+  {
+    "id": 113,
+    "name": "KNN CRUZEIRO DO OESTE",
+    "status": "INAUGURADA",
+    "address": "AVENIDA GUAIRA, 1904 - CENTRO",
+    "city": "CRUZEIRO DO OESTE",
+    "state": "PR",
+    "cep": "87400000",
+    "phone": "6293874449",
+    "email": "cruzeirodooeste@knnidiomas.com.br",
+    "cnpj": "51934904000125",
+    "coordinates": {
+      "lat": -23.7848332,
+      "lng": -53.07728059999999
+    }
+  },
+  {
+    "id": 114,
+    "name": "KNN CUBATAO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA BEIRA MAR, 301 - JARDIM CASQUEIRO",
+    "city": "CUBATÃO",
+    "state": "SP",
+    "cep": "11533270",
+    "phone": "1333642367",
+    "email": "cubatao@knnidiomas.com.br",
+    "cnpj": "23890707000116",
+    "coordinates": {
+      "lat": -23.9319801,
+      "lng": -46.4114055
+    }
+  },
+  {
+    "id": 115,
+    "name": "KNN CUNHA",
+    "status": "INAUGURADA",
+    "address": "Rua Joao Manoel Rodrigues, 31 - Centro",
+    "city": "CUNHA",
+    "state": "SP",
+    "cep": "12530000",
+    "phone": "1231112531",
+    "email": "cunha@knnidiomas.com.br",
+    "cnpj": "40856030000119",
+    "coordinates": {
+      "lat": -23.074311,
+      "lng": -44.9600796
+    }
+  },
+  {
+    "id": 116,
+    "name": "KNN CURITIBA (AGUA VERDE)",
+    "status": "INAUGURADA",
+    "address": "RUA PROFESSOR ULISSES VIEIRA, 222 - VILA IZABEL",
+    "city": "CURITIBA",
+    "state": "PR",
+    "cep": "80320090",
+    "phone": "4130771050",
+    "email": "curitiba.aguaverde@knnidiomas.com.br",
+    "cnpj": "39767020000128",
+    "coordinates": {
+      "lat": -25.4614835,
+      "lng": -49.29257940000001
+    }
+  },
+  {
+    "id": 117,
+    "name": "KNN CURITIBA BACACHERI",
+    "status": "INAUGURADA",
+    "address": "Rua Maximino Zanon, 598 - Bacacheri",
+    "city": "CURITIBA",
+    "state": "PR",
+    "cep": "82510230",
+    "phone": "4137798451",
+    "email": "bacacheri@knnidiomas.com.br",
+    "cnpj": "34140204000140",
+    "coordinates": {
+      "lat": -25.3955938,
+      "lng": -49.2414052
+    }
+  },
+  {
+    "id": 118,
+    "name": "KNN CURITIBA GUABIROTUBA",
+    "status": "INAUGURADA",
+    "address": "Rua Doutor Alcides Vieira Arco-Verde, 681 - Guabirotuba",
+    "city": "CURITIBA",
+    "state": "PR",
+    "cep": "81520260",
+    "phone": "41996866276",
+    "email": "guabirotuba@knnidiomas.com.br",
+    "cnpj": "21875889000120",
+    "coordinates": {
+      "lat": -25.45942,
+      "lng": -49.2400336
+    }
+  },
+  {
+    "id": 119,
+    "name": "KNN CURITIBA PINHEIRINHO",
+    "status": "INAUGURADA",
+    "address": "Rua Leon Nicolas, 66 - Capão Raso",
+    "city": "CURITIBA",
+    "state": "PR",
+    "cep": "81150140",
+    "phone": "4132060862",
+    "email": "pinheirinho@knnidiomas.com.br",
+    "cnpj": "35815350000190",
+    "coordinates": {
+      "lat": -25.514964,
+      "lng": -49.2963406
+    }
+  },
+  {
+    "id": 120,
+    "name": "KNN DIAS D'AVILA",
+    "status": "INAUGURADA",
+    "address": "R RAIMUNDO DA CONCEICAO TABIREZA, 253 - CENTRO",
+    "city": "DIAS D'ÁVILA",
+    "state": "BA",
+    "cep": "42850000",
+    "phone": "7193061031",
+    "email": "diasdavila@knnidiomas.com.br",
+    "cnpj": "43449478000106",
+    "coordinates": {
+      "lat": -12.6097776,
+      "lng": -38.3062997
+    }
+  },
+  {
+    "id": 121,
+    "name": "KNN DOURADOS",
+    "status": "INAUGURADA",
+    "address": "Rua Hayel Bon Faker, 3331 - Jardim Caramuru",
+    "city": "DOURADOS",
+    "state": "MS",
+    "cep": "79806000",
+    "phone": "6730205077",
+    "email": "dourados@knnidiomas.com.br",
+    "cnpj": "32603531000165",
+    "coordinates": {
+      "lat": -22.2232338,
+      "lng": -54.8088758
+    }
+  },
+  {
+    "id": 122,
+    "name": "KNN ESMERALDAS",
+    "status": "INAUGURADA",
+    "address": "Rua dos Expedicionários, 235 - Centro",
+    "city": "ESMERALDAS",
+    "state": "MG",
+    "cep": "32800076",
+    "phone": "31997895199",
+    "email": "esmeraldas@knnidiomas.com.br",
+    "cnpj": "48828054000176",
+    "coordinates": {
+      "lat": -19.7632511,
+      "lng": -44.3123555
+    }
+  },
+  {
+    "id": 123,
+    "name": "KNN FARROUPILHA",
+    "status": "INAUGURADA",
+    "address": "RUA THOMAS EDISON, 37 - CENTRO",
+    "city": "FARROUPILHA",
+    "state": "RS",
+    "cep": "95170472",
+    "phone": "5437717959",
+    "email": "farroupilha@knnidiomas.com.br",
+    "cnpj": "44624762000134",
+    "coordinates": {
+      "lat": -29.2275847,
+      "lng": -51.35017
+    }
+  },
+  {
+    "id": 124,
+    "name": "KNN FAZENDA RIO GRANDE",
+    "status": "INAUGURADA",
+    "address": "RUA ITÁLIA, 192 - NACOES",
+    "city": "FAZENDA RIO GRANDE",
+    "state": "PR",
+    "cep": "83823020",
+    "phone": "4136276263",
+    "email": "fazendariogrande@knnidiomas.com.br",
+    "cnpj": "32945142000118",
+    "coordinates": {
+      "lat": -25.6527797,
+      "lng": -49.31004160000001
+    }
+  },
+  {
+    "id": 125,
+    "name": "KNN FEIRA DE SANTANA",
+    "status": "INAUGURADA",
+    "address": "RUA BARÃO DO RIO BRANCO , 1543 - CENTRO",
+    "city": "FEIRA DE SANTANA",
+    "state": "BA",
+    "cep": "44001184",
+    "phone": "7530245077",
+    "email": "feiradesantana01@knnidiomas.com.br",
+    "cnpj": "32629159000166",
+    "coordinates": {
+      "lat": -12.2525947,
+      "lng": -38.9599417
+    }
+  },
+  {
+    "id": 126,
+    "name": "KNN FLORIANO",
+    "status": "INAUGURADA",
+    "address": "Rua Anfilofio Melo, 1106 - Irapua II",
+    "city": "FLORIANO",
+    "state": "PI",
+    "cep": "64800355",
+    "phone": "89988164488",
+    "email": "floriano@knnidiomas.com.br",
+    "cnpj": "24927624000117",
+    "coordinates": {
+      "lat": -6.7763746,
+      "lng": -43.0341046
+    }
+  },
+  {
+    "id": 127,
+    "name": "KNN FLORIANOPOLIS CENTRO",
+    "status": "INAUGURADA",
+    "address": "Avenida Rio Branco, 240 - Centro",
+    "city": "FLORIANÓPOLIS",
+    "state": "SC",
+    "cep": "88015200",
+    "phone": "4833717773",
+    "email": "florianopolis.centro@knnidiomas.com.br",
+    "cnpj": "42706998000194",
+    "coordinates": {
+      "lat": -27.5924526,
+      "lng": -48.555875
+    }
+  },
+  {
+    "id": 128,
+    "name": "KNN FLORIANOPOLIS SUL - CAMPECHE",
+    "status": "INAUGURADA",
+    "address": "TRAVESSA ATLANTIDA SUL, 130 - CAMPECHE",
+    "city": "FLORIANÓPOLIS",
+    "state": "SC",
+    "cep": "88063060",
+    "phone": "4830678262",
+    "email": "florianopolis-sul@knnidiomas.com.br",
+    "cnpj": "29464728000156",
+    "coordinates": {
+      "lat": -27.6818519,
+      "lng": -48.4944696
+    }
+  },
+  {
+    "id": 129,
+    "name": "KNN FORMIGA",
+    "status": "INAUGURADA",
+    "address": "rua Silviano Brandão, 39A - CENTRO",
+    "city": "FORMIGA",
+    "state": "MG",
+    "cep": "35570000",
+    "phone": "37998129659",
+    "email": "formiga@knnidiomas.com.br",
+    "cnpj": "14598029000121",
+    "coordinates": {
+      "lat": -20.4636949,
+      "lng": -45.4293114
+    }
+  },
+  {
+    "id": 130,
+    "name": "KNN FORMIGUEIRO",
+    "status": "INAUGURADA",
+    "address": "1A R ARMANDO TROJAHN, 72 - CENTRO",
+    "city": "FORMIGUEIRO",
+    "state": "RS",
+    "cep": "97210000",
+    "phone": "55991147171",
+    "email": "formigueiro@knnidiomas.com.br",
+    "cnpj": "40096051000183",
+    "coordinates": {
+      "lat": -29.9991235,
+      "lng": -53.5018265
+    }
+  },
+  {
+    "id": 131,
+    "name": "KNN FORTALEZA 03 PARQUELANDIA",
+    "status": "INAUGURADA",
+    "address": "RUA GUSTAVO SAMPAIO, 2680 - PARQUELANDIA",
+    "city": "FORTALEZA",
+    "state": "CE",
+    "cep": "60455001",
+    "phone": "85991573509",
+    "email": "fortaleza03@knnidiomas.com.br",
+    "cnpj": "01234931000117",
+    "coordinates": {
+      "lat": -3.7375997,
+      "lng": -38.5685809
+    }
+  },
+  {
+    "id": 132,
+    "name": "KNN FORTALEZA 04 MARAPONGA",
+    "status": "INAUGURADA",
+    "address": "Avenida Godofredo Maciel, 3555 - Mondubim",
+    "city": "FORTALEZA",
+    "state": "CE",
+    "cep": "60711502",
+    "phone": "8532963642",
+    "email": "fortaleza04@knnidiomas.com.br",
+    "cnpj": "16628775000227",
+    "coordinates": {
+      "lat": -3.8067438,
+      "lng": -38.5728002
+    }
+  },
+  {
+    "id": 133,
+    "name": "KNN FORTALEZA 05",
+    "status": "INAUGURADA",
+    "address": "AVENIDA MAJOR ASSIS, 1418 - VILA VELHA",
+    "city": "FORTALEZA",
+    "state": "CE",
+    "cep": "60346372",
+    "phone": "85996292454",
+    "email": "fortaleza05@knnidiomas.com.br",
+    "cnpj": "48790082000141",
+    "coordinates": {
+      "lat": -3.7227051,
+      "lng": -38.5919577
+    }
+  },
+  {
+    "id": 134,
+    "name": "KNN FOZ DO IGUACU",
+    "status": "INAUGURADA",
+    "address": "RUA SANTOS DUMONT, 861 - CENTRO",
+    "city": "FOZ DO IGUAÇU",
+    "state": "PR",
+    "cep": "85851040",
+    "phone": "45991445986",
+    "email": "fozdoiguacu@knnidiomas.com.br",
+    "cnpj": "44585523000112",
+    "coordinates": {
+      "lat": -25.5419585,
+      "lng": -54.5810335
+    }
+  },
+  {
+    "id": 135,
+    "name": "KNN FRANCA",
+    "status": "INAUGURADA",
+    "address": "RUA SANTOS PEREIRA, 265 - CENTRO",
+    "city": "FRANCA",
+    "state": "SP",
+    "cep": "14401130",
+    "phone": "16981707705",
+    "email": "franca@knnidiomas.com.br",
+    "cnpj": "19556961000105",
+    "coordinates": {
+      "lat": -20.5320604,
+      "lng": -47.3946595
+    }
+  },
+  {
+    "id": 136,
+    "name": "KNN FRANCA 02",
+    "status": "INAUGURADA",
+    "address": "AVENIDA RIO BRANCO, 104 - ESTACAO",
+    "city": "FRANCA",
+    "state": "SP",
+    "cep": "14405080",
+    "phone": "1637020028",
+    "email": "franca02@knnidiomas.com.br",
+    "cnpj": "46161655000142",
+    "coordinates": {
+      "lat": -20.5360727,
+      "lng": -47.4110384
+    }
+  },
+  {
+    "id": 137,
+    "name": "KNN FREDERICO WESTPHALEN",
+    "status": "INAUGURADA",
+    "address": "RUA MONSENHOR VITOR BATISTELLA, 506 - CENTRO",
+    "city": "FREDERICO WESTPHALEN",
+    "state": "RS",
+    "cep": "98400000",
+    "phone": "5520101111",
+    "email": "fredericowestphalen@knnidiomas.com.br",
+    "cnpj": "39887569000156",
+    "coordinates": {
+      "lat": -27.3538986,
+      "lng": -53.3952848
+    }
+  },
+  {
+    "id": 138,
+    "name": "KNN FRUTAL",
+    "status": "INAUGURADA",
+    "address": "AVENIDA BENJAMIN CONSTANT, 276 - CENTRO",
+    "city": "FRUTAL",
+    "state": "MG",
+    "cep": "38200054",
+    "phone": "3434217080",
+    "email": "frutal@knnidiomas.com.br",
+    "cnpj": "07239464000285",
+    "coordinates": {
+      "lat": -20.0254512,
+      "lng": -48.93588940000001
+    }
+  },
+  {
+    "id": 139,
+    "name": "KNN GARCA",
+    "status": "INAUGURADA",
+    "address": "PRAÇA PEDRO DE TOLEDO, 81 - FERRAROPOLIS",
+    "city": "GARÇA",
+    "state": "SP",
+    "cep": "17400000",
+    "phone": "1437370404",
+    "email": "garca@knnidiomas.com.br",
+    "cnpj": "35985625000134",
+    "coordinates": {
+      "lat": -22.2131635,
+      "lng": -49.65553939999999
+    }
+  },
+  {
+    "id": 140,
+    "name": "KNN GAROPABA",
+    "status": "INAUGURADA",
+    "address": "RODOVIA ABILIO MANOEL DE LIMA, 3786 - PALHOCINHA",
+    "city": "GAROPABA",
+    "state": "SC",
+    "cep": "88495000",
+    "phone": "48991374611",
+    "email": "garopaba@knnidiomas.com.br",
+    "cnpj": "41152207000169",
+    "coordinates": {
+      "lat": -28.0482503,
+      "lng": -48.62535399999999
+    }
+  },
+  {
+    "id": 141,
+    "name": "KNN GARUVA",
+    "status": "INAUGURADA",
+    "address": "RUA AFONSO PEREIRA ROCHA, 415 - CENTRO - AN",
+    "city": "GARUVA",
+    "state": "SC",
+    "cep": "89248000",
+    "phone": "47934326379",
+    "email": "garuva@knnidiomas.com.br",
+    "cnpj": "48378974000130",
+    "coordinates": {
+      "lat": -26.0298686,
+      "lng": -48.8517279
+    }
+  },
+  {
+    "id": 142,
+    "name": "KNN GASPAR",
+    "status": "INAUGURADA",
+    "address": "RUA AUGUSTO BEDUSCHI, 178 - CENTRO",
+    "city": "GASPAR",
+    "state": "SC",
+    "cep": "89110070",
+    "phone": "4730183991",
+    "email": "gaspar@knnidiomas.com.br",
+    "cnpj": "46136159000139",
+    "coordinates": {
+      "lat": -26.9301188,
+      "lng": -48.9542568
+    }
+  },
+  {
+    "id": 143,
+    "name": "KNN GLORIA DO GOITA",
+    "status": "INAUGURADA",
+    "address": "Rua Quinze de Novembro, 48 - Centro",
+    "city": "GLÓRIA DO GOITÁ",
+    "state": "PE",
+    "cep": "55620000",
+    "phone": "81996141150",
+    "email": "gloriadogoita@knnidiomas.com.br",
+    "cnpj": "10260159000107",
+    "coordinates": {
+      "lat": -8.0014519,
+      "lng": -35.293097
+    }
+  },
+  {
+    "id": 144,
+    "name": "KNN GOIANA",
+    "status": "INAUGURADA",
+    "address": "Avenida Nunes Machado, 102 - Centro",
+    "city": "GOIANA",
+    "state": "PE",
+    "cep": "55900000",
+    "phone": "81989795645",
+    "email": "goiana@knnidiomas.com.br",
+    "cnpj": "44943734000180",
+    "coordinates": {
+      "lat": -7.5576419,
+      "lng": -34.9973981
+    }
+  },
+  {
+    "id": 145,
+    "name": "KNN GOIANESIA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA BRASIL OESTE, 214 - CENTRO",
+    "city": "GOIANÉSIA",
+    "state": "GO",
+    "cep": "76380070",
+    "phone": "6233535580",
+    "email": "goianesia@knnidiomas.com.br",
+    "cnpj": "28186660000128",
+    "coordinates": {
+      "lat": -15.3266165,
+      "lng": -49.1356701
+    }
+  },
+  {
+    "id": 146,
+    "name": "KNN GOIANIA 1",
+    "status": "INAUGURADA",
+    "address": "Avenida Goiás, 6015 - Setor Urias Magalhães",
+    "city": "GOIANIA",
+    "state": "GO",
+    "cep": "74565250",
+    "phone": "62996826746",
+    "email": "goiania@knnidiomas.com.br",
+    "cnpj": "05271120000147",
+    "coordinates": {
+      "lat": -16.6348385,
+      "lng": -49.2730231
+    }
+  },
+  {
+    "id": 147,
+    "name": "KNN GOIANIA 5",
+    "status": "INAUGURADA",
+    "address": "RUA 242, 214 - SETOR UNIVERSITARIO",
+    "city": "GOIANIA",
+    "state": "GO",
+    "cep": "74603190",
+    "phone": "6238772001",
+    "email": "goiania05@knnidiomas.com.br",
+    "cnpj": "36533539000153",
+    "coordinates": {
+      "lat": -16.6818734,
+      "lng": -49.2450143
+    }
+  },
+  {
+    "id": 148,
+    "name": "KNN GOIANIA ELDORADO 2",
+    "status": "INAUGURADA",
+    "address": "R CP 13, 458 - RES. ELDORADO",
+    "city": "GOIANIA",
+    "state": "GO",
+    "cep": "74373160",
+    "phone": "6236120689",
+    "email": "goianiaeldorado@knnidiomas.com.br",
+    "cnpj": "34368179000156",
+    "coordinates": {
+      "lat": -16.70948,
+      "lng": -49.3236906
+    }
+  },
+  {
+    "id": 149,
+    "name": "KNN GOIAS VELHO",
+    "status": "INAUGURADA",
+    "address": "R EDGAR CAMELO, 01 - LESTE",
+    "city": "GOIÁS",
+    "state": "GO",
+    "cep": "76600000",
+    "phone": "6292212530",
+    "email": "goiasvelho@knnidiomas.com.br",
+    "cnpj": "46336032000163",
+    "coordinates": {
+      "lat": -15.9432617,
+      "lng": -50.1368143
+    }
+  },
+  {
+    "id": 150,
+    "name": "KNN GOIOERE",
+    "status": "INAUGURADA",
+    "address": "Avenida 19 de Agosto, 961 - Centro",
+    "city": "GOIOERÊ",
+    "state": "PR",
+    "cep": "87360000",
+    "phone": "4438380554",
+    "email": "goioere@knnidiomas.com.br",
+    "cnpj": "32952603000180",
+    "coordinates": {
+      "lat": -24.1891435,
+      "lng": -53.0261855
+    }
+  },
+  {
+    "id": 151,
+    "name": "KNN GOVERNADOR CELSO RAMOS",
+    "status": "INAUGURADA",
+    "address": "ROD FRANCISCO WOLLINGER, 1450 - AREIAS DO MEIO",
+    "city": "GOVERNADOR CELSO RAMOS",
+    "state": "SC",
+    "cep": "88190000",
+    "phone": "4832201941",
+    "email": "governadorcelsoramos02@knnidiomas.com.br",
+    "cnpj": "51559257000119",
+    "coordinates": {
+      "lat": -27.3842501,
+      "lng": -48.6156957
+    }
+  },
+  {
+    "id": 152,
+    "name": "KNN GRAJAU",
+    "status": "INAUGURADA",
+    "address": "RUA RAIMUNDO MORAIS, 125 - CANOEIRO",
+    "city": "GRAJAÚ",
+    "state": "MA",
+    "cep": "65940000",
+    "phone": "99981588957",
+    "email": "grajau-ma@knnidiomas.com.br",
+    "cnpj": "50749079000126",
+    "coordinates": {
+      "lat": -5.8224953,
+      "lng": -46.1548801
+    }
+  },
+  {
+    "id": 153,
+    "name": "KNN GUAIRA PR",
+    "status": "INAUGURADA",
+    "address": "RUA LUIZ HASPER, 921 - CENTRO",
+    "city": "GUAÍRA",
+    "state": "PR",
+    "cep": "85980000",
+    "phone": "44997592505",
+    "email": "guaira@knnidiomas.com.br",
+    "cnpj": "33690566000141",
+    "coordinates": {
+      "lat": -24.0835637,
+      "lng": -54.246793
+    }
+  },
+  {
+    "id": 154,
+    "name": "KNN GUARAPARI",
+    "status": "INAUGURADA",
+    "address": "AVENIDA POLIVALENTE, 20 - ITAPEBUSSU",
+    "city": "GUARAPARI",
+    "state": "ES",
+    "cep": "29216590",
+    "phone": "2730302600",
+    "email": "guarapari@knnidiomas.com.br",
+    "cnpj": "14760478000124",
+    "coordinates": {
+      "lat": -20.6617157,
+      "lng": -40.5040821
+    }
+  },
+  {
+    "id": 155,
+    "name": "KNN GUARATINGUETA",
+    "status": "INAUGURADA",
+    "address": "PC Joaquim Vilela de Oliveira Marcondes, 178 - Sao Goncalo",
+    "city": "GUARATINGUETÁ",
+    "state": "SP",
+    "cep": "12502040",
+    "phone": "1230130575",
+    "email": "guaratingueta@knnidiomas.com.br",
+    "cnpj": "29019532000152",
+    "coordinates": {
+      "lat": -22.8093584,
+      "lng": -45.1814056
+    }
+  },
+  {
+    "id": 156,
+    "name": "KNN GUARATUBA",
+    "status": "INAUGURADA",
+    "address": "RUA JOSE NICOLAU ABAGGE, 1193 - CENTRO",
+    "city": "GUARATUBA",
+    "state": "PR",
+    "cep": "83280000",
+    "phone": "41992875469",
+    "email": "guaratuba@knnidiomas.com.br",
+    "cnpj": "48483134000137",
+    "coordinates": {
+      "lat": -25.8833706,
+      "lng": -48.5810794
+    }
+  },
+  {
+    "id": 157,
+    "name": "KNN GUARUJA",
+    "status": "INAUGURADA",
+    "address": "Rua Quinto Bertoldi, 27 - Pitangueiras",
+    "city": "GUARUJÁ",
+    "state": "SP",
+    "cep": "11410130",
+    "phone": "1333596708",
+    "email": "guaruja@knnidiomas.com.br",
+    "cnpj": "48873973000161",
+    "coordinates": {
+      "lat": -23.9910079,
+      "lng": -46.2536965
+    }
+  },
+  {
+    "id": 158,
+    "name": "KNN IBIRAMA",
+    "status": "INAUGURADA",
+    "address": "RUA DOUTOR GETULIO VARGAS, 201 - CENTRO",
+    "city": "IBIRAMA",
+    "state": "SC",
+    "cep": "89140000",
+    "phone": "4733573613",
+    "email": "ibirama@knnidiomas.com.br",
+    "cnpj": "47531887000108",
+    "coordinates": {
+      "lat": -27.0536726,
+      "lng": -49.5174805
+    }
+  },
+  {
+    "id": 159,
+    "name": "KNN IGARAPAVA",
+    "status": "INAUGURADA",
+    "address": "RUA NICOLAU JORGE NUNES, 37 - DA SAUDADE",
+    "city": "IGARAPAVA",
+    "state": "SP",
+    "cep": "14540000",
+    "phone": "1631727322",
+    "email": "igarapava@knnidiomas.com.br",
+    "cnpj": "50974036000144",
+    "coordinates": {
+      "lat": -20.0333528,
+      "lng": -47.7452072
+    }
+  },
+  {
+    "id": 160,
+    "name": "KNN ILHABELA",
+    "status": "INAUGURADA",
+    "address": "RUA MARIA DIAS BARBOSA, 77 - PEREQUE",
+    "city": "ILHABELA",
+    "state": "SP",
+    "cep": "11630000",
+    "phone": "1238962853",
+    "email": "ilhabela@knnidiomas.com.br",
+    "cnpj": "08900406000302",
+    "coordinates": {
+      "lat": -23.8188745,
+      "lng": -45.3668061
+    }
+  },
+  {
+    "id": 161,
+    "name": "KNN ILHEUS",
+    "status": "INAUGURADA",
+    "address": "Avenida Lomanto Junior, 1080 - Pontal",
+    "city": "ILHÉUS",
+    "state": "BA",
+    "cep": "45654000",
+    "phone": "7332236102",
+    "email": "ilheus@knnidiomas.com.br",
+    "cnpj": "40775432000199",
+    "coordinates": {
+      "lat": -14.8114475,
+      "lng": -39.0330191
+    }
+  },
+  {
+    "id": 162,
+    "name": "KNN IMBITUBA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA SANTA CATARINA, 267 - CENTRO",
+    "city": "IMBITUBA",
+    "state": "SC",
+    "cep": "88780000",
+    "phone": "4832552150",
+    "email": "imbituba@knnidiomas.com.br",
+    "cnpj": "36117263000122",
+    "coordinates": {
+      "lat": -28.2373256,
+      "lng": -48.6646014
+    }
+  },
+  {
+    "id": 163,
+    "name": "KNN IPAMERI",
+    "status": "INAUGURADA",
+    "address": "CEL JOAO VAZ, 1 - CENTRO",
+    "city": "IPAMERI",
+    "state": "GO",
+    "cep": "75780000",
+    "phone": "64999031216",
+    "email": "ipameri@knnidiomas.com.br",
+    "cnpj": "42474311000132",
+    "coordinates": {
+      "lat": -17.7205165,
+      "lng": -48.1629583
+    }
+  },
+  {
+    "id": 164,
+    "name": "KNN IPORA DO OESTE",
+    "status": "INAUGURADA",
+    "address": "RUA 1 DE MAIO, 113 - CENTRO",
+    "city": "IPORÃ DO OESTE",
+    "state": "SC",
+    "cep": "89899000",
+    "phone": "49991134235",
+    "email": "iporadooeste@knnidiomas.com.br",
+    "cnpj": "45577320000228",
+    "coordinates": {
+      "lat": -26.9880157,
+      "lng": -53.5346377
+    }
+  },
+  {
+    "id": 165,
+    "name": "KNN IRATI",
+    "status": "INAUGURADA",
+    "address": "RUA PRESIDENTE GETULIO VARGAS, 1263 - FOSFORO",
+    "city": "IRATI",
+    "state": "PR",
+    "cep": "84504418",
+    "phone": "4720331310",
+    "email": "irati@knnidiomas.com.br",
+    "cnpj": "47357297000100",
+    "coordinates": {
+      "lat": -25.4818878,
+      "lng": -50.6564163
+    }
+  },
+  {
+    "id": 166,
+    "name": "KNN IRINEOPOLIS",
+    "status": "INAUGURADA",
+    "address": "Avenida 22 de Julho, 1632 - Centro - Urbano",
+    "city": "IRINEÓPOLIS",
+    "state": "SC",
+    "cep": "89440000",
+    "phone": "4733058469",
+    "email": "irineopolis@knnidiomas.com.br",
+    "cnpj": "29843247000151",
+    "coordinates": {
+      "lat": -26.2457816,
+      "lng": -50.79084839999999
+    }
+  },
+  {
+    "id": 167,
+    "name": "KNN ITABIRA",
+    "status": "INAUGURADA",
+    "address": "RUA JOSE BRAGANCA, 242 - QTORZE DE FEVEREIRO",
+    "city": "ITABIRA",
+    "state": "MG",
+    "cep": "35900000",
+    "phone": "3138341662",
+    "email": "itabira@knnidiomas.com.br",
+    "cnpj": "34379627000117",
+    "coordinates": {
+      "lat": -19.6256479,
+      "lng": -43.2246955
+    }
+  },
+  {
+    "id": 168,
+    "name": "KNN ITAJAI",
+    "status": "INAUGURADA",
+    "address": "RUA URUGUAI, 715A - FAZENDA",
+    "city": "ITAJAÍ",
+    "state": "SC",
+    "cep": "88302203",
+    "phone": "4733463386",
+    "email": "itajaifazenda@knnidiomas.com.br",
+    "cnpj": "47734677000117",
+    "coordinates": {
+      "lat": -26.9156869,
+      "lng": -48.65921489999999
+    }
+  },
+  {
+    "id": 169,
+    "name": "KNN ITALVA",
+    "status": "INAUGURADA",
+    "address": "Rua Olivia Faria, 96 - Centro",
+    "city": "ITALVA",
+    "state": "RJ",
+    "cep": "28250000",
+    "phone": "22981768097",
+    "email": "italva@knnidiomas.com.br",
+    "cnpj": "33946482000126",
+    "coordinates": {
+      "lat": -21.4241276,
+      "lng": -41.6932725
+    }
+  },
+  {
+    "id": 170,
+    "name": "KNN ITAMONTE",
+    "status": "INAUGURADA",
+    "address": "JOSE AUGUSTO GUIMARAES, 54 - CENTRO",
+    "city": "ITAMONTE",
+    "state": "MG",
+    "cep": "37466000",
+    "phone": "35997470200",
+    "email": "itamonte@knnidiomas.com.br",
+    "cnpj": "45565557000108",
+    "coordinates": {
+      "lat": -22.2829994,
+      "lng": -44.8708556
+    }
+  },
+  {
+    "id": 171,
+    "name": "KNN ITANHAEM",
+    "status": "INAUGURADA",
+    "address": "AV WASHINGTON LUIZ, 173 - CENTRO",
+    "city": "ITANHAÉM",
+    "state": "SP",
+    "cep": "11740000",
+    "phone": "1332863941",
+    "email": "itanhaem@knnidiomas.com.br",
+    "cnpj": "35824559000110",
+    "coordinates": {
+      "lat": -24.1860238,
+      "lng": -46.7900982
+    }
+  },
+  {
+    "id": 172,
+    "name": "KNN ITAOCARA",
+    "status": "INAUGURADA",
+    "address": "R SEBASTIAO DA PENHA RANGEL, 221 - CENTRO",
+    "city": "ITAOCARA",
+    "state": "RJ",
+    "cep": "28570000",
+    "phone": "2238613435",
+    "email": "itaocara@knnidiomas.com.br",
+    "cnpj": "36620134000152",
+    "coordinates": {
+      "lat": -21.6687212,
+      "lng": -42.083076
+    }
+  },
+  {
+    "id": 173,
+    "name": "KNN ITAPEMA",
+    "status": "INAUGURADA",
+    "address": "RUA 240, 90 - MEIA PRAIA",
+    "city": "ITAPEMA",
+    "state": "SC",
+    "cep": "88220000",
+    "phone": "4733680870",
+    "email": "itapema@knnidiomas.com.br",
+    "cnpj": "33948992000132",
+    "coordinates": {
+      "lat": -27.126991,
+      "lng": -48.6038256
+    }
+  },
+  {
+    "id": 174,
+    "name": "KNN ITAPETININGA",
+    "status": "INAUGURADA",
+    "address": "RUA MANOEL MENA LADEIRA, 88 - CENTRO",
+    "city": "ITAPETININGA",
+    "state": "SP",
+    "cep": "18200145",
+    "phone": "1532711515",
+    "email": "itapetininga01@knnidiomas.com.br",
+    "cnpj": "34592641000102",
+    "coordinates": {
+      "lat": -23.5806777,
+      "lng": -48.04201219999999
+    }
+  },
+  {
+    "id": 175,
+    "name": "KNN ITAPIRANGA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA URUGUAI, 991 - CENTRO",
+    "city": "ITAPIRANGA",
+    "state": "SC",
+    "cep": "89896000",
+    "phone": "4931941980",
+    "email": "itapiranga@knnidiomas.com.br",
+    "cnpj": "39376269000102",
+    "coordinates": {
+      "lat": -27.1780417,
+      "lng": -53.716538
+    }
+  },
+  {
+    "id": 176,
+    "name": "KNN ITAPOA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA CELSO RAMOS, 1247 - BALNEARIO CAMBIJU",
+    "city": "ITAPOÁ",
+    "state": "SC",
+    "cep": "89249000",
+    "phone": "47984431029",
+    "email": "itapoa@knnidiomas.com.br",
+    "cnpj": "48292517000128",
+    "coordinates": {
+      "lat": -26.0605951,
+      "lng": -48.6147066
+    }
+  },
+  {
+    "id": 177,
+    "name": "KNN ITAQUIRAI",
+    "status": "INAUGURADA",
+    "address": "RUA CAMPO GRANDE, 891 - CENTRO",
+    "city": "ITAQUIRAÍ",
+    "state": "MS",
+    "cep": "79965000",
+    "phone": "67998522418",
+    "email": "itaquirai@knnidiomas.com.br",
+    "cnpj": "38820261000120",
+    "coordinates": {
+      "lat": -23.4780377,
+      "lng": -54.18357289999999
+    }
+  },
+  {
+    "id": 178,
+    "name": "KNN ITATIAIUCU",
+    "status": "INAUGURADA",
+    "address": "RUA JOSE GONCALVES DE RESENDE, 31 - CENTRO",
+    "city": "ITATIAIUÇU",
+    "state": "MG",
+    "cep": "35685000",
+    "phone": "3175080443",
+    "email": "itatiaiucu@knnidiomas.com.br",
+    "cnpj": "46093009000195",
+    "coordinates": {
+      "lat": -20.1994771,
+      "lng": -44.4225971
+    }
+  },
+  {
+    "id": 179,
+    "name": "KNN ITAUBA",
+    "status": "INAUGURADA",
+    "address": "AV PRINCESA ISABEL, 113 - CENTRO",
+    "city": "ITAÚBA",
+    "state": "MT",
+    "cep": "78510000",
+    "phone": "6635231288",
+    "email": "itauba@knnidiomas.com.br",
+    "cnpj": "29458441000202",
+    "coordinates": {
+      "lat": -11.0061161,
+      "lng": -55.24391139999999
+    }
+  },
+  {
+    "id": 180,
+    "name": "KNN ITU",
+    "status": "INAUGURADA",
+    "address": "RUA RORAIMA, 200 - BRASIL",
+    "city": "ITU",
+    "state": "SP",
+    "cep": "13301350",
+    "phone": "1124292667",
+    "email": "itu@knnidiomas.com.br",
+    "cnpj": "45815509000120",
+    "coordinates": {
+      "lat": -23.2565575,
+      "lng": -47.2932588
+    }
+  },
+  {
+    "id": 181,
+    "name": "KNN ITUPEVA",
+    "status": "INAUGURADA",
+    "address": "RUA HENRIQUE DE OLIVEIRA, 154 - VILA PARAIZO",
+    "city": "ITUPEVA",
+    "state": "SP",
+    "cep": "13295000",
+    "phone": "11934959593",
+    "email": "itupeva@knnidiomas.com.br",
+    "cnpj": "39416077000182",
+    "coordinates": {
+      "lat": -23.152868,
+      "lng": -47.0593854
+    }
+  },
+  {
+    "id": 182,
+    "name": "KNN ITUPORANGA",
+    "status": "INAUGURADA",
+    "address": "TRAVESSA JACOB SENS, 20 - CENTRO",
+    "city": "ITUPORANGA",
+    "state": "SC",
+    "cep": "88400000",
+    "phone": "4735334639",
+    "email": "ituporanga@knnidiomas.com.br",
+    "cnpj": "29162457000184",
+    "coordinates": {
+      "lat": -27.4129972,
+      "lng": -49.605439
+    }
+  },
+  {
+    "id": 183,
+    "name": "KNN IVINHEMA",
+    "status": "INAUGURADA",
+    "address": "Rua Joao Ferreira Borges, 144 - Piraveve",
+    "city": "IVINHEMA",
+    "state": "MS",
+    "cep": "79740000",
+    "phone": "67996134631",
+    "email": "ivinhema@knnidiomas.com.br",
+    "cnpj": "29401203000171",
+    "coordinates": {
+      "lat": -22.3050637,
+      "lng": -53.8225402
+    }
+  },
+  {
+    "id": 184,
+    "name": "KNN JACIARA",
+    "status": "INAUGURADA",
+    "address": "RUA JURUCE, 1180 - CENTRO",
+    "city": "JACIARA",
+    "state": "MT",
+    "cep": "78820000",
+    "phone": "66996358642",
+    "email": "jaciara@knnidiomas.com.br",
+    "cnpj": "31855361000143",
+    "coordinates": {
+      "lat": -15.9669106,
+      "lng": -54.9680888
+    }
+  },
+  {
+    "id": 185,
+    "name": "KNN JAGUARAO",
+    "status": "INAUGURADA",
+    "address": "PRACA COMENDADOR AZEVEDO, 123 - CENTRO",
+    "city": "JAGUARÃO",
+    "state": "RS",
+    "cep": "96300000",
+    "phone": "00000000000",
+    "email": "jaguarao@knnidiomas.com.br",
+    "cnpj": "47943965000181",
+    "coordinates": {
+      "lat": -32.5610864,
+      "lng": -53.3796421
+    }
+  },
+  {
+    "id": 186,
+    "name": "KNN JAGUARIUNA",
+    "status": "INAUGURADA",
+    "address": "Avenida Lauro de Carvalho, 1084 - CENTRO",
+    "city": "JAGUARIÚNA",
+    "state": "SP",
+    "cep": "13910025",
+    "phone": "19996085114",
+    "email": "jaguariuna@knnidiomas.com.br",
+    "cnpj": "46027944000153",
+    "coordinates": {
+      "lat": -22.7050041,
+      "lng": -46.9867846
+    }
+  },
+  {
+    "id": 187,
+    "name": "KNN JAGUARUNA",
+    "status": "INAUGURADA",
+    "address": "Rua Alfredo Bernardini, 1167 - Centro",
+    "city": "JAGUARUNA",
+    "state": "SC",
+    "cep": "88715000",
+    "phone": "47997454038",
+    "email": "jaguaruna@knnidiomas.com.br",
+    "cnpj": "44869328000114",
+    "coordinates": {
+      "lat": -28.6200064,
+      "lng": -49.02652399999999
+    }
+  },
+  {
+    "id": 188,
+    "name": "KNN JALES",
+    "status": "INAUGURADA",
+    "address": "AVENIDA FRANCISCO JALES , 1593 - CENTRO",
+    "city": "JALES",
+    "state": "SP",
+    "cep": "15703200",
+    "phone": "1730850005",
+    "email": "jales@knnidiomas.com.br",
+    "cnpj": "26766296000140",
+    "coordinates": {
+      "lat": -20.2760852,
+      "lng": -50.54384750000001
+    }
+  },
+  {
+    "id": 189,
+    "name": "KNN JARAGUA DO SUL",
+    "status": "INAUGURADA",
+    "address": "Rua Tufie Mahfud, 18 - Centro",
+    "city": "JARAGUÁ DO SUL",
+    "state": "SC",
+    "cep": "89251080",
+    "phone": "4720206262",
+    "email": "jaraguadosul@knnidiomas.com.br",
+    "cnpj": "47731495000192",
+    "coordinates": {
+      "lat": -26.4777505,
+      "lng": -49.089271
+    }
+  },
+  {
+    "id": 190,
+    "name": "KNN JARDIM",
+    "status": "INAUGURADA",
+    "address": "AV DUQUE DE CAXIAS, 2086 - JARDIM FELICISSIMO",
+    "city": "JARDIM",
+    "state": "MS",
+    "cep": "79240000",
+    "phone": "67998262558",
+    "email": "jardim.ms@knnidiomas.com.br",
+    "cnpj": "45900508000184",
+    "coordinates": {
+      "lat": -21.4873229,
+      "lng": -56.1559249
+    }
+  },
+  {
+    "id": 191,
+    "name": "KNN JARINU",
+    "status": "INAUGURADA",
+    "address": "Avenida Dr Antenor Soares Gandra, 222 - Centro",
+    "city": "JARINU",
+    "state": "SP",
+    "cep": "13240000",
+    "phone": "11934945678",
+    "email": "jarinu@knnidiomas.com.br",
+    "cnpj": "44464195000104",
+    "coordinates": {
+      "lat": -23.1015576,
+      "lng": -46.7313607
+    }
+  },
+  {
+    "id": 192,
+    "name": "KNN JARU",
+    "status": "INAUGURADA",
+    "address": "Avenida Brasil, 1975 - Setor 1",
+    "city": "JARU",
+    "state": "RO",
+    "cep": "76890000",
+    "phone": "69993360448",
+    "email": "jaru@knnidiomas.com.br",
+    "cnpj": "45235414000138",
+    "coordinates": {
+      "lat": -10.4350335,
+      "lng": -62.47177599999999
+    }
+  },
+  {
+    "id": 193,
+    "name": "KNN JEQUIE",
+    "status": "INAUGURADA",
+    "address": "RUA 15 DE NOVEMBRO, 497 - CAMPO DO AMERICA",
+    "city": "JEQUIÉ",
+    "state": "BA",
+    "cep": "45203048",
+    "phone": "7330462090",
+    "email": "jequie@knnidiomas.com.br",
+    "cnpj": "15756204000124",
+    "coordinates": {
+      "lat": -13.8558315,
+      "lng": -40.076935
+    }
+  },
+  {
+    "id": 194,
+    "name": "KNN JESUITAS",
+    "status": "INAUGURADA",
+    "address": "RUA SAO VERGILIO, 174 - CENTRO",
+    "city": "JESUÍTAS",
+    "state": "PR",
+    "cep": "85835000",
+    "phone": "4431990939",
+    "email": "jesuitas@knnidiomas.com.br",
+    "cnpj": "52192175000141",
+    "coordinates": {
+      "lat": -24.3794566,
+      "lng": -53.383826
+    }
+  },
+  {
+    "id": 195,
+    "name": "KNN JOAO PESSOA 02 - DCT",
+    "status": "INAUGURADA",
+    "address": "R EMPRESARIO CLOVIS ROLIM, 2051 - IPES",
+    "city": "JOÃO PESSOA",
+    "state": "PB",
+    "cep": "58000000",
+    "phone": "8399411700",
+    "email": "joaopessoa.dct@knnidiomas.com.br",
+    "cnpj": "33184825000324",
+    "coordinates": {
+      "lat": -7.103242,
+      "lng": -34.8474345
+    }
+  },
+  {
+    "id": 196,
+    "name": "KNN JOAO PESSOA 03 - BESSA",
+    "status": "INAUGURADA",
+    "address": "RUA EMPRESARIO CLOVIS ROLIM, 2051 - IPES",
+    "city": "JOÃO PESSOA",
+    "state": "PB",
+    "cep": "58028873",
+    "phone": "8335788211",
+    "email": "joaopessoa03@knnidiomas.com.br",
+    "cnpj": "33184825000405",
+    "coordinates": {
+      "lat": -7.103242,
+      "lng": -34.8474345
+    }
+  },
+  {
+    "id": 197,
+    "name": "KNN JOAO PESSOA 04",
+    "status": "INAUGURADA",
+    "address": "AVENIDA GOVERNADOR ARGEMIRO DE FIGUEIREDO, 260 - JARDIM OCEANIA",
+    "city": "JOÃO PESSOA",
+    "state": "PB",
+    "cep": "58037030",
+    "phone": "8335788211",
+    "email": "joaopessoa04@knnidiomas.com.br",
+    "cnpj": "51315044000141",
+    "coordinates": {
+      "lat": -7.0947606,
+      "lng": -34.8343075
+    }
+  },
+  {
+    "id": 198,
+    "name": "KNN JOINVILLE AMERICA (UNIDADE 02)",
+    "status": "INAUGURADA",
+    "address": "RUA TIJUCAS, 151 - AMERICA",
+    "city": "JOINVILLE",
+    "state": "SC",
+    "cep": "89204020",
+    "phone": "4734221010",
+    "email": "joinville2@knnidiomas.com.br",
+    "cnpj": "05298277000166",
+    "coordinates": {
+      "lat": -26.2959435,
+      "lng": -48.8461759
+    }
+  },
+  {
+    "id": 199,
+    "name": "KNN JOINVILLE BUCAREIN (UNIDADE 01)",
+    "status": "INAUGURADA",
+    "address": "RUA URUSSANGA, 294 - BUCAREIN",
+    "city": "JOINVILLE",
+    "state": "SC",
+    "cep": "89202420",
+    "phone": "4734335925",
+    "email": "joinville1@knnidiomas.com.br",
+    "cnpj": "02408189000181",
+    "coordinates": {
+      "lat": -26.309876,
+      "lng": -48.8398385
+    }
+  },
+  {
+    "id": 200,
+    "name": "KNN JOINVILLE SAGUACU (UNIDADE 03)",
+    "status": "INAUGURADA",
+    "address": "Avenida Aluisio Pires Condeixa, 2750 - Saguacu",
+    "city": "JOINVILLE",
+    "state": "SC",
+    "cep": "89221750",
+    "phone": "4730281100",
+    "email": "joinville3@knnidiomas.com.br",
+    "cnpj": "23190232000155",
+    "coordinates": {
+      "lat": -26.2790634,
+      "lng": -48.8461565
+    }
+  },
+  {
+    "id": 201,
+    "name": "KNN JUATUBA",
+    "status": "INAUGURADA",
+    "address": "RUA TANUS SALIBA, 215 - CENTRO",
+    "city": "JUATUBA",
+    "state": "MG",
+    "cep": "35675000",
+    "phone": "3135355571",
+    "email": "juatuba@knnidiomas.com.br",
+    "cnpj": "32377968000128",
+    "coordinates": {
+      "lat": -19.9547439,
+      "lng": -44.3406285
+    }
+  },
+  {
+    "id": 202,
+    "name": "KNN JUINA",
+    "status": "INAUGURADA",
+    "address": "Avenida Nove de Maio, 428N - Modulo 01",
+    "city": "JUÍNA",
+    "state": "MT",
+    "cep": "78320000",
+    "phone": "6635663386",
+    "email": "juina@knnidiomas.com.br",
+    "cnpj": "40091393000100",
+    "coordinates": {
+      "lat": -11.4216598,
+      "lng": -58.7577994
+    }
+  },
+  {
+    "id": 203,
+    "name": "KNN JUIZ DE FORA",
+    "status": "INAUGURADA",
+    "address": "Rua Delfim Moreira, 222 - Centro",
+    "city": "JUIZ DE FORA",
+    "state": "MG",
+    "cep": "36010570",
+    "phone": "3230292630",
+    "email": "juizdefora01@knnidiomas.com.br",
+    "cnpj": "41966291000154",
+    "coordinates": {
+      "lat": -21.7688998,
+      "lng": -43.3450618
+    }
+  },
+  {
+    "id": 204,
+    "name": "KNN JUNDIAI",
+    "status": "INAUGURADA",
+    "address": "RUA VISCONDE DE TAUNAY, 119 - VILA ARENS II",
+    "city": "JUNDIAÍ",
+    "state": "SP",
+    "cep": "13202540",
+    "phone": "1139640544",
+    "email": "jundiai-sp@knnidiomas.com.br",
+    "cnpj": "20213572000166",
+    "coordinates": {
+      "lat": -23.1977383,
+      "lng": -46.8775759
+    }
+  },
+  {
+    "id": 205,
+    "name": "KNN JUQUIA",
+    "status": "INAUGURADA",
+    "address": "AV BRASIL, 1295 - CENTRO",
+    "city": "JUQUIÁ",
+    "state": "SP",
+    "cep": "11800000",
+    "phone": "1182156016",
+    "email": "juquia@knnidiomas.com.br",
+    "cnpj": "50752817000194",
+    "coordinates": {
+      "lat": -24.3151778,
+      "lng": -47.6317357
+    }
+  },
+  {
+    "id": 206,
+    "name": "KNN LAGO DA PEDRA",
+    "status": "INAUGURADA",
+    "address": "Rua Senador Vitorino Freire, 223 - Centro",
+    "city": "LAGO DA PEDRA",
+    "state": "MA",
+    "cep": "65715000",
+    "phone": "99984585763",
+    "email": "lagodapedra@knnidiomas.com.br",
+    "cnpj": "45517898000108",
+    "coordinates": {
+      "lat": -4.570007299999999,
+      "lng": -45.1315519
+    }
+  },
+  {
+    "id": 207,
+    "name": "KNN LAGOA VERMELHA",
+    "status": "INAUGURADA",
+    "address": "RUA 14 DE JULHO, 32 - PEDREGAL",
+    "city": "LAGOA VERMELHA",
+    "state": "RS",
+    "cep": "95300000",
+    "phone": "54999554496",
+    "email": "lagoavermelha@knnidiomas.com.br",
+    "cnpj": "26515732000108",
+    "coordinates": {
+      "lat": -28.2080696,
+      "lng": -51.5166709
+    }
+  },
+  {
+    "id": 208,
+    "name": "KNN LAGUNA",
+    "status": "INAUGURADA",
+    "address": "RUA CORONEL FERNANDES MARTINS, 383 - PROGRESSO",
+    "city": "LAGUNA",
+    "state": "SC",
+    "cep": "88790000",
+    "phone": "4836440885",
+    "email": "laguna@knnidiomas.com.br",
+    "cnpj": "34639144000104",
+    "coordinates": {
+      "lat": -28.4759087,
+      "lng": -48.7841788
+    }
+  },
+  {
+    "id": 209,
+    "name": "KNN LAMBARI",
+    "status": "INAUGURADA",
+    "address": "R DOUTOR GARCAO STOCKLER, 130 - CENTRO",
+    "city": "LAMBARI",
+    "state": "MG",
+    "cep": "37480000",
+    "phone": "35999971964",
+    "email": "lambari@knnidiomas.com.br",
+    "cnpj": "46481963000155",
+    "coordinates": {
+      "lat": -21.9750372,
+      "lng": -45.3487446
+    }
+  },
+  {
+    "id": 210,
+    "name": "KNN LAPA PR",
+    "status": "INAUGURADA",
+    "address": "RUA XV DE NOVEMBRO, 532 - CASCATA",
+    "city": "LAPA",
+    "state": "PR",
+    "cep": "83750000",
+    "phone": "4135475834",
+    "email": "lapa02@knnidiomas.com.br",
+    "cnpj": "36273518000146",
+    "coordinates": {
+      "lat": -25.7725664,
+      "lng": -49.7152521
+    }
+  },
+  {
+    "id": 211,
+    "name": "KNN LAURO DE FREITAS",
+    "status": "INAUGURADA",
+    "address": "RUA PRISCILA B DUTRA , 541 - BURAQUINHO",
+    "city": "LAURO DE FREITAS",
+    "state": "BA",
+    "cep": "42709200",
+    "phone": "7133796487",
+    "email": "laurodefreitas01@knnidiomas.com.br",
+    "cnpj": "06349263000197",
+    "coordinates": {
+      "lat": -12.87735,
+      "lng": -38.3006377
+    }
+  },
+  {
+    "id": 212,
+    "name": "KNN LAURO MULLER",
+    "status": "INAUGURADA",
+    "address": "RUA HENRIQUE LAGE, 49 - CENTRO",
+    "city": "LAURO MULLER",
+    "state": "SC",
+    "cep": "88880000",
+    "phone": "4834645980",
+    "email": "lauromuller@knnidiomas.com.br",
+    "cnpj": "49419014000133",
+    "coordinates": {
+      "lat": -28.3933035,
+      "lng": -49.3981349
+    }
+  },
+  {
+    "id": 213,
+    "name": "KNN LIMOEIRO DO NORTE",
+    "status": "INAUGURADA",
+    "address": "RUA SABINO ROBERTO DE FREITAS, 2990 - CENTRO",
+    "city": "LIMOEIRO DO NORTE",
+    "state": "CE",
+    "cep": "62930000",
+    "phone": "4720331310",
+    "email": "limoeirodonorte@knnidiomas.com.br",
+    "cnpj": "32347218000103",
+    "coordinates": {
+      "lat": -5.1403225,
+      "lng": -38.0970135
+    }
+  },
+  {
+    "id": 214,
+    "name": "KNN LONDRINA 01",
+    "status": "INAUGURADA",
+    "address": "RUA BELO HORIZONTE, 809 - CENTRO",
+    "city": "LONDRINA",
+    "state": "PR",
+    "cep": "86020060",
+    "phone": "4333616177",
+    "email": "londrina@knnidiomas.com.br",
+    "cnpj": "41211904000143",
+    "coordinates": {
+      "lat": -23.3114332,
+      "lng": -51.1664841
+    }
+  },
+  {
+    "id": 215,
+    "name": "KNN LONDRINA 02",
+    "status": "INAUGURADA",
+    "address": "AVENIDA TIRADENTES, 200 - JARDIM SHANGRI-LA A",
+    "city": "LONDRINA",
+    "state": "PR",
+    "cep": "86070545",
+    "phone": "4332580029",
+    "email": "londrina02@knnidiomas.com.br",
+    "cnpj": "49504742000143",
+    "coordinates": {
+      "lat": -23.3014855,
+      "lng": -51.1754072
+    }
+  },
+  {
+    "id": 216,
+    "name": "KNN LORENA",
+    "status": "INAUGURADA",
+    "address": "Avenida Oswaldo Aranha, 33 - Cruz",
+    "city": "LORENA",
+    "state": "SP",
+    "cep": "12606000",
+    "phone": "1233015644",
+    "email": "lorena@knnidiomas.com.br",
+    "cnpj": "29746011000105",
+    "coordinates": {
+      "lat": -22.733884,
+      "lng": -45.1172256
+    }
+  },
+  {
+    "id": 217,
+    "name": "KNN LUCAS DO RIO VERDE",
+    "status": "INAUGURADA",
+    "address": "RUA FRANCISCO BELTRAO, 55 - MENINO DEUS",
+    "city": "LUCAS DO RIO VERDE",
+    "state": "MT",
+    "cep": "78455000",
+    "phone": "65993470687",
+    "email": "lucasdorioverde@knnidiomas.com.br",
+    "cnpj": "39997593000148",
+    "coordinates": {
+      "lat": -13.0772806,
+      "lng": -55.9271278
+    }
+  },
+  {
+    "id": 218,
+    "name": "KNN LUIZ ALVES",
+    "status": "INAUGURADA",
+    "address": "RUA PROFESSOR SIMAO HESS, 744 - VILA DO SALTO",
+    "city": "LUIZ ALVES",
+    "state": "SC",
+    "cep": "89128000",
+    "phone": "4733086300",
+    "email": "luizalves@knnidiomas.com.br",
+    "cnpj": "48397347000146",
+    "coordinates": {
+      "lat": -26.7122304,
+      "lng": -48.9089988
+    }
+  },
+  {
+    "id": 219,
+    "name": "KNN MACAE",
+    "status": "INAUGURADA",
+    "address": "RUA JOSÉ DE AGUIAR FRANCO, 318 - COSTA DO SOL",
+    "city": "MACAÉ",
+    "state": "RJ",
+    "cep": "27923320",
+    "phone": "2220204346",
+    "email": "macae@knnidiomas.com.br",
+    "cnpj": "32695565000127",
+    "coordinates": {
+      "lat": -22.3893079,
+      "lng": -41.7795178
+    }
+  },
+  {
+    "id": 220,
+    "name": "KNN MACAE 02",
+    "status": "INAUGURADA",
+    "address": "Rua Viracopos, 14 - Parque Aeroporto",
+    "city": "MACAÉ",
+    "state": "RJ",
+    "cep": "27963566",
+    "phone": "2281464632",
+    "email": "macae02@knnidiomas.com.br",
+    "cnpj": "50416559000175",
+    "coordinates": {
+      "lat": -22.3405926,
+      "lng": -41.7598495
+    }
+  },
+  {
+    "id": 221,
+    "name": "KNN MACAPA",
+    "status": "INAUGURADA",
+    "address": "ELIEZER LEVI, 2496 - BAIRRO CENTRAL",
+    "city": "MACAPÁ",
+    "state": "AP",
+    "cep": "68908000",
+    "phone": "9632226610",
+    "email": "macapa01@knnidiomas.com.br",
+    "cnpj": "42580260000123",
+    "coordinates": {
+      "lat": 0.0292818,
+      "lng": -51.0570441
+    }
+  },
+  {
+    "id": 222,
+    "name": "KNN MACEIO",
+    "status": "INAUGURADA",
+    "address": "RUA AFONSO PENA, 305 - FAROL",
+    "city": "MACEIÓ",
+    "state": "AL",
+    "cep": "57051040",
+    "phone": "8234354771",
+    "email": "maceio01@knnidiomas.com.br",
+    "cnpj": "40514667000127",
+    "coordinates": {
+      "lat": -9.6565127,
+      "lng": -35.733489
+    }
+  },
+  {
+    "id": 223,
+    "name": "KNN MALLET",
+    "status": "INAUGURADA",
+    "address": "AV JOAO PESSOA, 825 - CENTRO",
+    "city": "MALLET",
+    "state": "PR",
+    "cep": "84570000",
+    "phone": "4299924077",
+    "email": "mallet@knnidiomas.com.br",
+    "cnpj": "37420752000111",
+    "coordinates": {
+      "lat": -25.8829633,
+      "lng": -50.8246028
+    }
+  },
+  {
+    "id": 224,
+    "name": "KNN MANAUS",
+    "status": "INAUGURADA",
+    "address": "AVENIDA EPHIGENIO SALLES, 48 - ALEIXO",
+    "city": "MANAUS",
+    "state": "AM",
+    "cep": "69060020",
+    "phone": "92985110550",
+    "email": "manaus@knnidiomas.com.br",
+    "cnpj": "39687420000123",
+    "coordinates": {
+      "lat": -3.0921309,
+      "lng": -60.01365579999999
+    }
+  },
+  {
+    "id": 225,
+    "name": "KNN MANDIRITUBA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA BRASIL, 590 - CENTRO",
+    "city": "MANDIRITUBA",
+    "state": "PR",
+    "cep": "83800000",
+    "phone": "41996706024",
+    "email": "mandirituba02@knnidiomas.com.br",
+    "cnpj": "51452806000151",
+    "coordinates": {
+      "lat": -25.7765593,
+      "lng": -49.3256189
+    }
+  },
+  {
+    "id": 226,
+    "name": "KNN MANGUEIRINHA",
+    "status": "INAUGURADA",
+    "address": "RUA GOVERNARDOR TROTTA, 132 - CENTRO",
+    "city": "MANGUEIRINHA",
+    "state": "PR",
+    "cep": "85540000",
+    "phone": "46988294558",
+    "email": "mangueirinha@knnidiomas.com.br",
+    "cnpj": "29669329000121",
+    "coordinates": {
+      "lat": -25.9428982,
+      "lng": -52.1764176
+    }
+  },
+  {
+    "id": 227,
+    "name": "KNN MANHUACU",
+    "status": "INAUGURADA",
+    "address": "RUA DUARTE PEIXOTO, 199 - COQUEIRO",
+    "city": "MANHUAÇU",
+    "state": "MG",
+    "cep": "36900371",
+    "phone": "3321230528",
+    "email": "manhuacu@knnidiomas.com.br",
+    "cnpj": "08803030000148",
+    "coordinates": {
+      "lat": -20.250758,
+      "lng": -42.0346079
+    }
+  },
+  {
+    "id": 228,
+    "name": "KNN MANOEL RIBAS",
+    "status": "INAUGURADA",
+    "address": "AV SETE DE SETEMBRO, 1535 - CENTRO",
+    "city": "MANOEL RIBAS",
+    "state": "PR",
+    "cep": "85260000",
+    "phone": "41985162768",
+    "email": "manoelribas@knnidiomas.com.br",
+    "cnpj": "45878135000192",
+    "coordinates": {
+      "lat": -24.5184498,
+      "lng": -51.67455589999999
+    }
+  },
+  {
+    "id": 229,
+    "name": "KNN MANTENOPOLIS",
+    "status": "INAUGURADA",
+    "address": "PRESIDENTE VARGAS, 27 - CENTRO",
+    "city": "MANTENÓPOLIS",
+    "state": "ES",
+    "cep": "29770000",
+    "phone": "27999617535",
+    "email": "mantenopolis@knnidiomas.com.br",
+    "cnpj": "39531304000110",
+    "coordinates": {
+      "lat": -18.8617047,
+      "lng": -41.121213
+    }
+  },
+  {
+    "id": 230,
+    "name": "KNN MARACAJU",
+    "status": "INAUGURADA",
+    "address": "RUA PEREIRA DO LAGO, 2481 - CENTRO",
+    "city": "MARACAJU",
+    "state": "MS",
+    "cep": "79150000",
+    "phone": "6734545543",
+    "email": "maracaju@knnidiomas.com.br",
+    "cnpj": "39668527000124",
+    "coordinates": {
+      "lat": -21.6271433,
+      "lng": -55.1541866
+    }
+  },
+  {
+    "id": 231,
+    "name": "KNN MARATAIZES",
+    "status": "INAUGURADA",
+    "address": "Avenida Rubens Rangel, 05 - Ilmenita",
+    "city": "MARATAÍZES",
+    "state": "ES",
+    "cep": "29345000",
+    "phone": "28999846682",
+    "email": "marataizes@knnidiomas.com.br",
+    "cnpj": "44577686000153",
+    "coordinates": {
+      "lat": -21.0311059,
+      "lng": -40.8177156
+    }
+  },
+  {
+    "id": 232,
+    "name": "KNN MARAU",
+    "status": "INAUGURADA",
+    "address": "Rua Bento Gonçalves, 1273 - Centro",
+    "city": "MARAU",
+    "state": "RS",
+    "cep": "99150000",
+    "phone": "5420190170",
+    "email": "marau@knnidiomas.com.br",
+    "cnpj": "43099987000156",
+    "coordinates": {
+      "lat": -28.448005,
+      "lng": -52.207601
+    }
+  },
+  {
+    "id": 233,
+    "name": "KNN MARAVILHA",
+    "status": "INAUGURADA",
+    "address": "Avenida Anita Garibaldi, 1034 - Centro",
+    "city": "MARAVILHA",
+    "state": "SC",
+    "cep": "89874000",
+    "phone": "4936643880",
+    "email": "maravilha@knnidiomas.com.br",
+    "cnpj": "42022778000141",
+    "coordinates": {
+      "lat": -26.7666366,
+      "lng": -53.1847584
+    }
+  },
+  {
+    "id": 234,
+    "name": "KNN MARIALVA",
+    "status": "INAUGURADA",
+    "address": "Avenida Cristovao Colombo, 860 - Centro",
+    "city": "MARIALVA",
+    "state": "PR",
+    "cep": "86990000",
+    "phone": "4438013682",
+    "email": "marialva@knnidiomas.com.br",
+    "cnpj": "45102769000159",
+    "coordinates": {
+      "lat": -23.4884516,
+      "lng": -51.7929985
+    }
+  },
+  {
+    "id": 235,
+    "name": "KNN MARILIA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA DAS ESMERALDAS, 1225 - JARDIM TANGARA",
+    "city": "MARÍLIA",
+    "state": "SP",
+    "cep": "17516000",
+    "phone": "1434173835",
+    "email": "marilia@knnidiomas.com.br",
+    "cnpj": "09290407000175",
+    "coordinates": {
+      "lat": -22.226996,
+      "lng": -49.9300222
+    }
+  },
+  {
+    "id": 236,
+    "name": "KNN MARTINS SOARES",
+    "status": "INAUGURADA",
+    "address": "Rua Barnabe Alves Coutinho, 54 - Centro",
+    "city": "MARTINS SOARES",
+    "state": "MG",
+    "cep": "36972000",
+    "phone": "33998114747",
+    "email": "martinssoares@knnidiomas.com.br",
+    "cnpj": "28989064000186",
+    "coordinates": {
+      "lat": -20.259664,
+      "lng": -41.8782489
+    }
+  },
+  {
+    "id": 237,
+    "name": "KNN MASSARANDUBA",
+    "status": "INAUGURADA",
+    "address": "RUA LUIZ KREIS, 55 - CENTRO",
+    "city": "MASSARANDUBA",
+    "state": "SC",
+    "cep": "87108000",
+    "phone": "4733051833",
+    "email": "massaranduba@knnidiomas.com.br",
+    "cnpj": "32918958000152",
+    "coordinates": {
+      "lat": -26.6115819,
+      "lng": -49.0070691
+    }
+  },
+  {
+    "id": 238,
+    "name": "KNN MATELANDIA",
+    "status": "INAUGURADA",
+    "address": "Avenida Cristovao Colombo, 744 - Centro",
+    "city": "MATELÂNDIA",
+    "state": "PR",
+    "cep": "85887000",
+    "phone": "4530367214",
+    "email": "matelandia@knnidiomas.com.br",
+    "cnpj": "45254989000106",
+    "coordinates": {
+      "lat": -25.239361,
+      "lng": -53.9728645
+    }
+  },
+  {
+    "id": 239,
+    "name": "KNN MIRACEMA",
+    "status": "INAUGURADA",
+    "address": "CORONEL JOSE CARLOS MOREIRA, 93 - CENTRO",
+    "city": "MIRACEMA",
+    "state": "RJ",
+    "cep": "28460000",
+    "phone": "22992790469",
+    "email": "miracema@knnidiomas.com.br",
+    "cnpj": "34391310000104",
+    "coordinates": {
+      "lat": -21.4143762,
+      "lng": -42.197938
+    }
+  },
+  {
+    "id": 240,
+    "name": "KNN MIRADOURO",
+    "status": "INAUGURADA",
+    "address": "PC SANTA RITA, 150 - CENTRO",
+    "city": "MIRADOURO",
+    "state": "MG",
+    "cep": "36893000",
+    "phone": "32998426346",
+    "email": "miradouro@knnidiomas.com.br",
+    "cnpj": "15382080000245",
+    "coordinates": {
+      "lat": -22.2529165,
+      "lng": -45.7035546
+    }
+  },
+  {
+    "id": 241,
+    "name": "KNN MOGI DAS CRUZES",
+    "status": "INAUGURADA",
+    "address": "RUA PROFESSOR FLAVIANO DE MELO, 1413 - CENTRO",
+    "city": "MOGI DAS CRUZES",
+    "state": "SP",
+    "cep": "08710000",
+    "phone": "1147998162",
+    "email": "mogidascruzes@knnidiomas.com.br",
+    "cnpj": "01518507000102",
+    "coordinates": {
+      "lat": -23.5225888,
+      "lng": -46.1890378
+    }
+  },
+  {
+    "id": 242,
+    "name": "KNN MOGI DAS CRUZES 03",
+    "status": "INAUGURADA",
+    "address": "AV FRANCISCO FERREIRA LOPES, 2692 - BRAS CUBAS",
+    "city": "MOGI DAS CRUZES",
+    "state": "SP",
+    "cep": "08745000",
+    "phone": "1147225512",
+    "email": "mogidascruzes03@knnidiomas.com.br",
+    "cnpj": "50891071000108",
+    "coordinates": {
+      "lat": -23.5374365,
+      "lng": -46.2244395
+    }
+  },
+  {
+    "id": 243,
+    "name": "KNN MOGI DAS CRUZES 2",
+    "status": "INAUGURADA",
+    "address": "AVENIDA JOAO XXIII, 1013 - JARDIM SAO PEDRO",
+    "city": "MOGI DAS CRUZES",
+    "state": "SP",
+    "cep": "08830000",
+    "phone": "1128969009",
+    "email": "mogidascruzes02@knnidiomas.com.br",
+    "cnpj": "01518507000285",
+    "coordinates": {
+      "lat": -23.5111397,
+      "lng": -46.1449995
+    }
+  },
+  {
+    "id": 244,
+    "name": "KNN MOSSORO",
+    "status": "INAUGURADA",
+    "address": "Rua Amaro Duarte, 348 - Nova Betania",
+    "city": "MOSSORÓ",
+    "state": "RN",
+    "cep": "59612060",
+    "phone": "8421425442",
+    "email": "mossoro@knnidiomas.com.br",
+    "cnpj": "41212054000106",
+    "coordinates": {
+      "lat": -5.183042299999999,
+      "lng": -37.3569019
+    }
+  },
+  {
+    "id": 245,
+    "name": "KNN MUCURI (DISTRITO DE ITABATA)",
+    "status": "INAUGURADA",
+    "address": "Avenida Minas Gerais, 534 A - Centro",
+    "city": "MUCURI",
+    "state": "BA",
+    "cep": "45936000",
+    "phone": "73999170506",
+    "email": "itabata@knnidiomas.com.br",
+    "cnpj": "35817211000104",
+    "coordinates": {
+      "lat": -18.0067701,
+      "lng": -39.8624662
+    }
+  },
+  {
+    "id": 246,
+    "name": "KNN MUNDO NOVO",
+    "status": "INAUGURADA",
+    "address": "RUA VOLUNTARIOS DA PATRIA, 810 - CENTRO",
+    "city": "MUNDO NOVO",
+    "state": "MS",
+    "cep": "79980000",
+    "phone": "67991157272",
+    "email": "mundonovo@knnidiomas.com.br",
+    "cnpj": "41095867000155",
+    "coordinates": {
+      "lat": -23.935744,
+      "lng": -54.283336
+    }
+  },
+  {
+    "id": 247,
+    "name": "KNN NATIVIDADE",
+    "status": "INAUGURADA",
+    "address": "Rua Deputado Fausto de Faria, 08 - Centro",
+    "city": "NATIVIDADE",
+    "state": "RJ",
+    "cep": "28380000",
+    "phone": "22981079579",
+    "email": "natividade@knnidiomas.com.br",
+    "cnpj": "45087256000116",
+    "coordinates": {
+      "lat": -21.0431355,
+      "lng": -41.9759091
+    }
+  },
+  {
+    "id": 248,
+    "name": "KNN NAVEGANTES",
+    "status": "INAUGURADA",
+    "address": "RUA VEREADOR NEREU LIBERATO NUNES, 651 - CENTRO",
+    "city": "NAVEGANTES",
+    "state": "SC",
+    "cep": "88370232",
+    "phone": "4733195509",
+    "email": "navegantes@knnidiomas.com.br",
+    "cnpj": "17594142000127",
+    "coordinates": {
+      "lat": -26.8890218,
+      "lng": -48.6542989
+    }
+  },
+  {
+    "id": 249,
+    "name": "KNN NEPOMUCENO",
+    "status": "INAUGURADA",
+    "address": "RUA SETE DIAS, 95 - VILA ESPERANÇA",
+    "city": "NEPOMUCENO",
+    "state": "MG",
+    "cep": "37250000",
+    "phone": "35992515000",
+    "email": "nepomuceno@knnidiomas.com.br",
+    "cnpj": "47202238000163",
+    "coordinates": {
+      "lat": -21.2340693,
+      "lng": -45.2360231
+    }
+  },
+  {
+    "id": 250,
+    "name": "KNN NEROPOLIS",
+    "status": "INAUGURADA",
+    "address": "Rua Josefina L Almeida, S/N - Parque das Americas",
+    "city": "NERÓPOLIS",
+    "state": "GO",
+    "cep": "75460000",
+    "phone": "62992062362",
+    "email": "neropolis@knnidiomas.com.br",
+    "cnpj": "44842675000153",
+    "coordinates": {
+      "lat": -16.4081867,
+      "lng": -49.2187259
+    }
+  },
+  {
+    "id": 251,
+    "name": "KNN NILOPOLIS",
+    "status": "INAUGURADA",
+    "address": "RUA ZEZINHO, 25 - CENTRO",
+    "city": "NILÓPOLIS",
+    "state": "RJ",
+    "cep": "26520360",
+    "phone": "2126930063",
+    "email": "nilopolis@knnidiomas.com.br",
+    "cnpj": "14231742000132",
+    "coordinates": {
+      "lat": -22.810993,
+      "lng": -43.417609
+    }
+  },
+  {
+    "id": 252,
+    "name": "KNN NITEROI REGIAO ICARAI",
+    "status": "INAUGURADA",
+    "address": "Rua Gavião Peixoto, 31 - Icaraí",
+    "city": "NITERÓI",
+    "state": "RJ",
+    "cep": "24230102",
+    "phone": "2127046160",
+    "email": "niteroi02@knnidiomas.com.br",
+    "cnpj": "04562578000192",
+    "coordinates": {
+      "lat": -22.9013821,
+      "lng": -43.1123759
+    }
+  },
+  {
+    "id": 253,
+    "name": "KNN NONOAI",
+    "status": "INAUGURADA",
+    "address": "AVENIDA ROCHA LOIRES, 510 - CENTRO",
+    "city": "NONOAI",
+    "state": "RS",
+    "cep": "99600000",
+    "phone": "54996043332",
+    "email": "nonoai@knnidiomas.com.br",
+    "cnpj": "32683200000263",
+    "coordinates": {
+      "lat": -27.3644866,
+      "lng": -52.77202459999999
+    }
+  },
+  {
+    "id": 254,
+    "name": "KNN NOVA CACHOEIRINHA",
+    "status": "INAUGURADA",
+    "address": "AV. IMIRIM, 3877 - IMIRIM",
+    "city": "SÃO PAULO",
+    "state": "SP",
+    "cep": "02464700",
+    "phone": "1139827561",
+    "email": "novacachoeirinha@knnidiomas.com.br",
+    "cnpj": "31680272000103",
+    "coordinates": {
+      "lat": -23.4782551,
+      "lng": -46.6627151
+    }
+  },
+  {
+    "id": 255,
+    "name": "KNN NOVA ESPERANCA",
+    "status": "INAUGURADA",
+    "address": "RUA GOVERNADOR BENTO MUNHOZ DA ROCHA NETO, 307 - CENTRO",
+    "city": "NOVA ESPERANÇA",
+    "state": "PR",
+    "cep": "87600000",
+    "phone": "44997057162",
+    "email": "novaesperanca@knnidiomas.com.br",
+    "cnpj": "40951110000153",
+    "coordinates": {
+      "lat": -23.187467,
+      "lng": -52.2029081
+    }
+  },
+  {
+    "id": 256,
+    "name": "KNN NOVA IGUACU",
+    "status": "INAUGURADA",
+    "address": "AVENIDA ABILIO AUGUSTO TAVORA, 4170 - VALVERDE",
+    "city": "NOVA IGUAÇU",
+    "state": "RJ",
+    "cep": "26290600",
+    "phone": "2126987471",
+    "email": "novaiguacu1@knnidiomas.com.br",
+    "cnpj": "30254523000125",
+    "coordinates": {
+      "lat": -22.7713694,
+      "lng": -43.5218206
+    }
+  },
+  {
+    "id": 257,
+    "name": "KNN NOVA IGUACU 05",
+    "status": "INAUGURADA",
+    "address": "RUA SEMIRAMIS, 152 - JARDIM ALVORADA",
+    "city": "NOVA IGUAÇU",
+    "state": "RJ",
+    "cep": "26261400",
+    "phone": "2138445489",
+    "email": "novaiguacu5@knnidiomas.com.br",
+    "cnpj": "27274880000140",
+    "coordinates": {
+      "lat": -22.7604065,
+      "lng": -43.4843867
+    }
+  },
+  {
+    "id": 258,
+    "name": "KNN NOVA MUTUM",
+    "status": "INAUGURADA",
+    "address": "Rua das Primaveras, 904N - Bairro Jardim I",
+    "city": "NOVA MUTUM",
+    "state": "MT",
+    "cep": "78450000",
+    "phone": "65974002909",
+    "email": "novamutum@knnidiomas.com.br",
+    "cnpj": "44573586000159",
+    "coordinates": {
+      "lat": -13.812534,
+      "lng": -56.0788798
+    }
+  },
+  {
+    "id": 259,
+    "name": "KNN NOVA PETROPOLIS",
+    "status": "INAUGURADA",
+    "address": "RUA PADRE AMSTAD, 370 - CENTRO",
+    "city": "NOVA PETRÓPOLIS",
+    "state": "RS",
+    "cep": "95150000",
+    "phone": "54992447666",
+    "email": "novapetropolis@knnidiomas.com.br",
+    "cnpj": "39856832000140",
+    "coordinates": {
+      "lat": -29.3742619,
+      "lng": -51.11121499999999
+    }
+  },
+  {
+    "id": 260,
+    "name": "KNN NOVA SANTA HELENA",
+    "status": "INAUGURADA",
+    "address": "AV AVENIDA BRASIL, 747 - CENTRO",
+    "city": "NOVA SANTA HELENA",
+    "state": "MT",
+    "cep": "78548000",
+    "phone": "66999737997",
+    "email": "novasantahelena@knnidiomas.com.br",
+    "cnpj": "29458441000113",
+    "coordinates": {
+      "lat": -10.8490418,
+      "lng": -55.1778089
+    }
+  },
+  {
+    "id": 261,
+    "name": "KNN NOVA SANTA RITA",
+    "status": "INAUGURADA",
+    "address": "RUA HELIO FRAGA DE MORAES SARMENTO, 90 - CENTRO",
+    "city": "NOVA SANTA RITA",
+    "state": "RS",
+    "cep": "92480000",
+    "phone": "5134793016",
+    "email": "santarita@knnidiomas.com.br",
+    "cnpj": "30789303000104",
+    "coordinates": {
+      "lat": -29.8554419,
+      "lng": -51.27534439999999
+    }
+  },
+  {
+    "id": 262,
+    "name": "KNN NOVO HAMBURGO",
+    "status": "INAUGURADA",
+    "address": "RUA CINCO DE ABRIL, 293 - RIO BRANCO",
+    "city": "NOVO HAMBURGO",
+    "state": "RS",
+    "cep": "93310085",
+    "phone": "5130693899",
+    "email": "novohamburgo01@knnidiomas.com.br",
+    "cnpj": "23936306000150",
+    "coordinates": {
+      "lat": -29.6871216,
+      "lng": -51.1344267
+    }
+  },
+  {
+    "id": 263,
+    "name": "KNN OURINHOS",
+    "status": "INAUGURADA",
+    "address": "Rua Paulo Sa, 299 - Vila Santo Antonio",
+    "city": "OURINHOS",
+    "state": "SP",
+    "cep": "19900120",
+    "phone": "1433353395",
+    "email": "ourinhos@knnidiomas.com.br",
+    "cnpj": "42298420000146",
+    "coordinates": {
+      "lat": -22.9818613,
+      "lng": -49.8683661
+    }
+  },
+  {
+    "id": 264,
+    "name": "KNN PACAJA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA 22 DE MAIO, 103 - CENTRO",
+    "city": "PACAJÁ",
+    "state": "PA",
+    "cep": "68485000",
+    "phone": "91993647512",
+    "email": "pacaja@knnidiomas.com.br",
+    "cnpj": "44851824000221",
+    "coordinates": {
+      "lat": -3.837400999999999,
+      "lng": -50.6354094
+    }
+  },
+  {
+    "id": 265,
+    "name": "KNN PALHOCA",
+    "status": "INAUGURADA",
+    "address": "Rua Prefeito Ari Wagner, 113 - Centro",
+    "city": "PALHOÇA",
+    "state": "SC",
+    "cep": "88130070",
+    "phone": "4821327300",
+    "email": "palhoca@knnidiomas.com.br",
+    "cnpj": "30368069000133",
+    "coordinates": {
+      "lat": -27.6442721,
+      "lng": -48.6664035
+    }
+  },
+  {
+    "id": 266,
+    "name": "KNN PALMA",
+    "status": "INAUGURADA",
+    "address": "Rua João Pinheiro, 236 - Centro",
+    "city": "PALMA",
+    "state": "MG",
+    "cep": "36750000",
+    "phone": "32984272277",
+    "email": "palma@knnidiomas.com.br",
+    "cnpj": "44493774000177",
+    "coordinates": {
+      "lat": -21.3764798,
+      "lng": -42.3347949
+    }
+  },
+  {
+    "id": 267,
+    "name": "KNN PALMEIRA",
+    "status": "INAUGURADA",
+    "address": "RUA JESUINO MARCONDES, 760 - CENTRO",
+    "city": "PALMEIRA",
+    "state": "PR",
+    "cep": "84130000",
+    "phone": "4232522331",
+    "email": "palmeira@knnidiomas.com.br",
+    "cnpj": "36382746000154",
+    "coordinates": {
+      "lat": -25.421623,
+      "lng": -50.0032366
+    }
+  },
+  {
+    "id": 268,
+    "name": "KNN PALMITOS",
+    "status": "INAUGURADA",
+    "address": "Avenida brasil, 1309 - Centro",
+    "city": "PALMITOS",
+    "state": "SC",
+    "cep": "89887000",
+    "phone": "4931995775",
+    "email": "palmitos@knnidiomas.com.br",
+    "cnpj": "41995397000186",
+    "coordinates": {
+      "lat": -27.0682585,
+      "lng": -53.1636081
+    }
+  },
+  {
+    "id": 269,
+    "name": "KNN PANELAS",
+    "status": "INAUGURADA",
+    "address": "RUA MANOEL BENIGNO, 25 - CENTRO",
+    "city": "PANELAS",
+    "state": "PE",
+    "cep": "55470000",
+    "phone": "81997685282",
+    "email": "panelas@knnidiomas.com.br",
+    "cnpj": "49139616000137",
+    "coordinates": {
+      "lat": -8.663060399999999,
+      "lng": -36.0071369
+    }
+  },
+  {
+    "id": 270,
+    "name": "KNN PANORAMA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA ANTONIO DOMINGOS BORDIM, 2069 - CENTRO",
+    "city": "PANORAMA",
+    "state": "SP",
+    "cep": "17980000",
+    "phone": "18996998490",
+    "email": "panorama@knnidiomas.com.br",
+    "cnpj": "31063311000123",
+    "coordinates": {
+      "lat": -21.3611495,
+      "lng": -51.8528509
+    }
+  },
+  {
+    "id": 271,
+    "name": "KNN PARAISOPOLIS",
+    "status": "INAUGURADA",
+    "address": "RUA DUQUE DE CAXIAS, 684 - CENTRO",
+    "city": "PARAISÓPOLIS",
+    "state": "MG",
+    "cep": "37660000",
+    "phone": "35984227407",
+    "email": "paraisopolis-mg@knnidiomas.com.br",
+    "cnpj": "00468416000139",
+    "coordinates": {
+      "lat": -22.5540138,
+      "lng": -45.7799844
+    }
+  },
+  {
+    "id": 272,
+    "name": "KNN PARANAVAI",
+    "status": "INAUGURADA",
+    "address": "RUA LUIZ SPIGOLON, 1690 - CENTRO",
+    "city": "PARANAVAÍ",
+    "state": "PR",
+    "cep": "87704090",
+    "phone": "4439000787",
+    "email": "paranavai@knnidiomas.com.br",
+    "cnpj": "47156014000162",
+    "coordinates": {
+      "lat": -23.0784984,
+      "lng": -52.457133
+    }
+  },
+  {
+    "id": 273,
+    "name": "KNN PARATY",
+    "status": "INAUGURADA",
+    "address": "RUA DOUTOR ALFREDO SERTA, 45 - CHACARA DA SAUDADE",
+    "city": "PARATY",
+    "state": "RJ",
+    "cep": "23970000",
+    "phone": "24992530606",
+    "email": "paraty@knnidiomas.com.br",
+    "cnpj": "41482405000190",
+    "coordinates": {
+      "lat": -23.2224846,
+      "lng": -44.7230684
+    }
+  },
+  {
+    "id": 274,
+    "name": "KNN PARAUAPEBAS",
+    "status": "INAUGURADA",
+    "address": "RUA F, 196 - UNIAO",
+    "city": "PARAUAPEBAS",
+    "state": "PA",
+    "cep": "68515000",
+    "phone": "9421230098",
+    "email": "parauapebas@knnidiomas.com.br",
+    "cnpj": "50231175000188",
+    "coordinates": {
+      "lat": -6.066716899999999,
+      "lng": -49.909323
+    }
+  },
+  {
+    "id": 275,
+    "name": "KNN PARIQUERA-ACU",
+    "status": "INAUGURADA",
+    "address": "RUA 7 DE SETEMBRO , 333 - CENTRO ",
+    "city": "PARIQUERA-AÇU",
+    "state": "SP",
+    "cep": "11930000",
+    "phone": "13997666863",
+    "email": "pariqueraacu@knnidiomas.com.br",
+    "cnpj": "48709015000150",
+    "coordinates": {
+      "lat": -24.7098931,
+      "lng": -47.87899729999999
+    }
+  },
+  {
+    "id": 276,
+    "name": "KNN PARNAIBA",
+    "status": "INAUGURADA",
+    "address": "Rua Simplício Dias, 306 - CENTRO",
+    "city": "PARNAÍBA",
+    "state": "PI",
+    "cep": "64200180",
+    "phone": "86994356800",
+    "email": "parnaiba@knnidiomas.com.br",
+    "cnpj": "44565458000163",
+    "coordinates": {
+      "lat": -2.9029538,
+      "lng": -41.7741654
+    }
+  },
+  {
+    "id": 277,
+    "name": "KNN PASSA QUATRO 02",
+    "status": "INAUGURADA",
+    "address": "Rua tenente Viotti, 355 - CENTRO",
+    "city": "PASSA QUATRO",
+    "state": "MG",
+    "cep": "37460000",
+    "phone": "35991238567",
+    "email": "passaquatro02@knnidiomas.com.br",
+    "cnpj": "51403979000180",
+    "coordinates": {
+      "lat": -22.3897537,
+      "lng": -44.9669434
+    }
+  },
+  {
+    "id": 278,
+    "name": "KNN PASSIRA",
+    "status": "INAUGURADA",
+    "address": "Rua da Matriz, 114 - Centro",
+    "city": "PASSIRA",
+    "state": "PE",
+    "cep": "55650000",
+    "phone": "81995141092",
+    "email": "passira@knnidiomas.com.br",
+    "cnpj": "10260159000360",
+    "coordinates": {
+      "lat": -7.9789428,
+      "lng": -35.5811096
+    }
+  },
+  {
+    "id": 279,
+    "name": "KNN PATO BRANCO",
+    "status": "INAUGURADA",
+    "address": "RUA AIMORE, 690 - CENTRO",
+    "city": "PATO BRANCO",
+    "state": "PR",
+    "cep": "85501296",
+    "phone": "46991266818",
+    "email": "patobranco@knnidiomas.com.br",
+    "cnpj": "29669329000202",
+    "coordinates": {
+      "lat": -26.226392,
+      "lng": -52.6677488
+    }
+  },
+  {
+    "id": 280,
+    "name": "KNN PATROCINIO DO MURIAE",
+    "status": "INAUGURADA",
+    "address": "RUA VEREADOR LINCOLN CORTES CAMPOS, 41 - GRUTA",
+    "city": "PATROCÍNIO DO MURIAÉ",
+    "state": "MG",
+    "cep": "36860000",
+    "phone": "32999952831",
+    "email": "patrociniodomuriae@knnidiomas.com.br",
+    "cnpj": "15382080000164",
+    "coordinates": {
+      "lat": -21.154531,
+      "lng": -42.216551
+    }
+  },
+  {
+    "id": 281,
+    "name": "KNN PAULINIA",
+    "status": "INAUGURADA",
+    "address": "Rua Presidente Costa e Silva, 329 - Nova Paulinia",
+    "city": "PAULÍNIA",
+    "state": "SP",
+    "cep": "13140297",
+    "phone": "1938447179",
+    "email": "paulinia01@knnidiomas.com.br",
+    "cnpj": "42447082000167",
+    "coordinates": {
+      "lat": -22.7682948,
+      "lng": -47.1504341
+    }
+  },
+  {
+    "id": 282,
+    "name": "KNN PERUIBE",
+    "status": "INAUGURADA",
+    "address": "AVENIDA PADRE ANCHIETA, 2209 - BAL STELLA MARIS",
+    "city": "PERUÍBE",
+    "state": "SP",
+    "cep": "11770000",
+    "phone": "1333462741",
+    "email": "peruibe@knnidiomas.com.br",
+    "cnpj": "35824559000200",
+    "coordinates": {
+      "lat": -24.3138038,
+      "lng": -46.9901139
+    }
+  },
+  {
+    "id": 283,
+    "name": "KNN PETROPOLIS",
+    "status": "INAUGURADA",
+    "address": "EST UNIAO E INDUSTRIA, 11303 - ITAIPAVA",
+    "city": "PETRÓPOLIS",
+    "state": "RJ",
+    "cep": "25730740",
+    "phone": "2422201887",
+    "email": "petropolis@knnidiomas.com.br",
+    "cnpj": "36333618000110",
+    "coordinates": {
+      "lat": -22.3617164,
+      "lng": -43.123766
+    }
+  },
+  {
+    "id": 284,
+    "name": "KNN PINDAMONHANGABA",
+    "status": "INAUGURADA",
+    "address": "Avenida Fortunato Moreira, 247 - Centro",
+    "city": "PINDAMONHANGABA",
+    "state": "SP",
+    "cep": "12400400",
+    "phone": "1235226362",
+    "email": "pindamonhangaba@knnidiomas.com.br",
+    "cnpj": "32071774000108",
+    "coordinates": {
+      "lat": -22.9277784,
+      "lng": -45.4569981
+    }
+  },
+  {
+    "id": 285,
+    "name": "KNN PINDAMONHANGABA 02",
+    "status": "INAUGURADA",
+    "address": "RUA CARLOS AUGUSTO MACHADO, 32 - ACACIAS",
+    "city": "PINDAMONHANGABA",
+    "state": "SP",
+    "cep": "12441020",
+    "phone": "1236373021",
+    "email": "pindamonhangaba2@knnidiomas.com.br",
+    "cnpj": "52343052000164",
+    "coordinates": {
+      "lat": -22.9187189,
+      "lng": -45.3654283
+    }
+  },
+  {
+    "id": 286,
+    "name": "KNN PINHAIS",
+    "status": "INAUGURADA",
+    "address": "R BOLSAO DOS PAPAGAIOS, 47 - CENTRO",
+    "city": "PINHAIS",
+    "state": "PR",
+    "cep": "83320360",
+    "phone": "4134032662",
+    "email": "pinhais@knnidiomas.com.br",
+    "cnpj": "30523520000140",
+    "coordinates": {
+      "lat": -25.4297665,
+      "lng": -49.1829768
+    }
+  },
+  {
+    "id": 287,
+    "name": "KNN PINHALZINHO - SC",
+    "status": "INAUGURADA",
+    "address": "RUA SANTO ANTONIO, 453 - SANTO ANTONIO",
+    "city": "PINHALZINHO",
+    "state": "SC",
+    "cep": "89870000",
+    "phone": "49991095656",
+    "email": "pinhalzinhosc@knnidiomas.com.br",
+    "cnpj": "41609351000181",
+    "coordinates": {
+      "lat": -26.8526245,
+      "lng": -52.9873821
+    }
+  },
+  {
+    "id": 288,
+    "name": "KNN PIQUETE",
+    "status": "INAUGURADA",
+    "address": "RUA CONSELHEIRO RODRIGUES ALVES, 127 - CENTRO",
+    "city": "PIQUETE",
+    "state": "SP",
+    "cep": "12620000",
+    "phone": "1231561355",
+    "email": "piquete@knnidiomas.com.br",
+    "cnpj": "41061878000114",
+    "coordinates": {
+      "lat": -22.60673,
+      "lng": -45.1853345
+    }
+  },
+  {
+    "id": 289,
+    "name": "KNN PIUMA",
+    "status": "INAUGURADA",
+    "address": "Rua Elizeu Xavier Nunes, 879  - Centro",
+    "city": "PIÚMA",
+    "state": "ES",
+    "cep": "29285000",
+    "phone": "28999071722",
+    "email": "piuma@knnidiomas.com.br",
+    "cnpj": "40167511000117",
+    "coordinates": {
+      "lat": -20.8373103,
+      "lng": -40.7263775
+    }
+  },
+  {
+    "id": 290,
+    "name": "KNN PLANALTO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA PRESIDENTE VARGAS, 1123 - CENTRO",
+    "city": "PLANALTO",
+    "state": "RS",
+    "cep": "98470000",
+    "phone": "55999147470",
+    "email": "planalto@knnidiomas.com.br",
+    "cnpj": "50340399000128",
+    "coordinates": {
+      "lat": -27.3277057,
+      "lng": -53.0587934
+    }
+  },
+  {
+    "id": 291,
+    "name": "KNN POMERODE",
+    "status": "INAUGURADA",
+    "address": "RUA FREDERICO WEEGE, 301 - CENTRO ",
+    "city": "POMERODE",
+    "state": "SC",
+    "cep": "89107000",
+    "phone": "4720331310",
+    "email": "pomerode@knnidiomas.com.br",
+    "cnpj": "37141600000180",
+    "coordinates": {
+      "lat": -26.7374838,
+      "lng": -49.1795202
+    }
+  },
+  {
+    "id": 292,
+    "name": "KNN PONTA GROSSA 02",
+    "status": "INAUGURADA",
+    "address": "Avenida Visconde de Maua, 1795 - Oficinas",
+    "city": "PONTA GROSSA",
+    "state": "PR",
+    "cep": "84045100",
+    "phone": "4432237206",
+    "email": "pontagrossa02@knnidiomas.com.br",
+    "cnpj": "45113748000139",
+    "coordinates": {
+      "lat": -25.124068,
+      "lng": -50.1547478
+    }
+  },
+  {
+    "id": 293,
+    "name": "KNN PONTA PORA",
+    "status": "INAUGURADA",
+    "address": "RUA GENERAL OSORIO, 513 - CENTRO",
+    "city": "PONTA PORÃ",
+    "state": "MS",
+    "cep": "79904664",
+    "phone": "44999027321",
+    "email": "pontapora@knnidiomas.com.br",
+    "cnpj": "39968199000181",
+    "coordinates": {
+      "lat": -22.5360757,
+      "lng": -55.7246686
+    }
+  },
+  {
+    "id": 294,
+    "name": "KNN PONTAL DO PARANA",
+    "status": "INAUGURADA",
+    "address": "RODOVIA PR-412, 3172 - PORTO FINO",
+    "city": "PONTAL DO PARANÁ",
+    "state": "PR",
+    "cep": "83255000",
+    "phone": "4199274924",
+    "email": "pontaldoparana@knnidiomas.com.br",
+    "cnpj": "33315499000185",
+    "coordinates": {
+      "lat": -25.6725253,
+      "lng": -48.45980120000001
+    }
+  },
+  {
+    "id": 295,
+    "name": "KNN PORTO DOS GAUCHOS",
+    "status": "INAUGURADA",
+    "address": "Avenida Rio Grande do Sul, 740 - Centro",
+    "city": "PORTO DOS GAÚCHOS",
+    "state": "MT",
+    "cep": "78560000",
+    "phone": "66999400145",
+    "email": "portodosgauchos@knnidiomas.com.br",
+    "cnpj": "45282871000183",
+    "coordinates": {
+      "lat": -11.5335591,
+      "lng": -57.41247860000001
+    }
+  },
+  {
+    "id": 296,
+    "name": "KNN PORTO REAL",
+    "status": "INAUGURADA",
+    "address": "AV DOM PEDRO II, 869 - NOVA COLONIA",
+    "city": "PORTO REAL",
+    "state": "RJ",
+    "cep": "27570000",
+    "phone": "12988558112",
+    "email": "portoreal@knnidiomas.com.br",
+    "cnpj": "47693352000133",
+    "coordinates": {
+      "lat": -22.4200882,
+      "lng": -44.2896109
+    }
+  },
+  {
+    "id": 297,
+    "name": "KNN PORTO UNIAO",
+    "status": "INAUGURADA",
+    "address": "Rua Frei Rogerio, 154 - Centro",
+    "city": "PORTO UNIÃO",
+    "state": "SC",
+    "cep": "89400000",
+    "phone": "4235780136",
+    "email": "portouniao@knnidiomas.com.br",
+    "cnpj": "29843247000232",
+    "coordinates": {
+      "lat": -26.2351316,
+      "lng": -51.0841691
+    }
+  },
+  {
+    "id": 298,
+    "name": "KNN POSTO DA MATA",
+    "status": "INAUGURADA",
+    "address": "RUA PEDRO CAROLINO COSTA, 1673 - CENTRO",
+    "city": "NOVA VIÇOSA",
+    "state": "BA",
+    "cep": "45928000",
+    "phone": "73999900506",
+    "email": "postodamata@knnidiomas.com.br",
+    "cnpj": "33748884000116",
+    "coordinates": {
+      "lat": -17.8896916,
+      "lng": -39.8600628
+    }
+  },
+  {
+    "id": 299,
+    "name": "KNN POUSO ALTO",
+    "status": "INAUGURADA",
+    "address": "RUA HELIO D'ALESSANDRO SARMENTO, 42 - CENTRO",
+    "city": "POUSO ALTO",
+    "state": "MG",
+    "cep": "37468000",
+    "phone": "35988122605",
+    "email": "pousoalto@knnidiomas.com.br",
+    "cnpj": "31949422000131",
+    "coordinates": {
+      "lat": -22.2217036,
+      "lng": -44.9774654
+    }
+  },
+  {
+    "id": 300,
+    "name": "KNN PRESIDENTE EPITACIO",
+    "status": "INAUGURADA",
+    "address": "RUA PERNAMBUCO, 10-20 - VILA CRUZEIRO DO SUL",
+    "city": "PRESIDENTE EPITÁCIO",
+    "state": "SP",
+    "cep": "19470000",
+    "phone": "1820160539",
+    "email": "presidenteepitacio@knnidiomas.com.br",
+    "cnpj": "44914947000183",
+    "coordinates": {
+      "lat": -21.7668575,
+      "lng": -52.10964269999999
+    }
+  },
+  {
+    "id": 301,
+    "name": "KNN PRESIDENTE GETULIO",
+    "status": "INAUGURADA",
+    "address": "RUA ROSA PEREIRA, 194 - CENTRO",
+    "city": "PRESIDENTE GETÚLIO",
+    "state": "SC",
+    "cep": "89150000",
+    "phone": "47992582663",
+    "email": "presidentegetulio@knnidiomas.com.br",
+    "cnpj": "46016786000136",
+    "coordinates": {
+      "lat": -27.0477299,
+      "lng": -49.62111489999999
+    }
+  },
+  {
+    "id": 302,
+    "name": "KNN PRESIDENTE PRUDENTE",
+    "status": "INAUGURADA",
+    "address": "AVENIDA CORONEL JOSE SOARES MARCONDES , 870 - BOSQUE",
+    "city": "PRESIDENTE PRUDENTE",
+    "state": "SP",
+    "cep": "19010080",
+    "phone": "1832223140",
+    "email": "presidenteprudente@knnidiomas.com.br",
+    "cnpj": "27182306000162",
+    "coordinates": {
+      "lat": -22.1192303,
+      "lng": -51.3868628
+    }
+  },
+  {
+    "id": 303,
+    "name": "KNN PRIMAVERA DO LESTE",
+    "status": "INAUGURADA",
+    "address": "AV MATO GROSSO, 328 - CIDADE PRIMAVERA II",
+    "city": "PRIMAVERA DO LESTE",
+    "state": "MT",
+    "cep": "78850000",
+    "phone": "6630162475",
+    "email": "primaveradoleste@knnidiomas.com.br",
+    "cnpj": "51065216000176",
+    "coordinates": {
+      "lat": -15.5407887,
+      "lng": -54.3042819
+    }
+  },
+  {
+    "id": 304,
+    "name": "KNN PROMISSAO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA WASHINGTON LUIS, 943 - CENTRO",
+    "city": "PROMISSÃO",
+    "state": "SP",
+    "cep": "16370000",
+    "phone": "1435416928",
+    "email": "promissao@knnidiomas.com.br",
+    "cnpj": "49258560000130",
+    "coordinates": {
+      "lat": -21.5425741,
+      "lng": -49.85720209999999
+    }
+  },
+  {
+    "id": 305,
+    "name": "KNN QUATRO BARRAS",
+    "status": "INAUGURADA",
+    "address": "AVENIDA DOM PEDRO II, 50 - CENTRO",
+    "city": "QUATRO BARRAS",
+    "state": "PR",
+    "cep": "83420990",
+    "phone": "41992396978",
+    "email": "quatrobarras@knnidiomas.com.br",
+    "cnpj": "39675170000101",
+    "coordinates": {
+      "lat": -25.368829,
+      "lng": -49.0777809
+    }
+  },
+  {
+    "id": 306,
+    "name": "KNN QUELUZ",
+    "status": "INAUGURADA",
+    "address": "Rua Prudente de Moraes, 54 - Centro",
+    "city": "QUELUZ",
+    "state": "SP",
+    "cep": "12800000",
+    "phone": "1231471808",
+    "email": "queluz@knnidiomas.com.br",
+    "cnpj": "39233904000100",
+    "coordinates": {
+      "lat": -22.5390855,
+      "lng": -44.7729648
+    }
+  },
+  {
+    "id": 307,
+    "name": "KNN QUERENCIA",
+    "status": "INAUGURADA",
+    "address": "Av. Leste, 861 - Setor B",
+    "city": "QUERÊNCIA",
+    "state": "MT",
+    "cep": "78643000",
+    "phone": "66984020554",
+    "email": "querencia@knnidiomas.com.br",
+    "cnpj": "42222055000196",
+    "coordinates": {
+      "lat": -12.5943487,
+      "lng": -52.2077548
+    }
+  },
+  {
+    "id": 308,
+    "name": "KNN QUISSAMA",
+    "status": "INAUGURADA",
+    "address": "Rua Barao de Vila Franca, S/N - Centro",
+    "city": "QUISSAMÃ",
+    "state": "RJ",
+    "cep": "28735000",
+    "phone": "21979794216",
+    "email": "quissama@knnidiomas.com.br",
+    "cnpj": "12386735000508",
+    "coordinates": {
+      "lat": -22.1074168,
+      "lng": -41.469529
+    }
+  },
+  {
+    "id": 309,
+    "name": "KNN RANCHO QUEIMADO",
+    "status": "INAUGURADA",
+    "address": "RUA BERTA MEURER, 467 - CENTRO",
+    "city": "RANCHO QUEIMADO",
+    "state": "SC",
+    "cep": "88470000",
+    "phone": "48999114303",
+    "email": "ranchoqueimado@knnidiomas.com.br",
+    "cnpj": "42714332000188",
+    "coordinates": {
+      "lat": -27.6753734,
+      "lng": -49.0110502
+    }
+  },
+  {
+    "id": 310,
+    "name": "KNN REGISTRO",
+    "status": "INAUGURADA",
+    "address": "Rua Sinfronio Costa, 974 - Jardim Tomoto",
+    "city": "REGISTRO",
+    "state": "SP",
+    "cep": "11900000",
+    "phone": "1338213395",
+    "email": "registro@knnidiomas.com.br",
+    "cnpj": "45385716000192",
+    "coordinates": {
+      "lat": -24.4971076,
+      "lng": -47.8437524
+    }
+  },
+  {
+    "id": 311,
+    "name": "KNN RESENDE",
+    "status": "INAUGURADA",
+    "address": "AVENIDA ROMEU MARQUES, 181 - VILA JULIETA",
+    "city": "RESENDE",
+    "state": "RJ",
+    "cep": "27520270",
+    "phone": "2433545333",
+    "email": "resende@knnidiomas.com.br",
+    "cnpj": "10197983000151",
+    "coordinates": {
+      "lat": -22.4720808,
+      "lng": -44.4615553
+    }
+  },
+  {
+    "id": 312,
+    "name": "KNN RESPLENDOR",
+    "status": "INAUGURADA",
+    "address": "Rua Morais de Carvalho, 402 - Centro",
+    "city": "RESPLENDOR",
+    "state": "MG",
+    "cep": "35230000",
+    "phone": "3332631366",
+    "email": "resplendor@knnidiomas.com.br",
+    "cnpj": "31127138000180",
+    "coordinates": {
+      "lat": -19.3251405,
+      "lng": -41.256785
+    }
+  },
+  {
+    "id": 313,
+    "name": "KNN RIBEIRAO PRETO 02",
+    "status": "INAUGURADA",
+    "address": "Avenida Nove de Julho, 928 - Jardim Sumaré",
+    "city": "RIBEIRÃO PRETO",
+    "state": "SP",
+    "cep": "14025000",
+    "phone": "1636328080",
+    "email": "ribeiraopreto2@knnidiomas.com.br",
+    "cnpj": "48869567000125",
+    "coordinates": {
+      "lat": -21.1864863,
+      "lng": -47.8098035
+    }
+  },
+  {
+    "id": 314,
+    "name": "KNN RIO CLARO",
+    "status": "INAUGURADA",
+    "address": "RUA 14, 456 - CONSOLACAO",
+    "city": "RIO CLARO",
+    "state": "SP",
+    "cep": "13500130",
+    "phone": "1935240383",
+    "email": "rioclaro.sp@knnidiomas.com.br",
+    "cnpj": "45750321000141",
+    "coordinates": {
+      "lat": -22.418468,
+      "lng": -47.5675478
+    }
+  },
+  {
+    "id": 315,
+    "name": "KNN RIO DAS OSTRAS",
+    "status": "INAUGURADA",
+    "address": "AVENIDA AMAZONAS , 224 - BALNEARIO REMANSO",
+    "city": "RIO DAS OSTRAS",
+    "state": "RJ",
+    "cep": "28893102",
+    "phone": "2233238844",
+    "email": "riodasostras@knnidiomas.com.br",
+    "cnpj": "34805109000118",
+    "coordinates": {
+      "lat": -22.5259603,
+      "lng": -41.9463365
+    }
+  },
+  {
+    "id": 316,
+    "name": "KNN RIO DE JANEIRO 06 - RECREIO DOS BANDEIRANTES",
+    "status": "INAUGURADA",
+    "address": "Rua Ministro Aliomar Baleeiro, 00345 - Recreio dos Bandeirantes",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "cep": "22790550",
+    "phone": "2120424243",
+    "email": "recreiodosbandeirantes@knnidiomas.com.br",
+    "cnpj": "50257851000192",
+    "coordinates": {
+      "lat": -23.0182963,
+      "lng": -43.4778957
+    }
+  },
+  {
+    "id": 317,
+    "name": "KNN RIO DE JANEIRO 07 - BOTAFOGO",
+    "status": "INAUGURADA",
+    "address": "RUA SOROCABA, 317 - BOTAFOGO",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "cep": "22271110",
+    "phone": "2135565699",
+    "email": "botafogo-rj@knnidiomas.com.br",
+    "cnpj": "49683540000106",
+    "coordinates": {
+      "lat": -22.9527547,
+      "lng": -43.1899535
+    }
+  },
+  {
+    "id": 318,
+    "name": "KNN RIO GRANDE DA SERRA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA JEAN LIEUTAUD, 110 - JD SANTA TEREZA",
+    "city": "RIO GRANDE DA SERRA",
+    "state": "SP",
+    "cep": "09450000",
+    "phone": "1128021754",
+    "email": "riograndedaserra@knnidiomas.com.br",
+    "cnpj": "40958184000111",
+    "coordinates": {
+      "lat": -23.7507981,
+      "lng": -46.4006656
+    }
+  },
+  {
+    "id": 319,
+    "name": "KNN RIO NEGRINHO",
+    "status": "INAUGURADA",
+    "address": "RUA CARLOS WEBER, 360 - CENTRO",
+    "city": "RIO NEGRINHO",
+    "state": "SC",
+    "cep": "89295000",
+    "phone": "4736448243",
+    "email": "rionegrinho@knnidiomas.com.br",
+    "cnpj": "29260934000225",
+    "coordinates": {
+      "lat": -26.2553012,
+      "lng": -49.5201647
+    }
+  },
+  {
+    "id": 320,
+    "name": "KNN RIO NEGRO PR",
+    "status": "INAUGURADA",
+    "address": "RUA VICENTE MACHADO, 636 - CENTRO",
+    "city": "RIO NEGRO",
+    "state": "PR",
+    "cep": "83880000",
+    "phone": "47996157935",
+    "email": "rionegropr@knnidiomas.com.br",
+    "cnpj": "46951138000177",
+    "coordinates": {
+      "lat": -26.1051255,
+      "lng": -49.7984285
+    }
+  },
+  {
+    "id": 321,
+    "name": "KNN RIO REAL",
+    "status": "INAUGURADA",
+    "address": "Rua Gileno Dantas, 001 - Centro",
+    "city": "RIO REAL",
+    "state": "BA",
+    "cep": "48330000",
+    "phone": "75998958162",
+    "email": "rioreal@knnidiomas.com.br",
+    "cnpj": "13139569000184",
+    "coordinates": {
+      "lat": -11.4840107,
+      "lng": -37.9330285
+    }
+  },
+  {
+    "id": 322,
+    "name": "KNN RIO VERDE",
+    "status": "INAUGURADA",
+    "address": "Rua 2, 521 - Parque dos Buritis",
+    "city": "RIO VERDE",
+    "state": "GO",
+    "cep": "75907390",
+    "phone": "6436214902",
+    "email": "rioverde@knnidiomas.com.br",
+    "cnpj": "11114523000185",
+    "coordinates": {
+      "lat": -17.8087575,
+      "lng": -50.9348055
+    }
+  },
+  {
+    "id": 323,
+    "name": "KNN RODEIO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA PRESIDENTE KENNEDY, 225 - CENTRO",
+    "city": "RODEIO",
+    "state": "SC",
+    "cep": "89136000",
+    "phone": "4733041513",
+    "email": "rodeio@knnidiomas.com.br",
+    "cnpj": "39486086000140",
+    "coordinates": {
+      "lat": -26.9222791,
+      "lng": -49.3686081
+    }
+  },
+  {
+    "id": 324,
+    "name": "KNN RONDONOPOLIS",
+    "status": "INAUGURADA",
+    "address": "R ARNALDO ESTEVAO DE FIGUEIREDO, 1019 - CENTRO",
+    "city": "RONDONÓPOLIS",
+    "state": "MT",
+    "cep": "78700150",
+    "phone": "6630232100",
+    "email": "rondonopolis@knnidiomas.com.br",
+    "cnpj": "29861603000160",
+    "coordinates": {
+      "lat": -16.4672102,
+      "lng": -54.6353129
+    }
+  },
+  {
+    "id": 325,
+    "name": "KNN SALTO",
+    "status": "INAUGURADA",
+    "address": "RUA FLORIANO PEIXOTO, 280 - CENTRO",
+    "city": "SALTO",
+    "state": "SP",
+    "cep": "13320150",
+    "phone": "1146024532",
+    "email": "salto@knnidiomas.com.br",
+    "cnpj": "10292416000184",
+    "coordinates": {
+      "lat": -23.2073582,
+      "lng": -47.2907378
+    }
+  },
+  {
+    "id": 326,
+    "name": "KNN SALVADOR 02",
+    "status": "INAUGURADA",
+    "address": "AVENIDA DORIVAL CAYMMI, 517 - ITAPUA",
+    "city": "SALVADOR",
+    "state": "BA",
+    "cep": "41635152",
+    "phone": "7132389902",
+    "email": "salvador02@knnidiomas.com.br",
+    "cnpj": "40742951000150",
+    "coordinates": {
+      "lat": -12.9366806,
+      "lng": -38.36116550000001
+    }
+  },
+  {
+    "id": 327,
+    "name": "KNN SANANDUVA",
+    "status": "INAUGURADA",
+    "address": "R ROVILHO BASSO, 101 - LOTEAMENTO NAVARINI",
+    "city": "SANANDUVA",
+    "state": "RS",
+    "cep": "99840000",
+    "phone": "54999840348",
+    "email": "sananduva@knnidiomas.com.br",
+    "cnpj": "32603690000160",
+    "coordinates": {
+      "lat": -27.9485466,
+      "lng": -51.80676039999999
+    }
+  },
+  {
+    "id": 328,
+    "name": "KNN SANTA BARBARA MG",
+    "status": "INAUGURADA",
+    "address": "RUA EDMUNDO PENA, 147 - CENTRO",
+    "city": "SANTA BÁRBARA",
+    "state": "MG",
+    "cep": "35960000",
+    "phone": "31992322595",
+    "email": "santabarbaramg@knnidiomas.com.br",
+    "cnpj": "15104659000165",
+    "coordinates": {
+      "lat": -19.9572577,
+      "lng": -43.4137233
+    }
+  },
+  {
+    "id": 329,
+    "name": "KNN SANTA CRUZ DO SUL",
+    "status": "INAUGURADA",
+    "address": "RUA BORGES DE MEDEIROS, 570 - CENTRO",
+    "city": "SANTA CRUZ DO SUL",
+    "state": "RS",
+    "cep": "96810034",
+    "phone": "5131211576",
+    "email": "santacruz.rs@knnidiomas.com.br",
+    "cnpj": "29653758000100",
+    "coordinates": {
+      "lat": -29.7146023,
+      "lng": -52.42871050000001
+    }
+  },
+  {
+    "id": 330,
+    "name": "KNN SANTA HELENA",
+    "status": "INAUGURADA",
+    "address": "RUA PORTO ALEGRE, 371 - CENTRO",
+    "city": "SANTA HELENA",
+    "state": "PR",
+    "cep": "85892000",
+    "phone": "45988118958",
+    "email": "santahelena@knnidiomas.com.br",
+    "cnpj": "28267743000141",
+    "coordinates": {
+      "lat": -24.8599398,
+      "lng": -54.33627550000001
+    }
+  },
+  {
+    "id": 331,
+    "name": "KNN SANTA HELENA DE GOIAS",
+    "status": "INAUGURADA",
+    "address": "Rua Luiza Arantes de Freitas, 277 - Centro",
+    "city": "SANTA HELENA DE GOIÁS",
+    "state": "GO",
+    "cep": "75920000",
+    "phone": "64999008488",
+    "email": "santahelenadegoias@knnidiomas.com.br",
+    "cnpj": "44578902000185",
+    "coordinates": {
+      "lat": -17.8187133,
+      "lng": -50.5958254
+    }
+  },
+  {
+    "id": 332,
+    "name": "KNN SANTA MARIA CAMOBI",
+    "status": "INAUGURADA",
+    "address": "RUA ERLY DE ALMEIDA LIMA , 157 - CAMOBI",
+    "city": "SANTA MARIA",
+    "state": "RS",
+    "cep": "97105120",
+    "phone": "5532230058",
+    "email": "camobi@knnidiomas.com.br",
+    "cnpj": "12587217000129",
+    "coordinates": {
+      "lat": -29.704008,
+      "lng": -53.7166439
+    }
+  },
+  {
+    "id": 333,
+    "name": "KNN SANTA MARIA DE JETIBA",
+    "status": "INAUGURADA",
+    "address": "Rua Guilherme Flegler, 200 - Vila Nova",
+    "city": "SANTA MARIA DE JETIBÁ",
+    "state": "ES",
+    "cep": "29645000",
+    "phone": "27996323279",
+    "email": "santamariadejetiba@knnidiomas.com.br",
+    "cnpj": "43287527000151",
+    "coordinates": {
+      "lat": -20.0153855,
+      "lng": -40.7476328
+    }
+  },
+  {
+    "id": 334,
+    "name": "KNN SANTA RITA DO SAPUCAI",
+    "status": "INAUGURADA",
+    "address": "AV DR. DELFIM MOREIRA, 113 - CENTRO",
+    "city": "SANTA RITA DO SAPUCAÍ",
+    "state": "MG",
+    "cep": "37540000",
+    "phone": "35998137982",
+    "email": "santaritadosapucai@knnidiomas.com.br",
+    "cnpj": "34064288000180",
+    "coordinates": {
+      "lat": -22.2500715,
+      "lng": -45.7072343
+    }
+  },
+  {
+    "id": 335,
+    "name": "KNN SANTIAGO",
+    "status": "INAUGURADA",
+    "address": "RUA INDEPENDENCIA, 1754 - CENTRO",
+    "city": "SANTIAGO",
+    "state": "RS",
+    "cep": "97700040",
+    "phone": "5584423575",
+    "email": "santiago@knnidiomas.com.br",
+    "cnpj": "04255510000160",
+    "coordinates": {
+      "lat": -29.1860043,
+      "lng": -54.86977030000001
+    }
+  },
+  {
+    "id": 336,
+    "name": "KNN SANTO ANDRE - VILA LUZITA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA SAO BERNARDO DO CAMPO, 94 - JD SANTA CRISTINA",
+    "city": "SANTO ANDRÉ",
+    "state": "SP",
+    "cep": "09171100",
+    "phone": "1155558982",
+    "email": "santoandrevilaluzita@knnidiomas.com.br",
+    "cnpj": "37910602000196",
+    "coordinates": {
+      "lat": -23.6983927,
+      "lng": -46.5066077
+    }
+  },
+  {
+    "id": 337,
+    "name": "KNN SANTO ANGELO 02",
+    "status": "INAUGURADA",
+    "address": "Avenida Brasil, 468 - Centro",
+    "city": "SANTO ANGELO",
+    "state": "RS",
+    "cep": "98801590",
+    "phone": "5532017491",
+    "email": "santoangelo2@knnidiomas.com.br",
+    "cnpj": "46354534000117",
+    "coordinates": {
+      "lat": -28.2999774,
+      "lng": -54.2662175
+    }
+  },
+  {
+    "id": 338,
+    "name": "KNN SANTOS",
+    "status": "INAUGURADA",
+    "address": "Avenida Doutor Bernardino de Campos, 467 - Campo Grande",
+    "city": "SANTOS",
+    "state": "SP",
+    "cep": "11065003",
+    "phone": "1332233754",
+    "email": "santos@knnidiomas.com.br",
+    "cnpj": "44697615000194",
+    "coordinates": {
+      "lat": -23.9609602,
+      "lng": -46.3380045
+    }
+  },
+  {
+    "id": 339,
+    "name": "KNN SAO BENTO DO SAPUCAI",
+    "status": "INAUGURADA",
+    "address": "RUA SETE DE SETEMBRO, 267 - CENTRO",
+    "city": "SÃO BENTO DO SAPUCAÍ",
+    "state": "SP",
+    "cep": "12490000",
+    "phone": "1231996351",
+    "email": "saobentodosapucai@knnidiomas.com.br",
+    "cnpj": "50550785000144",
+    "coordinates": {
+      "lat": -22.9101744,
+      "lng": -47.0593274
+    }
+  },
+  {
+    "id": 340,
+    "name": "KNN SAO BERNARDO DO CAMPO 2 (ASSUNCAO)",
+    "status": "INAUGURADA",
+    "address": "RUA NILO PECANHA, 135 - ASSUNCAO",
+    "city": "SÃO BERNARDO DO CAMPO",
+    "state": "SP",
+    "cep": "09810580",
+    "phone": "1143557683",
+    "email": "saobernardo.assuncao@knnidiomas.com.br",
+    "cnpj": "06889365000103",
+    "coordinates": {
+      "lat": -23.7208012,
+      "lng": -46.56800620000001
+    }
+  },
+  {
+    "id": 341,
+    "name": "KNN SAO FIDELIS",
+    "status": "INAUGURADA",
+    "address": "RUA FREI ANGELO, 663 - CENTRO",
+    "city": "SÃO FIDÉLIS",
+    "state": "RJ",
+    "cep": "28400000",
+    "phone": "22997788634",
+    "email": "saofidelis@knnidiomas.com.br",
+    "cnpj": "51007587000100",
+    "coordinates": {
+      "lat": -21.6497897,
+      "lng": -41.7475252
+    }
+  },
+  {
+    "id": 342,
+    "name": "KNN SAO FRANCISCO DE ITABAPOANA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA VEREADOR EDENITES DA SILVA VIANA, 16 - CENTRO",
+    "city": "SÃO FRANCISCO DE ITABAPOANA",
+    "state": "RJ",
+    "cep": "28230000",
+    "phone": "22997124100",
+    "email": "saofranciscodeitabapoana@knnidiomas.com.br",
+    "cnpj": "47097070000173",
+    "coordinates": {
+      "lat": -21.4848254,
+      "lng": -41.1024053
+    }
+  },
+  {
+    "id": 343,
+    "name": "KNN SAO FRANCISCO DO CONDE",
+    "status": "INAUGURADA",
+    "address": "RUA MINISTRO BULCAO VIANA , 02 A - CENTRO",
+    "city": "SÃO FRANCISCO DO CONDE",
+    "state": "BA",
+    "cep": "43900000",
+    "phone": "7136513417",
+    "email": "saofranciscodoconde@knnidiomas.com.br",
+    "cnpj": "39782970000121",
+    "coordinates": {
+      "lat": -12.6268127,
+      "lng": -38.6805714
+    }
+  },
+  {
+    "id": 344,
+    "name": "KNN SAO FRANCISCO DO GUAPORE",
+    "status": "INAUGURADA",
+    "address": "AVENIDA GUAPORE, 3156 - CENTRO",
+    "city": "SÃO FRANCISCO DO GUAPORÉ",
+    "state": "RO",
+    "cep": "76935000",
+    "phone": "69992588573",
+    "email": "saofranciscodoguapore@knnidiomas.com.br",
+    "cnpj": "51467891000121",
+    "coordinates": {
+      "lat": -12.0605778,
+      "lng": -63.5724387
+    }
+  },
+  {
+    "id": 345,
+    "name": "KNN SAO GONCALO 02",
+    "status": "INAUGURADA",
+    "address": "Rua Palmira Ninho, 79 - Alcantara",
+    "city": "SÃO GONÇALO",
+    "state": "RJ",
+    "cep": "24710440",
+    "phone": "21983028410",
+    "email": "saogoncalo02@knnidiomas.com.br",
+    "cnpj": "28058753000177",
+    "coordinates": {
+      "lat": -22.8211857,
+      "lng": -43.00217749999999
+    }
+  },
+  {
+    "id": 346,
+    "name": "KNN SAO JOAO",
+    "status": "INAUGURADA",
+    "address": "Avenida Sao Joao, 328 - Centro",
+    "city": "SÃO JOÃO",
+    "state": "PR",
+    "cep": "85570000",
+    "phone": "46999375838",
+    "email": "saojoao.pr@knnidiomas.com.br",
+    "cnpj": "44663843000143",
+    "coordinates": {
+      "lat": -25.8251098,
+      "lng": -52.7288516
+    }
+  },
+  {
+    "id": 347,
+    "name": "KNN SAO JOAO BATISTA",
+    "status": "INAUGURADA",
+    "address": "GETULIO VARGAS, 385 - CENTRO",
+    "city": "SÃO JOÃO BATISTA",
+    "state": "SC",
+    "cep": "88240000",
+    "phone": "4832651230",
+    "email": "saojoaobatista@knnidiomas.com.br",
+    "cnpj": "32460680000112",
+    "coordinates": {
+      "lat": -27.2757739,
+      "lng": -48.8485388
+    }
+  },
+  {
+    "id": 348,
+    "name": "KNN SAO JOAQUIM",
+    "status": "INAUGURADA",
+    "address": "Rua Juvenal Matos, 77 - Centro",
+    "city": "SÃO JOAQUIM",
+    "state": "SC",
+    "cep": "88600000",
+    "phone": "4932331031",
+    "email": "saojoaquim@knnidiomas.com.br",
+    "cnpj": "45225146000173",
+    "coordinates": {
+      "lat": -28.2954144,
+      "lng": -49.9320044
+    }
+  },
+  {
+    "id": 349,
+    "name": "KNN SAO JOSE",
+    "status": "INAUGURADA",
+    "address": "RUA TENENTE-CORONEL DIONISIO CARDOSO, 50 - JARDIM CIDADE DE FLO",
+    "city": "SÃO JOSÉ",
+    "state": "SC",
+    "cep": "88111315",
+    "phone": "4830340060",
+    "email": "saojose-sc@knnidiomas.com.br",
+    "cnpj": "17006257000153",
+    "coordinates": {
+      "lat": -27.5643198,
+      "lng": -48.6188619
+    }
+  },
+  {
+    "id": 350,
+    "name": "KNN SAO JOSE DE RIBAMAR",
+    "status": "INAUGURADA",
+    "address": "AV CONTORNO SUL, 06 - COHATRAC",
+    "city": "SÃO JOSÉ DE RIBAMAR",
+    "state": "MA",
+    "cep": "65110000",
+    "phone": "9899711747",
+    "email": "saojosederibamar01@knnidiomas.com.br",
+    "cnpj": "45461271000182",
+    "coordinates": {
+      "lat": -2.5427965,
+      "lng": -44.20709859999999
+    }
+  },
+  {
+    "id": 351,
+    "name": "KNN SAO JOSE DO CALCADO",
+    "status": "INAUGURADA",
+    "address": "RUA FRANCISCO NUNES MORAES , 132 - CENTRO",
+    "city": "SÃO JOSÉ DO CALÇADO",
+    "state": "ES",
+    "cep": "29470000",
+    "phone": "28999095457",
+    "email": "saojosedocalcado@knnidiomas.com.br",
+    "cnpj": "23862561000103",
+    "coordinates": {
+      "lat": -21.0276035,
+      "lng": -41.6541254
+    }
+  },
+  {
+    "id": 352,
+    "name": "KNN SAO JOSE DO RIO PRETO",
+    "status": "INAUGURADA",
+    "address": "Rua Bernardino de Campos, 3395 - Centro",
+    "city": "SÃO JOSÉ DO RIO PRETO",
+    "state": "SP",
+    "cep": "15015300",
+    "phone": "1732347570",
+    "email": "saojosedoriopreto@knnidiomas.com.br",
+    "cnpj": "39731509000140",
+    "coordinates": {
+      "lat": -20.8140351,
+      "lng": -49.383223
+    }
+  },
+  {
+    "id": 353,
+    "name": "KNN SAO JOSE DOS CAMPOS",
+    "status": "INAUGURADA",
+    "address": "Avenida Anchieta, 455 - Jardim Esplanada",
+    "city": "SÃO JOSÉ DOS CAMPOS",
+    "state": "SP",
+    "cep": "12242280",
+    "phone": "12997320123",
+    "email": "sjc-sp@knnidiomas.com.br",
+    "cnpj": "02908297000113",
+    "coordinates": {
+      "lat": -23.192963,
+      "lng": -45.898213
+    }
+  },
+  {
+    "id": 354,
+    "name": "KNN SAO JOSE DOS CAMPOS 02",
+    "status": "INAUGURADA",
+    "address": "Avenida Andromeda, 1449 - Jardim Satelite",
+    "city": "SÃO JOSÉ DOS CAMPOS",
+    "state": "SP",
+    "cep": "12230000",
+    "phone": "1233081957",
+    "email": "saojosedoscampos02@knnidiomas.com.br",
+    "cnpj": "45029334000126",
+    "coordinates": {
+      "lat": -23.2251966,
+      "lng": -45.8853272
+    }
+  },
+  {
+    "id": 355,
+    "name": "KNN SAO JOSE DOS PINHAIS",
+    "status": "INAUGURADA",
+    "address": "Rua Joaquim Nabuco, 2315 - Cidade Jardim",
+    "city": "SÃO JOSÉ DOS PINHAIS",
+    "state": "PR",
+    "cep": "83005160",
+    "phone": "00000000000",
+    "email": "saojosedospinhais01@knnidiomas.com.br",
+    "cnpj": "30178540000120",
+    "coordinates": {
+      "lat": -25.5350361,
+      "lng": -49.2032397
+    }
+  },
+  {
+    "id": 356,
+    "name": "KNN SAO LEOPOLDO",
+    "status": "INAUGURADA",
+    "address": "RUA BRASIL, 433 - CENTRO",
+    "city": "SÃO LEOPOLDO",
+    "state": "RS",
+    "cep": "93010030",
+    "phone": "51983080008",
+    "email": "saoleopoldo@knnidiomas.com.br",
+    "cnpj": "37310168000103",
+    "coordinates": {
+      "lat": -29.7614738,
+      "lng": -51.1455735
+    }
+  },
+  {
+    "id": 357,
+    "name": "KNN SAO LOURENCO",
+    "status": "INAUGURADA",
+    "address": "Rua Coronel Jose Justino, 215 - Centro",
+    "city": "SÃO LOURENÇO",
+    "state": "MG",
+    "cep": "37470000",
+    "phone": "35988785192",
+    "email": "saolourenco-mg@knnidiomas.com.br",
+    "cnpj": "44723129000101",
+    "coordinates": {
+      "lat": -22.11654,
+      "lng": -45.0512277
+    }
+  },
+  {
+    "id": 358,
+    "name": "KNN SAO MATEUS",
+    "status": "INAUGURADA",
+    "address": "RUA PROFESSOR AMARO NASCIMENTO MENDES, 148 - GURIRI",
+    "city": "SÃO MATEUS",
+    "state": "ES",
+    "cep": "29945430",
+    "phone": "27995186248",
+    "email": "saomateus.es@knnidiomas.com.br",
+    "cnpj": "03470439000257",
+    "coordinates": {
+      "lat": -18.7389456,
+      "lng": -39.7526365
+    }
+  },
+  {
+    "id": 359,
+    "name": "KNN SAO MIGUEL DO OESTE",
+    "status": "INAUGURADA",
+    "address": "RUA BARAO DO RIO BRANCO, 1461 - CENTRO",
+    "city": "SÃO MIGUEL DO OESTE",
+    "state": "SC",
+    "cep": "89900000",
+    "phone": "4931971600",
+    "email": "saomiguel@knnidiomas.com.br",
+    "cnpj": "32139135000129",
+    "coordinates": {
+      "lat": -26.7248435,
+      "lng": -53.5225753
+    }
+  },
+  {
+    "id": 360,
+    "name": "KNN SAO PAULO - PIRITUBA",
+    "status": "INAUGURADA",
+    "address": "AV PAULA FERREIRA, 2273 - VILA PIRITUBA",
+    "city": "SÃO PAULO",
+    "state": "SP",
+    "cep": "02915100",
+    "phone": "1127800398",
+    "email": "pirituba@knnidiomas.com.br",
+    "cnpj": "32732428000115",
+    "coordinates": {
+      "lat": -23.4919779,
+      "lng": -46.71543880000001
+    }
+  },
+  {
+    "id": 361,
+    "name": "KNN SAO RAIMUNDO NONATO",
+    "status": "INAUGURADA",
+    "address": "RUA DR LUIZ PAIXAO, SN - MILONGA",
+    "city": "SÃO RAIMUNDO NONATO",
+    "state": "PI",
+    "cep": "64770000",
+    "phone": "8981491518",
+    "email": "saoraimundononato@knnidiomas.com.br",
+    "cnpj": "50264454000148",
+    "coordinates": {
+      "lat": -9.0075256,
+      "lng": -42.6959319
+    }
+  },
+  {
+    "id": 362,
+    "name": "KNN SAO SEBASTIAO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA GUARDA-MOR LOBO VIANA, 130 - CENTRO",
+    "city": "SÃO SEBASTIÃO",
+    "state": "SP",
+    "cep": "11608503",
+    "phone": "1238925665",
+    "email": "saosebastiao@knnidiomas.com.br",
+    "cnpj": "08900406000213",
+    "coordinates": {
+      "lat": -23.8032376,
+      "lng": -45.4030605
+    }
+  },
+  {
+    "id": 363,
+    "name": "KNN SAO SEBASTIAO DO CAI",
+    "status": "INAUGURADA",
+    "address": "RUA ANDRADE NEVES, 150 - CENTRO",
+    "city": "SÃO SEBASTIÃO DO CAÍ",
+    "state": "RS",
+    "cep": "95760000",
+    "phone": "51999062533",
+    "email": "saosebastiaodocai@knnidiomas.com.br",
+    "cnpj": "23942135000171",
+    "coordinates": {
+      "lat": -29.5898895,
+      "lng": -51.3723401
+    }
+  },
+  {
+    "id": 364,
+    "name": "KNN SAPE",
+    "status": "INAUGURADA",
+    "address": "TRAVESSA LOURENCO FRANCISCO DE MACEDO, 13 - CENTRO",
+    "city": "SAPÉ",
+    "state": "PB",
+    "cep": "58340000",
+    "phone": "83993620021",
+    "email": "sape@knnidiomas.com.br",
+    "cnpj": "36143087000101",
+    "coordinates": {
+      "lat": -7.0983575,
+      "lng": -35.2301204
+    }
+  },
+  {
+    "id": 365,
+    "name": "KNN SAPEZAL",
+    "status": "INAUGURADA",
+    "address": "AV ANTONIO ANDRE MAGGI, 917 - LOT CIDEZAL II",
+    "city": "SAPEZAL",
+    "state": "MT",
+    "cep": "78365000",
+    "phone": "65993420292",
+    "email": "sapezal@knnidiomas.com.br",
+    "cnpj": "36174202000105",
+    "coordinates": {
+      "lat": -13.5402808,
+      "lng": -58.80941039999999
+    }
+  },
+  {
+    "id": 366,
+    "name": "KNN SAPIRANGA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA JOAO CORREA, 1549 - CENTRO",
+    "city": "SAPIRANGA",
+    "state": "RS",
+    "cep": "93800016",
+    "phone": "51980522682",
+    "email": "sapiranga@knnidiomas.com.br",
+    "cnpj": "08739753000125",
+    "coordinates": {
+      "lat": -29.63793919999999,
+      "lng": -51.0116016
+    }
+  },
+  {
+    "id": 367,
+    "name": "KNN SARANDI 02/PR",
+    "status": "INAUGURADA",
+    "address": "Rua Taí, 458 - Centro",
+    "city": "SARANDI",
+    "state": "PR",
+    "cep": "87111130",
+    "phone": "4430481468",
+    "email": "sarandi02@knnidiomas.com.br",
+    "cnpj": "35656806000117",
+    "coordinates": {
+      "lat": -23.4417786,
+      "lng": -51.8751396
+    }
+  },
+  {
+    "id": 368,
+    "name": "KNN SARANDI RS",
+    "status": "INAUGURADA",
+    "address": "RUA PAULO DALL'OGLIO, 3 - CENTRO",
+    "city": "SARANDI",
+    "state": "RS",
+    "cep": "99560000",
+    "phone": "55999147470",
+    "email": "sarandi.rs@knnidiomas.com.br",
+    "cnpj": "45741031000131",
+    "coordinates": {
+      "lat": -27.9456729,
+      "lng": -52.9249502
+    }
+  },
+  {
+    "id": 369,
+    "name": "KNN SAUDADE DO IGUACU",
+    "status": "INAUGURADA",
+    "address": "Rua Alfides Marangon, 745 - Araucaria",
+    "city": "SAUDADE DO IGUAÇU",
+    "state": "PR",
+    "cep": "85568000",
+    "phone": "46999015084",
+    "email": "saudadedoiguacu@knnidiomas.com.br",
+    "cnpj": "38269333000193",
+    "coordinates": {
+      "lat": -25.6896854,
+      "lng": -52.61693
+    }
+  },
+  {
+    "id": 370,
+    "name": "KNN SCHROEDER",
+    "status": "INAUGURADA",
+    "address": "R MARECHAL CASTELO BRANCO, 1083 - CENTRO SUL",
+    "city": "SCHROEDER",
+    "state": "SC",
+    "cep": "89275000",
+    "phone": "4733075490",
+    "email": "schroeder@knnidiomas.com.br",
+    "cnpj": "43196809000143",
+    "coordinates": {
+      "lat": -26.4288419,
+      "lng": -49.0655527
+    }
+  },
+  {
+    "id": 371,
+    "name": "KNN SEARA",
+    "status": "INAUGURADA",
+    "address": "RUA PINHEIRINHO, 85 - INDUSTRIAL",
+    "city": "SEARA",
+    "state": "SC",
+    "cep": "89770000",
+    "phone": "4934522095",
+    "email": "seara@knnidiomas.com.br",
+    "cnpj": "48642456000181",
+    "coordinates": {
+      "lat": -27.1602423,
+      "lng": -52.3207044
+    }
+  },
+  {
+    "id": 372,
+    "name": "KNN SEROPEDICA",
+    "status": "INAUGURADA",
+    "address": "ROD BR 465, 0 - JARDINS",
+    "city": "SEROPÉDICA",
+    "state": "RJ",
+    "cep": "23890001",
+    "phone": "2126826271",
+    "email": "seropedica@knnidiomas.com.br",
+    "cnpj": "35534318000137",
+    "coordinates": {
+      "lat": -22.8049771,
+      "lng": -43.6388163
+    }
+  },
+  {
+    "id": 373,
+    "name": "KNN SERRANA",
+    "status": "INAUGURADA",
+    "address": "RUA VICENTE DE PAULA LIMA, 382 - CENTRO",
+    "city": "SERRANA",
+    "state": "SP",
+    "cep": "14150000",
+    "phone": "16996366969",
+    "email": "serrana@knnidiomas.com.br",
+    "cnpj": "47537849000162",
+    "coordinates": {
+      "lat": -21.2127004,
+      "lng": -47.5965398
+    }
+  },
+  {
+    "id": 374,
+    "name": "KNN SERTAOZINHO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA AFFONSO TRIGO, 736 - JARDIM RECREIO",
+    "city": "SERTÃOZINHO",
+    "state": "SP",
+    "cep": "14170350",
+    "phone": "1639451959",
+    "email": "sertaozinho@knnidiomas.com.br",
+    "cnpj": "23645987000105",
+    "coordinates": {
+      "lat": -21.1378415,
+      "lng": -48.0032344
+    }
+  },
+  {
+    "id": 375,
+    "name": "KNN SETE LAGOAS",
+    "status": "INAUGURADA",
+    "address": "Rua Benedito Valadares, 264 - Centro",
+    "city": "SETE LAGOAS",
+    "state": "MG",
+    "cep": "35700055",
+    "phone": "3137750314",
+    "email": "setelagoas@knnidiomas.com.br",
+    "cnpj": "41229714000153",
+    "coordinates": {
+      "lat": -19.4608606,
+      "lng": -44.2497154
+    }
+  },
+  {
+    "id": 376,
+    "name": "KNN SETE QUEDAS",
+    "status": "INAUGURADA",
+    "address": "RUA 13 DE MAIO, 224 - CENTRO",
+    "city": "SETE QUEDAS",
+    "state": "MS",
+    "cep": "79935000",
+    "phone": "67991723333",
+    "email": "setequedas@knnidiomas.com.br",
+    "cnpj": "38069515000110",
+    "coordinates": {
+      "lat": -23.9803949,
+      "lng": -55.0465598
+    }
+  },
+  {
+    "id": 377,
+    "name": "KNN SIDROLANDIA",
+    "status": "INAUGURADA",
+    "address": "RUA RIO GRANDE DO NORTE, 67 - CENTRO",
+    "city": "SIDROLÂNDIA",
+    "state": "MS",
+    "cep": "79170000",
+    "phone": "67992111753",
+    "email": "sidrolandia@knnidiomas.com.br",
+    "cnpj": "13429705000685",
+    "coordinates": {
+      "lat": -20.92926,
+      "lng": -54.9582589
+    }
+  },
+  {
+    "id": 378,
+    "name": "KNN SILVANIA",
+    "status": "INAUGURADA",
+    "address": "RUA 03, 98 - NOSSA SENHORA DE FÁTIMA",
+    "city": "SILVANIA",
+    "state": "GO",
+    "cep": "75180000",
+    "phone": "62996490722",
+    "email": "silvania@knnidiomas.com.br",
+    "cnpj": "32723474000158",
+    "coordinates": {
+      "lat": -16.6655422,
+      "lng": -48.6119287
+    }
+  },
+  {
+    "id": 379,
+    "name": "KNN SINOP",
+    "status": "INAUGURADA",
+    "address": "AVENIDA DAS ITAUBAS, 3328 - SETOR COMERCIAL",
+    "city": "SINOP",
+    "state": "MT",
+    "cep": "78550196",
+    "phone": "6621028008",
+    "email": "sinop01@knnidiomas.com.br",
+    "cnpj": "40567388000121",
+    "coordinates": {
+      "lat": -11.8556352,
+      "lng": -55.5102877
+    }
+  },
+  {
+    "id": 380,
+    "name": "KNN SITIO CERCADO",
+    "status": "INAUGURADA",
+    "address": "RUA IZAAC FERREIRA DA CRUZ, 4546 - SITIO CERCADO",
+    "city": "CURITIBA",
+    "state": "PR",
+    "cep": "81910000",
+    "phone": "4130750829",
+    "email": "sitiocercado@knnidiomas.com.br",
+    "cnpj": "34345654000179",
+    "coordinates": {
+      "lat": -25.5320048,
+      "lng": -49.2597087
+    }
+  },
+  {
+    "id": 381,
+    "name": "KNN SOBRAL",
+    "status": "INAUGURADA",
+    "address": "AV DOUTOR GUARANY, 1115 - CENTRO",
+    "city": "SOBRAL",
+    "state": "CE",
+    "cep": "62010305",
+    "phone": "88981900043",
+    "email": "sobral@knnidiomas.com.br",
+    "cnpj": "43997372000147",
+    "coordinates": {
+      "lat": -3.6869724,
+      "lng": -40.3453
+    }
+  },
+  {
+    "id": 382,
+    "name": "KNN SOLANEA",
+    "status": "INAUGURADA",
+    "address": "RUA CANDIDO DE SOUZA, 601 - CENTRO",
+    "city": "SOLÂNEA",
+    "state": "PB",
+    "cep": "58225000",
+    "phone": "83994047979",
+    "email": "solanea@knnidiomas.com.br",
+    "cnpj": "33184825000596",
+    "coordinates": {
+      "lat": -6.7560074,
+      "lng": -35.6581099
+    }
+  },
+  {
+    "id": 383,
+    "name": "KNN SOROCABA 02",
+    "status": "INAUGURADA",
+    "address": "Rua Doutor Virgilio de Mello Franco, 482 - Vila Trujillo",
+    "city": "SOROCABA",
+    "state": "SP",
+    "cep": "18060260",
+    "phone": "1532932965",
+    "email": "sorocaba02@knnidiomas.com.br",
+    "cnpj": "27213682000177",
+    "coordinates": {
+      "lat": -23.493456,
+      "lng": -47.46898
+    }
+  },
+  {
+    "id": 384,
+    "name": "KNN SUMARE",
+    "status": "INAUGURADA",
+    "address": "RUA IPIRANGA, 510 - CENTRO",
+    "city": "SUMARÉ",
+    "state": "SP",
+    "cep": "13170026",
+    "phone": "1938832917",
+    "email": "sumare@knnidiomas.com.br",
+    "cnpj": "31847175000162",
+    "coordinates": {
+      "lat": -22.82219,
+      "lng": -47.2696254
+    }
+  },
+  {
+    "id": 385,
+    "name": "KNN SUZANO",
+    "status": "INAUGURADA",
+    "address": "RUA PORTUGAL FREIXO, 238 - CENTRO",
+    "city": "SUZANO",
+    "state": "SP",
+    "cep": "08674170",
+    "phone": "1146928777",
+    "email": "suzano@knnidiomas.com.br",
+    "cnpj": "51275306000191",
+    "coordinates": {
+      "lat": -23.5392299,
+      "lng": -46.3117562
+    }
+  },
+  {
+    "id": 386,
+    "name": "KNN TAGUATINGA NORTE",
+    "status": "INAUGURADA",
+    "address": "Q CNC 04 LOTE 09, 10, 11 e 12 LOJA, 02 - TAGUATINGA NORTE",
+    "city": "BRASÍLIA",
+    "state": "DF",
+    "cep": "72115545",
+    "phone": "6135634264",
+    "email": "taguatinga@knnidiomas.com.br",
+    "cnpj": "15599648000101",
+    "coordinates": {
+      "lat": -15.8016557,
+      "lng": -48.0586873
+    }
+  },
+  {
+    "id": 387,
+    "name": "KNN TAPEJARA PR",
+    "status": "INAUGURADA",
+    "address": "Rua Pedro Segura Alda, 578 - Centro",
+    "city": "TAPEJARA",
+    "state": "PR",
+    "cep": "87430000",
+    "phone": "4420209100",
+    "email": "tapejara.pr@knnidiomas.com.br",
+    "cnpj": "43412615000138",
+    "coordinates": {
+      "lat": -23.7360662,
+      "lng": -52.8658695
+    }
+  },
+  {
+    "id": 388,
+    "name": "KNN TAQUARA",
+    "status": "INAUGURADA",
+    "address": "RUA FEDERACAO, 2266 - CENTRO",
+    "city": "TAQUARA",
+    "state": "RS",
+    "cep": "95600020",
+    "phone": "5131793545",
+    "email": "taquara@knnidiomas.com.br",
+    "cnpj": "26902385000176",
+    "coordinates": {
+      "lat": -29.6513199,
+      "lng": -50.7837423
+    }
+  },
+  {
+    "id": 389,
+    "name": "KNN TEIXEIRA DE FREITAS",
+    "status": "INAUGURADA",
+    "address": "Avenida Presidente Getúlio Vargas, 4815 - Vila Vargas",
+    "city": "TEIXEIRA DE FREITAS",
+    "state": "BA",
+    "cep": "45993000",
+    "phone": "7332928513",
+    "email": "teixeiradefreitas@knnidiomas.com.br",
+    "cnpj": "47982703000126",
+    "coordinates": {
+      "lat": -17.5352514,
+      "lng": -39.7516301
+    }
+  },
+  {
+    "id": 390,
+    "name": "KNN TELEMACO BORBA",
+    "status": "INAUGURADA",
+    "address": "Avenida Presidente Kennedy, 893 - Centro",
+    "city": "TELÊMACO BORBA",
+    "state": "PR",
+    "cep": "84261400",
+    "phone": "42998114449",
+    "email": "telemacoborba@knnidiomas.com.br",
+    "cnpj": "50103065000130",
+    "coordinates": {
+      "lat": -24.32977,
+      "lng": -50.6142475
+    }
+  },
+  {
+    "id": 391,
+    "name": "KNN TERESOPOLIS",
+    "status": "INAUGURADA",
+    "address": "RUA HEITOR DE MOURA ESTEVAO, 279 - VARZEA",
+    "city": "TERESÓPOLIS",
+    "state": "RJ",
+    "cep": "25953090",
+    "phone": "2120407891",
+    "email": "teresopolis@knnidiomas.com.br",
+    "cnpj": "32729362000104",
+    "coordinates": {
+      "lat": -22.4079783,
+      "lng": -42.9679014
+    }
+  },
+  {
+    "id": 392,
+    "name": "KNN TIJUCAS",
+    "status": "INAUGURADA",
+    "address": "RUA NERI FRANCISCO DE CAMPOS, 10 - CENTRO",
+    "city": "TIJUCAS",
+    "state": "SC",
+    "cep": "88200000",
+    "phone": "48996200059",
+    "email": "tijucas@knnidiomas.com.br",
+    "cnpj": "32545226000164",
+    "coordinates": {
+      "lat": -27.2415241,
+      "lng": -48.6367929
+    }
+  },
+  {
+    "id": 393,
+    "name": "KNN TIMBO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA NEREU RAMOS, 531 - CENTRO",
+    "city": "TIMBÓ",
+    "state": "SC",
+    "cep": "89120000",
+    "phone": "4733401320",
+    "email": "timbo@knnidiomas.com.br",
+    "cnpj": "39935264000172",
+    "coordinates": {
+      "lat": -26.828449,
+      "lng": -49.267595
+    }
+  },
+  {
+    "id": 394,
+    "name": "KNN TOLEDO",
+    "status": "INAUGURADA",
+    "address": "RUA CORONEL VICENTE, 2808 - Jardim La Salle",
+    "city": "TOLEDO",
+    "state": "PR",
+    "cep": "85903610",
+    "phone": "4532773222",
+    "email": "toledo@knnidiomas.com.br",
+    "cnpj": "38459626000133",
+    "coordinates": {
+      "lat": -24.725671,
+      "lng": -53.7474875
+    }
+  },
+  {
+    "id": 395,
+    "name": "KNN TORRES",
+    "status": "INAUGURADA",
+    "address": "RUA JULIO DE CASTILHOS, 570 - CENTRO",
+    "city": "TORRES",
+    "state": "RS",
+    "cep": "95560000",
+    "phone": "51982700517",
+    "email": "torres@knnidiomas.com.br",
+    "cnpj": "48269746000121",
+    "coordinates": {
+      "lat": -29.341245,
+      "lng": -49.7283008
+    }
+  },
+  {
+    "id": 396,
+    "name": "KNN TRES DE MAIO",
+    "status": "INAUGURADA",
+    "address": "TRAVESSA PEDRO GARRAFA, 61 - CENTRO ",
+    "city": "TRÊS DE MAIO",
+    "state": "RS",
+    "cep": "98910000",
+    "phone": "5530190856",
+    "email": "tresdemaio@knnidiomas.com.br",
+    "cnpj": "38086822000100",
+    "coordinates": {
+      "lat": -27.7817959,
+      "lng": -54.2355452
+    }
+  },
+  {
+    "id": 397,
+    "name": "KNN TRES LAGOAS",
+    "status": "INAUGURADA",
+    "address": "Avenida Aldair Rosa de Oliveira, 1006 - Interlagos",
+    "city": "TRÊS LAGOAS",
+    "state": "MS",
+    "cep": "79640100",
+    "phone": "6735210177",
+    "email": "treslagoas@knnidiomas.com.br",
+    "cnpj": "34089903000102",
+    "coordinates": {
+      "lat": -20.7808925,
+      "lng": -51.7126818
+    }
+  },
+  {
+    "id": 398,
+    "name": "KNN TRINDADE DO SUL",
+    "status": "INAUGURADA",
+    "address": "RUA AVENIDA PINHEIROS, 248 - Centro",
+    "city": "TRINDADE DO SUL",
+    "state": "RS",
+    "cep": "99615970",
+    "phone": "4799848134",
+    "email": "trindadedosul@knnidiomas.com.br",
+    "cnpj": "49677975000148",
+    "coordinates": {
+      "lat": -27.5216071,
+      "lng": -52.9014876
+    }
+  },
+  {
+    "id": 399,
+    "name": "KNN TUBARAO",
+    "status": "INAUGURADA",
+    "address": "RUA WASHINGTON LUIZ, 105 - VILA MOEMA",
+    "city": "TUBARÃO",
+    "state": "SC",
+    "cep": "88705230",
+    "phone": "4831996872",
+    "email": "tubarao@knnidiomas.com.br",
+    "cnpj": "35999538000136",
+    "coordinates": {
+      "lat": -28.4769481,
+      "lng": -48.9950091
+    }
+  },
+  {
+    "id": 400,
+    "name": "KNN TUNAPOLIS",
+    "status": "INAUGURADA",
+    "address": "Sao Miguel, 130 - Centro",
+    "city": "TUNÁPOLIS",
+    "state": "SC",
+    "cep": "89898000",
+    "phone": "4936020005",
+    "email": "tunapolis@knnidiomas.com.br",
+    "cnpj": "45577320000147",
+    "coordinates": {
+      "lat": -26.9716118,
+      "lng": -53.6345366
+    }
+  },
+  {
+    "id": 401,
+    "name": "KNN TURMALINA",
+    "status": "INAUGURADA",
+    "address": "JOAO CORDEIRO, 598 - CAMPO",
+    "city": "TURMALINA",
+    "state": "MG",
+    "cep": "39660000",
+    "phone": "38998486141",
+    "email": "turmalina@knnidiomas.com.br",
+    "cnpj": "42074379000124",
+    "coordinates": {
+      "lat": -17.2875371,
+      "lng": -42.721923
+    }
+  },
+  {
+    "id": 402,
+    "name": "KNN UBA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA RAUL SOARES, 430 - CENTRO",
+    "city": "UBÁ",
+    "state": "MG",
+    "cep": "36500067",
+    "phone": "3235280500",
+    "email": "uba@knnidiomas.com.br",
+    "cnpj": "39828448000133",
+    "coordinates": {
+      "lat": -21.1179877,
+      "lng": -42.9463164
+    }
+  },
+  {
+    "id": 403,
+    "name": "KNN UMUARAMA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA APUCARANA, 3865 - ZONA I",
+    "city": "UMUARAMA",
+    "state": "PR",
+    "cep": "87501230",
+    "phone": "4436240510",
+    "email": "umuarama@knnidiomas.com.br",
+    "cnpj": "37112110000155",
+    "coordinates": {
+      "lat": -23.7619351,
+      "lng": -53.3058114
+    }
+  },
+  {
+    "id": 404,
+    "name": "KNN UPANEMA",
+    "status": "INAUGURADA",
+    "address": ".., .. - ..",
+    "city": "UPANEMA",
+    "state": "RN",
+    "cep": "59670000",
+    "phone": "84996388118",
+    "email": "upanema@knnidiomas.com.br",
+    "cnpj": "0000000205",
+    "coordinates": {
+      "lat": -5.6408005,
+      "lng": -37.25821910000001
+    }
+  },
+  {
+    "id": 405,
+    "name": "KNN URUBICI",
+    "status": "INAUGURADA",
+    "address": "AV RODOLFO ANDERMAN, 1219 - ESQUINA",
+    "city": "URUBICI",
+    "state": "SC",
+    "cep": "88650000",
+    "phone": "4932330909",
+    "email": "urubici@knnidiomas.com.br",
+    "cnpj": "45225146000254",
+    "coordinates": {
+      "lat": -27.991426,
+      "lng": -49.5788913
+    }
+  },
+  {
+    "id": 406,
+    "name": "KNN URUCUI",
+    "status": "INAUGURADA",
+    "address": "RUA ABRAAO ESTRELA, 50 - CENTRO",
+    "city": "URUÇUÍ",
+    "state": "PI",
+    "cep": "64860000",
+    "phone": "89981516705",
+    "email": "urucui@knnidiomas.com.br",
+    "cnpj": "47093346000145",
+    "coordinates": {
+      "lat": -7.235793299999999,
+      "lng": -44.55478189999999
+    }
+  },
+  {
+    "id": 407,
+    "name": "KNN VACARIA",
+    "status": "INAUGURADA",
+    "address": "RUA RAMIRO BARCELOS, 815 - CENTRO",
+    "city": "VACARIA",
+    "state": "RS",
+    "cep": "95200127",
+    "phone": "5432329705",
+    "email": "vacaria@knnidiomas.com.br",
+    "cnpj": "29233085000130",
+    "coordinates": {
+      "lat": -28.5013145,
+      "lng": -50.9378007
+    }
+  },
+  {
+    "id": 408,
+    "name": "KNN VARGINHA",
+    "status": "INAUGURADA",
+    "address": "RUA DELFIM MOREIRA, 641 - Centro",
+    "city": "VARGINHA",
+    "state": "MG",
+    "cep": "37002075",
+    "phone": "3532215678",
+    "email": "varginha01@knnidiomas.com.br",
+    "cnpj": "22567773000197",
+    "coordinates": {
+      "lat": -21.5553168,
+      "lng": -45.4382988
+    }
+  },
+  {
+    "id": 409,
+    "name": "KNN VENDA NOVA DO IMIGRANTE",
+    "status": "INAUGURADA",
+    "address": "Avenida Domingos Perim, 703 - Vila da Mata",
+    "city": "VENDA NOVA DO IMIGRANTE",
+    "state": "ES",
+    "cep": "29375000",
+    "phone": "28999381477",
+    "email": "vendanovadoimigrante@knnidiomas.com.br",
+    "cnpj": "42739601000160",
+    "coordinates": {
+      "lat": -20.3392187,
+      "lng": -41.1301022
+    }
+  },
+  {
+    "id": 410,
+    "name": "KNN VIDEIRA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA MANOEL ROQUE, 265 - ALVORADA",
+    "city": "VIDEIRA",
+    "state": "SC",
+    "cep": "89562036",
+    "phone": "4939600871",
+    "email": "videira@knnidiomas.com.br",
+    "cnpj": "41325749000196",
+    "coordinates": {
+      "lat": -27.0114219,
+      "lng": -51.14522299999999
+    }
+  },
+  {
+    "id": 411,
+    "name": "KNN VINHEDO",
+    "status": "INAUGURADA",
+    "address": "AVENIDA BRASIL, 716 - JARDIM BRASIL",
+    "city": "VINHEDO",
+    "state": "SP",
+    "cep": "13289068",
+    "phone": "1938262432",
+    "email": "vinhedo@knnidiomas.com.br",
+    "cnpj": "39991991000157",
+    "coordinates": {
+      "lat": -22.8884327,
+      "lng": -47.0654225
+    }
+  },
+  {
+    "id": 412,
+    "name": "KNN VITORIA 04",
+    "status": "INAUGURADA",
+    "address": "AV ROZENDO SERAPIAO DE SOUZA FILHO, 390 - REPUBLICA",
+    "city": "VITÓRIA",
+    "state": "ES",
+    "cep": "29070170",
+    "phone": "2731005003",
+    "email": "vitoria04@knnidiomas.com.br",
+    "cnpj": "17596084000170",
+    "coordinates": {
+      "lat": -20.2722813,
+      "lng": -40.2911346
+    }
+  },
+  {
+    "id": 413,
+    "name": "KNN VITORIA DA CONQUISTA",
+    "status": "INAUGURADA",
+    "address": "AVENIDA OTAVIO SANTOS, 540 - RECREIO",
+    "city": "VITÓRIA DA CONQUISTA",
+    "state": "BA",
+    "cep": "45020210",
+    "phone": "77981635252",
+    "email": "vitoriadaconquista@knnidiomas.com.br",
+    "cnpj": "33662483000149",
+    "coordinates": {
+      "lat": -14.855221,
+      "lng": -40.83595100000001
+    }
+  },
+  {
+    "id": 414,
+    "name": "KNN VITORIA DE SANTO ANTAO",
+    "status": "INAUGURADA",
+    "address": "Rua Joaquim Nabuco, 227 - Matriz",
+    "city": "VITÓRIA DE SANTO ANTÃO",
+    "state": "PE",
+    "cep": "55612450",
+    "phone": "8131450452",
+    "email": "vitoriadesantoantao@knnidiomas.com.br",
+    "cnpj": "41001477000179",
+    "coordinates": {
+      "lat": -8.115319999999999,
+      "lng": -35.2931066
+    }
+  },
+  {
+    "id": 415,
+    "name": "KNN VOLTA REDONDA 02",
+    "status": "INAUGURADA",
+    "address": "Rua 33, 174 - Vila Santa Cecília",
+    "city": "VOLTA REDONDA",
+    "state": "RJ",
+    "cep": "27261310",
+    "phone": "2430279701",
+    "email": "voltaredonda02@knnidiomas.com.br",
+    "cnpj": "44075641000180",
+    "coordinates": {
+      "lat": -22.5237969,
+      "lng": -44.10236250000001
+    }
+  }
+]

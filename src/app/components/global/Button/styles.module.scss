@@ -1,0 +1,92 @@
+.button {
+  width: 100%;
+  height: 48px;
+  padding-inline: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-xsmall);
+  border-radius: var(--radius-rounded);
+  background-color: var(--blue500);
+  box-shadow: 0 7px 18.9px 0 rgba(100, 95, 201, 0.3);
+  font-size: var(--font-size-medium);
+  color: var(--white);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  outline: none;
+  border: none;
+
+  span {
+    font-family: "articulat-cf", sans-serif !important;
+  }
+
+  &:hover {
+    background-color: var(--blue300);
+  }
+}
+
+.disabled {
+  background-color: var(--gray200) !important;
+  cursor: not-allowed;
+  box-shadow: none;
+  color: var(--gray500);
+  pointer-events: none;
+}
+
+.loading {
+  width: 14px;
+  height: 14px;
+  position: relative;
+  border-radius: 50%;
+  margin-right: 8px;
+  // background: var(--gray200);
+  animation: rotate 1s linear infinite;
+  --spiner-color: var(--white);
+}
+
+.loading::after {
+  content: "";
+  width: 2px;
+  height: 2px;
+  position: absolute;
+  top: -2px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background-color: var(--spinner-color, var(--white));
+}
+
+.loading::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  border-radius: 50%;
+  background: conic-gradient(
+    transparent 0%,
+    var(--spinner-color, var(--white)) 80%,
+    var(--spinner-color, var(--white)) 100%
+  );
+  clip-path: circle(50% at 50% 50%);
+  mask: radial-gradient(
+    farthest-side,
+    transparent calc(100% - 2px),
+    var(--spinner-color, var(--white)) 0
+  );
+  -webkit-mask: radial-gradient(
+    farthest-side,
+    transparent calc(100% - 2px),
+    var(--spinner-color, var(--white)) 0
+  );
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,188 @@
+@font-face {
+  font-family: "articulat-cf";
+  src: url("/fonts/ArticulatCF-DemiBold.otf") format("opentype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "articulat-cf";
+  src: url("/fonts/ArticulatCF-Medium.otf") format("opentype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "articulat-cf";
+  src: url("/fonts/ArticulatCF-Regular.otf") format("opentype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "articulat-cf";
+  src: url("/fonts/ArticulatCF-Normal.otf") format("opentype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "articulat-cf";
+  src: url("/fonts/ArticulatCF-Light.otf") format("opentype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "articulat-cf";
+  src: url("/fonts/ArticulatCF-ExtraLight.otf") format("opentype");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "fira-sans";
+  src: url("/fonts/FiraSans-SemiBold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "fira-sans";
+  src: url("/fonts/FiraSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "fira-sans";
+  src: url("/fonts/FiraSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+:root {
+  /* Colors */
+  --red950: #b81148;
+  --red900: #f70052;
+  --red700: #ff4a86;
+  --orange900: #ff6100;
+  --orange700: #ff8133;
+  --orange500: #ff8d55;
+  --purple900: #440f6a;
+  --purple700: #6400ac;
+  --purple500: #7f51c7;
+  --purple300: #a77de8;
+  --purple200: #d2b6ff;
+  --blue900: #1a0a33;
+  --blue800: #271a5d;
+  --blue700: #3e009f;
+  --blue500: #645fc9;
+  --blue300: #8883f7;
+  --blue200: #c4c1ff;
+  --gray800: #313943;
+  --gray600: #5e6d7e;
+  --gray300: #a2afbd;
+  --gray200: #cfd9e3;
+  --gray100: #e6edf4;
+  --gray050: #f2f7ff;
+  --gray010: #fafcff;
+  --white: #ffffff;
+  --black: #080808;
+  --success900: #257a4c;
+  --success700: #00b854;
+  --success300: #c2f2d8;
+  --caution900: #867032;
+  --caution700: #ffc82d;
+  --caution300: #fce5a4;
+
+  /* Spacing */
+  --spacing-xxsmall: 4px;
+  --spacing-xsmall: 8px;
+  --spacing-small: 16px;
+  --spacing-medium: 24px;
+  --spacing-large: 32px;
+  --spacing-xlarge: 48px;
+  --spacing-xxlarge: 64px;
+
+  /* Font Sizes */
+  --font-size-xxsmall: 10px;
+  --font-size-xsmall: 12px;
+  --font-size-small: 14px;
+  --font-size-default: 16px;
+  --font-size-large: 18px;
+  --font-size-xlarge: 24px;
+  --font-size-xxlarge: 32px;
+
+  /* Line Height */
+  --line-height-small: 115%;
+  --line-height-default: 125%;
+
+  /* Icon Sizes */
+  --icon-size-small: 16px;
+  --icon-size-default: 20px;
+  --icon-size-medium: 32px;
+
+  /* Border Radius Sizes */
+  --radius-xsmall: 8px;
+  --radius-small: 16px;
+  --radius-default: 24px;
+  --radius-large: 32px;
+  --radius-rounded: 9999px;
+  --radius-circular: 50%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  font-family: "articulat-cf", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: 500;
+  font-family: "fira-sans", sans-serif;
+  line-height: 110%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+h4 {
+  font-size: 18px;
+  font-family: "articulat-cf", sans-serif;
+}
+
+p {
+  line-height: 130%;
+}
+
+button {
+  border: none;
+}
+
+input {
+  font-family: "articulat-cf", sans-serif;
+}
+
+footer {
+  width: calc(100% - var(--spacing-small) * 2);
+  padding-block: var(--spacing-medium);
+  margin: 0 auto;
+  padding-inline: var(--spacing-small);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid var(--gray100);
+  color: var(--gray300);
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+}

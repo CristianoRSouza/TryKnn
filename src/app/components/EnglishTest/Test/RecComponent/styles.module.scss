@@ -1,0 +1,196 @@
+.controls {
+  position: relative;
+  margin-top: var(--spacing-large);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--spacing-xsmall);
+}
+
+.audio__player {
+  width: 100%;
+  height: 56px;
+  position: relative;
+  padding-inline: var(--spacing-medium);
+  padding-block: var(--spacing-xsmall);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--spacing-small);
+  background-color: var(--blue500);
+  border-radius: var(--radius-rounded);
+  cursor: pointer;
+  flex-grow: 1;
+  transition: all 0.3s ease-in-out;
+
+  &::before {
+    // make content be a prop on the audio player div
+    content: attr(data-content);
+    white-space: nowrap;
+    width: fit-content;
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: var(--font-size-small);
+    padding: 12px var(--spacing-small);
+    background-color: var(--gray050);
+    border-radius: var(--radius-rounded);
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+    pointer-events: none;
+    animation: fade_in 0.3s ease-in-out forwards;
+    box-shadow: 0px 7px 18.9px 0px rgba(0, 0, 0, 0.03);
+  }
+
+  .icon {
+    font-variation-settings: "FILL" 1;
+    color: var(--white);
+  }
+
+  .waveform {
+    max-height: 100%;
+    flex-grow: 1;
+    display: flex;
+
+    div {
+      flex-grow: 1;
+    }
+  }
+}
+
+.redo__button,
+.confirm__button {
+  width: 56px;
+  height: 56px;
+  display: grid;
+  place-items: center;
+  border-radius: var(--radius-rounded);
+  color: var(--white);
+  flex-shrink: 0;
+  cursor: pointer;
+  span {
+    font-variation-settings: "FILL" 1;
+  }
+}
+
+.redo__button {
+  background-color: var(--gray100);
+  color: var(--red900);
+}
+
+.confirm__button {
+  background-color: var(--success700);
+}
+
+.button {
+  position: relative;
+  width: 100%;
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--spacing-xsmall);
+  border-radius: var(--radius-rounded);
+  background-color: var(--red900);
+  color: var(--white);
+  border: none;
+  font-size: var(--font-size-large);
+  font-weight: 500;
+  box-shadow: 0px 7px 18.9px 0px rgba(247, 0, 82, 0.24);
+  transition: all 0.3s ease-in-out;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+  cursor: pointer;
+
+  &::before {
+    white-space: nowrap;
+    width: fit-content;
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(calc(-50% + 32px));
+    color: var(--gray600);
+    font-size: var(--font-size-small);
+    padding: 12px var(--spacing-small);
+    background-color: var(--gray050);
+    border-radius: var(--radius-rounded);
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+    pointer-events: none;
+  }
+
+  .icon {
+    font-variation-settings:
+      "WHGT" 500,
+      "FILL" 1;
+  }
+}
+
+.recording {
+  background-color: var(--gray010);
+  border: 1px solid var(--gray100);
+  color: var(--red900);
+  box-shadow: none;
+
+  &::before {
+    content: "Clique no botão verde para concluir";
+    color: var(--success900);
+    top: -64px;
+    opacity: 1;
+  }
+
+  .icon {
+    animation: pulse 1s linear infinite;
+  }
+}
+
+.processing {
+  background-color: var(--gray100);
+  color: var(--gray500);
+  box-shadow: 0px 7px 18.9px 0px rgba(0, 0, 0, 0.05);
+
+  .icon {
+    animation: spin 1s linear infinite;
+  }
+}
+
+.completed {
+  background-color: var(--success700);
+  box-shadow: 0px 7px 18.9px 0px rgba(0, 247, 82, 0.24);
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+}
+
+@keyframes fade_in {
+  to {
+    top: -64px;
+    opacity: 1;
+  }
+}

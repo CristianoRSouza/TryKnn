@@ -1,0 +1,44 @@
+.container {
+  width: 100%;
+  height: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--spacing-xsmall);
+
+  .step {
+    width: 100%;
+    height: 8px;
+    border-radius: var(--radius-rounded);
+    border: 1px solid var(--gray100);
+    position: relative;
+    transition: all 0.3s ease-in-out;
+
+    span {
+      width: 24px;
+      height: 24px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: var(--blue500);
+      border-radius: var(--radius-circular);
+      color: var(--white);
+      font-size: 22px;
+    }
+  }
+
+  .current {
+    background-color: var(--blue300);
+    border: 1px transparent;
+  }
+
+  .completed {
+    background-color: var(--blue500);
+    border: 1px transparent;
+    height: 24px;
+  }
+}
