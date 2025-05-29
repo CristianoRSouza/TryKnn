@@ -6,7 +6,6 @@ import React from "react";
 
 import type { Viewport } from "next";
 import Script from "next/script";
-import { UtmsProvider } from "@/contexts/UTMContext";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -44,9 +43,7 @@ export default function RootLayout({
             style={{ display: "none", visibility: "hidden" }}
           ></iframe> */}
         </noscript>
-        <UtmsProvider>
-          {children}
-        </UtmsProvider>
+        {children}
       </body>
     </html>
   );

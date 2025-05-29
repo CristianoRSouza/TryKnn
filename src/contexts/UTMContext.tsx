@@ -58,9 +58,6 @@ export const UtmsProvider = ({ children }: { children: React.ReactNode }) => {
     const gclid = params.get("gclid");
     const master_id = params.get("master_id");
     const filled = params.get("filled");
-    const email = params.get("utm_email");
-    const phone = params.get("utm_phone");
-    const name = params.get("utm_name");
 
     // Define os UTMs no estado
     if (master_id) {
@@ -101,22 +98,6 @@ export const UtmsProvider = ({ children }: { children: React.ReactNode }) => {
 
     if (filled) {
       setUtms((prev) => ({ ...prev, filled }));
-    }
-
-    if (email) {
-      setUtms((prev) => ({ ...prev, email }));
-    }
-
-    if (phone) {
-      setUtms((prev) => ({ ...prev, phone }));
-    }
-
-    if (name) {
-      setUtms((prev) => ({ ...prev, name }));
-    }
-
-    if (!email || !phone || !name) {
-      window.location.href = 'not-found'
     }
   }, []);
 
