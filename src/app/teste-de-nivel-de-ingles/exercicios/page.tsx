@@ -41,7 +41,7 @@ const Test = () => {
   return (
     <main className={styles.container}>
       {currentStep === "initial" || currentStep === "final" ? <Form /> : null}
-      {currentStep === "test" && <Sentences sentences={sentences} />}
+      {/* {currentStep === "test" && <Sentences sentences={sentences} />} */}
       {currentStep === "scores" && <Scores />}
     </main>
   );
