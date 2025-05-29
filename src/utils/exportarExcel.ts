@@ -12,7 +12,7 @@ export const exportToExcel = (results: any[]) => {
       "Opção B": options.b.label,
       "Opção C": options.c.label,
       "Opção D": options.d.label,
-      "Resposta Correta": Object.entries(options).find(([, opt]) => opt.correct)?.[1].label,
+      "Resposta Correta": Object.entries(options as Record<string, { label: string; correct: boolean }>).find(([, opt]) => opt.correct)?.[1].label,
       "Correto?": result.correctly ? "Sim" : "Não",
       "Pronúncia": result.pronunciation ?? '',
       "Entonação": result.intonation ?? '',
