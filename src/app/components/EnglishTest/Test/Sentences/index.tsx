@@ -30,11 +30,11 @@ const Sentences = ({
   const [selected, setSelected] = useState<keyof SentenceOption | null>(null);
 
   const handleChange = (optionKey: keyof SentenceOption) => {
-    setSelected(optionKey);
-    console.log(optionKey)
-    const isCorrect = activeSentence.options[optionKey].correct;
-    console.log(`Opção ${optionKey} está ${isCorrect ? 'correta' : 'incorreta'}`);
-    // onSelect(optionKey);
+    if (selected === optionKey) {
+      setSelected(null);
+    } else {
+      setSelected(optionKey);
+    }
   };
 
   const [activeSentence, setActiveSentence] = useState<Sentence>({
@@ -118,6 +118,7 @@ const Sentences = ({
           sentence: sentences[currentExercise].sentence,
         });
       }, 1000);
+      setSelected(null)
     }
   };
 

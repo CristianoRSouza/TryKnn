@@ -3,7 +3,7 @@ import { useTestScores } from "@/contexts/TestScoresContext";
 import ScoreCard from "./ScoreCard";
 import styles from "./styles.module.scss";
 import { CircularProgressbar } from "react-circular-progressbar";
-import { use, useEffect } from "react";
+import { use, useEffect, useState } from "react";
 import { useUserData } from "@/contexts/UserDataContext";
 import Stars from "@public/stars.svg";
 import { useTestFlow } from "@/contexts/TestFlowContext";
@@ -21,11 +21,11 @@ const Scores = ({ isWebComponent, webComponentScores }: ScoresProps) => {
   const { currentStep } = useTestFlow();
   const { testScores: contextScores } = useTestScores();
   const { userData } = useUserData();
+  const [showResult, setShowResult] = useState<boolean>(false);
 
   const testScores = isWebComponent ? webComponentScores : contextScores;
 
   useEffect(() => {
-    console.log(testScores)
     window.scrollTo(0, 0);
   }, []);
 
@@ -76,20 +76,23 @@ const Scores = ({ isWebComponent, webComponentScores }: ScoresProps) => {
     const convertedMessage = encodeURI(message);
     window.open(
       "https://api.whatsapp.com/send?phone=5548998297993&text=" +
-        convertedMessage,
+      convertedMessage,
       "_blank"
     );
   };
 
   const hasApproved = () => testScores.filter((res: any) => res.correctly).length > 11;
+  const correct = () => testScores.filter((res: any) => res.correctly).length;
+  const showResultHandler = () => setShowResult(!showResult);
 
   return (
     <div className={styles.scores}>
       <div className={styles.main__score}>
-        {/* <div className={styles.circle__wrapper}>
+        <div className={styles.circle__wrapper}>
           <CircularProgressbar
-            value={fluencyAverage}
-            text={`${pronunciationAverage}`}
+            value={testScores.length}
+            text={`${correct()}/${20}`}
+            maxValue={20}
             strokeWidth={4}
             styles={{
               path: {
@@ -104,52 +107,54 @@ const Scores = ({ isWebComponent, webComponentScores }: ScoresProps) => {
               },
             }}
           />
-        </div> */}
-        <h2>Você terminou seu Teste</h2>
-        <p>{getTestFeedback(hasApproved())}</p>
-        <Button text="Abrir Avaliação" onClick={() => exportToExcel(testScores)}/>
-      </div>
-      {/* <div className={styles.detailed__scores}>
-        <header>
-          <h4>Pontuação detalhada</h4>
-        </header>
-        <div className={styles.cards}>
-          <ScoreCard
-            score={pronunciationAverage}
-            category="Pronúncia"
-            description={getPronunciationFeedback(pronunciationAverage)}
-          />
-          <ScoreCard
-            score={intonationAverage}
-            category="Entonação"
-            description={getIntoantionFeedback(intonationAverage)}
-          />
-          <ScoreCard
-            maxScore={9}
-            score={ieltsAverage}
-            category="IELTS"
-            description="A nota que você recebeu está relacionada à sua performance na parte de Speaking do teste IELTS. Isso significa que sua habilidade de fala foi avaliada de maneira semelhante ao que seria no teste oficial do IELTS. Continue praticando para aprimorar suas habilidades de comunicação verbal."
-          />
-          <ScoreCard
-            maxScore={30}
-            score={toeflAverage}
-            category="TOEFL"
-            description="A pontuação que você obteve está relacionada à sua performance na parte de Speaking do teste TOEFL. Isso significa que sua habilidade de fala foi avaliada de maneira semelhante ao que seria no teste TOEFL oficial. Continue trabalhando para aprimorar suas habilidades de comunicação oral."
-          />
-          <ScoreCard
-            maxScore={200}
-            score={toeicAverage}
-            category="TOEIC"
-            description="Sua nota reflete sua proficiência na parte de Speaking do teste TOEIC. Isso significa que sua performance nessa seção do teste corresponde à avaliação que você receberia em um teste TOEIC oficial. Continue praticando para desenvolver suas habilidades de expressão verbal."
-          />
-          <ScoreCard
-            maxScore={90}
-            score={pteAverage}
-            category="PTE"
-            description="Sua pontuação está relacionada à sua habilidade de fala avaliada no teste PTE. Isso significa que sua performance no Speaking reflete como você se sairia nessa seção de um teste PTE oficial. Continue se esforçando para melhorar sua comunicação oral."
-          />
         </div>
-      </div> */}
+        <h2>Parabéns por completar o teste</h2>
+        <p>{getTestFeedback(hasApproved())}</p>
+        <Button text="Ver resultado" onClick={() => showResultHandler()} />
+      </div>
+      {showResult && (
+        <div className={styles.detailed__scores}>
+          <header>
+            <h4>Pontuação detalhada</h4>
+          </header>
+          <div className={styles.cards}>
+            <ScoreCard
+              score={pronunciationAverage}
+              category="Pronúncia"
+              description={getPronunciationFeedback(pronunciationAverage)}
+            />
+            <ScoreCard
+              score={intonationAverage}
+              category="Entonação"
+              description={getIntoantionFeedback(intonationAverage)}
+            />
+            <ScoreCard
+              maxScore={9}
+              score={ieltsAverage}
+              category="IELTS"
+              description="A nota que você recebeu está relacionada à sua performance na parte de Speaking do teste IELTS. Isso significa que sua habilidade de fala foi avaliada de maneira semelhante ao que seria no teste oficial do IELTS. Continue praticando para aprimorar suas habilidades de comunicação verbal."
+            />
+            <ScoreCard
+              maxScore={30}
+              score={toeflAverage}
+              category="TOEFL"
+              description="A pontuação que você obteve está relacionada à sua performance na parte de Speaking do teste TOEFL. Isso significa que sua habilidade de fala foi avaliada de maneira semelhante ao que seria no teste TOEFL oficial. Continue trabalhando para aprimorar suas habilidades de comunicação oral."
+            />
+            <ScoreCard
+              maxScore={200}
+              score={toeicAverage}
+              category="TOEIC"
+              description="Sua nota reflete sua proficiência na parte de Speaking do teste TOEIC. Isso significa que sua performance nessa seção do teste corresponde à avaliação que você receberia em um teste TOEIC oficial. Continue praticando para desenvolver suas habilidades de expressão verbal."
+            />
+            <ScoreCard
+              maxScore={90}
+              score={pteAverage}
+              category="PTE"
+              description="Sua pontuação está relacionada à sua habilidade de fala avaliada no teste PTE. Isso significa que sua performance no Speaking reflete como você se sairia nessa seção de um teste PTE oficial. Continue se esforçando para melhorar sua comunicação oral."
+            />
+          </div>
+        </div>
+      )}
       {!isWebComponent && (
         <div className={styles.get__in__touch}>
           <header>

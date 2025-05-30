@@ -30,7 +30,7 @@ export const getFluencyFeedback = (score: number) => {
 
 export const getTestFeedback = (approved: boolean) => {
   if (approved) {
-    return "Parabéns, estamos muito contentes que você alcançou a pontuação necessária para passar para a próxima fase.<br/> Agora é conosco, aguarde o contato com as instruções para a próxima etapa. Enquanto isso, veja o feedback do seu teste";
+    return "Parabéns, estamos muito contentes que você alcançou a pontuação necessária para passar para a próxima fase. Agora é conosco, aguarde o contato com as instruções para a próxima etapa. Enquanto isso, veja o feedback do seu teste";
   };
 
   return "Parabéns, você completou o teste e está no caminho certo. Entendemos que agora não é o melhor momento para se tornar um teacher KNN, e por isso gostaríamos de sugerir que continue seus estudos, e aplique novamente daqui a alguns meses. Para ajudá-lo nesse processo, sugerimos que ler o feedback do seu teste.";
